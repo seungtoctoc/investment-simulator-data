@@ -1,0 +1,6567 @@
+[
+  {
+    "symbol": "USOI",
+    "name": "Credit Suisse X-Links Crude Oil Shares Covered Call ETNs",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "204450.KS",
+    "name": "Samsung Kodex China H Leverage ETF - Equity-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "GOVI",
+    "name": "Invesco Equal Weight 0-30 Years Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBTL",
+    "name": "iShares iBonds Dec 2031 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CLOU",
+    "name": "Global X Cloud Computing ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ACLO",
+    "name": "TCW ETF Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VWOB",
+    "name": "Vanguard Emerging Markets Government Bond Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MUSE",
+    "name": "TCW ETF Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HWAY",
+    "name": "Themes US Infrastructure ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWAW",
+    "name": "AdvisorShares Dorsey Wright FSM All Cap World ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XCNY",
+    "name": "SPDR S&P Emerging Markets ex-China ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VSDA",
+    "name": "VictoryShares Dividend Accelerator ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CFO",
+    "name": "VictoryShares US 500 Enhanced Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DSPC",
+    "name": "AXS De-SPAC ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CLOD",
+    "name": "Themes Cloud Computing ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BMDL",
+    "name": "VictoryShares WestEnd Economic Cycle Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PFM",
+    "name": "Invesco Dividend Achievers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWPP",
+    "name": "First Trust Dorsey Wright People's Portfolio ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "100910.KS",
+    "name": "KOSEF KRX 100",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "VCSH",
+    "name": "Vanguard Short-Term Corporate Bond Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "267490.KS",
+    "name": "KB Asset Management Co., Ltd. - US Treasury Long Bond Futures Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SJIM",
+    "name": "Northern Lights Fund Trust IV - Inverse Cramer Tracker ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "304670.KS",
+    "name": "Samsung Kodex Ultra Treasury Bond Futures Inverse(H) ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BELT",
+    "name": "BlackRock Long-Term U.S. Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AIA",
+    "name": "iShares Asia 50 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTGS",
+    "name": "First Trust Growth Strength ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDT",
+    "name": "First Trust Developed Markets Ex-US AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MEDX",
+    "name": "Horizon Kinetics Medical ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LEGR",
+    "name": "First Trust Indxx Innovative Transaction & Process ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PID",
+    "name": "Invesco International Dividend Achievers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWSH",
+    "name": "AdvisorShares Dorsey Wright Short ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USOY",
+    "name": "Defiance Oil Enhanced Options Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TEKX",
+    "name": "SPDR Galaxy Transformative Tech Accelerators ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BRNY",
+    "name": "Burney U.S. Factor Rotation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JMID",
+    "name": "Janus Henderson Mid Cap Growth Alpha ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TAXE",
+    "name": "Intermediate Municipal Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDFF",
+    "name": "Fidelity Covington Trust - Disruptive Fin ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VGLT",
+    "name": "Vanguard Long-Term Treasury Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WCLD",
+    "name": "WisdomTree Cloud Computing Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HYBX",
+    "name": "TCW ETF Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NDAA",
+    "name": "Ned Davis Research 360 Dynamic Allocation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "227560.KS",
+    "name": "Mirae Asset Tiger 200 Consumer Staples ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SJCP",
+    "name": "SanJac Alpha Core Plus Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AOTG",
+    "name": "AOT Growth and Innovation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PTNQ",
+    "name": "Pacer Trendpilot 100 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "397420.KS",
+    "name": "KBStar FKTB 5-Year ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DGRE",
+    "name": "WisdomTree Emerging Markets Quality Dividend Growth Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HEJD",
+    "name": "VictoryShares Hedged Equity Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "332500.KS",
+    "name": "Kim Kindex 200Totalreturn ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SLNZ",
+    "name": "TCW ETF Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BKWO",
+    "name": "BNY Mellon Women's Opportunities ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GPIX",
+    "name": "Goldman Sachs S&P 500 Core Premium Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NXTG",
+    "name": "First Trust IndXX NextG ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWUS",
+    "name": "AdvisorShares Dorsey Wright FSM US Core ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMW",
+    "name": "Invesco Exchange-Traded Self-Indexed Fund Trust - BulletShares 2032 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BKDV",
+    "name": "BNY Mellon Dynamic Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LCDS",
+    "name": "JPMorgan Fundamental Data Science Large Core ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TEK",
+    "name": "BlackRock ETF Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BGRO",
+    "name": "BlackRock Large Cap Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LFSC",
+    "name": "F/m Emerald Life Sciences Innovation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FID",
+    "name": "First Trust S&P International Dividend Aristocrats Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BLCN",
+    "name": "Siren Nasdaq NexGen Economy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PEPS",
+    "name": "Parametric Equity Plus ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SFLO",
+    "name": "VictoryShares Small Cap Free Cash Flow ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTAG",
+    "name": "First Trust Indxx Global Agriculture ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WCBR",
+    "name": "WisdomTree Cybersecurity Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FNK",
+    "name": "First Trust Mid Cap Value AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QNXT",
+    "name": "iShares Nasdaq-100 ex Top 30 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SJLD",
+    "name": "SanJac Alpha Low Duration ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSPY",
+    "name": "TappAlpha SPY Growth & Daily Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WBND",
+    "name": "Western Asset Total Return ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GXTG",
+    "name": "Global X Thematic Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PSCI",
+    "name": "Invesco S&P SmallCap Industrials ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SQQQ",
+    "name": "ProShares UltraPro Short QQQ",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "STSB",
+    "name": "Stance Sustainable Beta ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MULL",
+    "name": "GraniteShares 2x Long MU Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBTP",
+    "name": "iShares iBonds Dec 2034 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSJO",
+    "name": "Invesco BulletShares 2024 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ISHP",
+    "name": "First Trust S-Network Global E-Commerce ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SMCX",
+    "name": "Defiance Daily Target 2X Long SMCI ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQQJ",
+    "name": "Invesco NASDAQ Next Gen 100 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PDBA",
+    "name": "Invesco Agriculture Commodity Strategy No K-1 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OSLE",
+    "name": "Oaktree Specialty Lending Corpo",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HQGO",
+    "name": "Hartford US Quality Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBGA",
+    "name": "iShares iBonds Dec 2044 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DMXF",
+    "name": "iShares ESG Advanced MSCI EAFE Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SCDS",
+    "name": "JPMorgan Fundamental Data Science Small Core ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UBRL",
+    "name": "GraniteShares 2x Long UBER Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EQIN",
+    "name": "Russell Equity Income ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XOVR",
+    "name": "SPDR BofA ML Crossover Corp Bd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MSFL",
+    "name": "GraniteShares 2x Long MSFT Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CDC",
+    "name": "VictoryShares US EQ Income Enhanced Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "241180.KS",
+    "name": "Mirae Asset Tiger Nikkei225 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ESPO",
+    "name": "VanEck Video Gaming and eSports ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PY",
+    "name": "Principal Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MDCP",
+    "name": "VictoryShares THB Mid Cap ESG ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "371460.KS",
+    "name": "Mirae Asset Management - Tiger China Electric Vehicle Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MCEF",
+    "name": "First Trust Flexible Municipal High Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MODL",
+    "name": "Victoryshares Westend U.S. Sector ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDIG",
+    "name": "Fidelity Crypto Industry and Digital Payments ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "267770.KS",
+    "name": "Mirae Asset Tiger 200 Futures Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CANQ",
+    "name": "Calamos Alternative Nasdaq & Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HFSP",
+    "name": "TradersAI Large Cap Equity & Cash ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MFLX",
+    "name": "First Trust Flexible Municipal High Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DYTA",
+    "name": "SGI Dynamic Tactical ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCY",
+    "name": "Invesco BulletShares 2034 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTSM",
+    "name": "First Trust Enhanced Short Maturity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "174360.KS",
+    "name": "KB KBSTAR China Mainland Large Cap Stock CSI100 Securities ETF Feeder Investment Trust - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ZZZ",
+    "name": "CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TSMX",
+    "name": "Direxion Daily TSM Bull 2X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NVD",
+    "name": "GraniteShares 1.5x Short NVDA Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AMDS",
+    "name": "GraniteShares 1x Short AMD Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MDLX",
+    "name": "Medley LLC SR NT 26",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BTGD",
+    "name": "STKD Bitcoin & Gold ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SNSR",
+    "name": "Global X Internet of Things ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GLOW",
+    "name": "VictoryShares WestEnd Global Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ESGD",
+    "name": "iShares ESG Aware MSCI EAFE ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VCIT",
+    "name": "Vanguard Intermediate-Term Corporate Bond Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBGK",
+    "name": "iShares iBonds Dec 2054 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SOXM",
+    "name": "Tradr 2X Long SOXX Monthly ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSMU",
+    "name": "GraniteShares 2x Long TSM Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FEP",
+    "name": "First Trust Europe AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "104520.KS",
+    "name": "KOSEF Blue Chip",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FJP",
+    "name": "First Trust Japan AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JULH",
+    "name": "Innovator ETFs Trust - Innovator Premium Income 20 Barrier ETF - July",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "237350.KS",
+    "name": "KODEX KOSPI100",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "WGMI",
+    "name": "Valkyrie Bitcoin Miners ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USCL",
+    "name": "iShares Climate Conscious & Transition MSCI USA ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FMET",
+    "name": "Fidelity Metaverse ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "STXT",
+    "name": "Strive Total Return Bond ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EETH",
+    "name": "ProShares Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ETEC",
+    "name": "iShares Trust - iShares Breakthrough Environmental Solutions ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CRWL",
+    "name": "GraniteShares 2x Long CRWD Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SHRY",
+    "name": "First Trust Bloomberg Shareholder Yield ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMY",
+    "name": "Invesco BulletShares 2034 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CTDD",
+    "name": "Qwest Corp. 6.75% NT 57",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EVSD",
+    "name": "Eaton Vance Short Duration Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EMC",
+    "name": "Global X Funds Global X Emerging Markets Great Consumer ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CCNR",
+    "name": "CoreCommodity Natural Resources ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SAB",
+    "name": "Saratoga Investment Corp. NT 23",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "140570.KS",
+    "name": "KB KStar Exporter ETF (Equity)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DIVD",
+    "name": "Altrius Global Dividend ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DFLV",
+    "name": "Dimensional US Large Cap Value ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VMBS",
+    "name": "Vanguard Mortgage-Backed Securities Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ADRD",
+    "name": "Invesco BLDRS Developed Markets 100 ADR Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ESN",
+    "name": "Essential 40 Stock ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BAFE",
+    "name": "Brown Advisory Flexible Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BOTT",
+    "name": "Themes Robotics & Automation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AIYY",
+    "name": "YieldMax AI Option Income Strategy ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PNQI",
+    "name": "Invesco NASDAQ Internet ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DUKX",
+    "name": "Ocean Park International ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "METD",
+    "name": "Direxion Daily META Bear 1X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BITX",
+    "name": "Volatility Shares Trust - 2x Bitcoin Strategy ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "USVN",
+    "name": "The RBB Fund, Inc. - US Treasury 7 Year Note ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "319870.KS",
+    "name": "KB Kbstar Krx300 Usd Futures Balanced ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FCAL",
+    "name": "First Trust California Municipal High Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KROP",
+    "name": "Global X AgTech & Food Innovation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "150460.KS",
+    "name": "Mirae Asset TIGER China Consumer ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "XMAG",
+    "name": "Defiance Large Cap ex-Mag 7 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMS",
+    "name": "Invesco BulletShares (R) 2028 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VGIT",
+    "name": "Vanguard Intermediate-Term Treasury Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "183700.KS",
+    "name": "KB KBSTAR Bond Balanced Securities ETF Investment Trust - Bond Balanced-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "302180.KS",
+    "name": "Mirae Asset Tiger KTB 10 year Futures Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "NVDL",
+    "name": "GraniteShares 1.5x Long NVDA Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ARVR",
+    "name": "First Trust Indxx Metaverse ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HYXF",
+    "name": "iShares ESG Advanced High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BUXX",
+    "name": "Strive Enhanced Income Short Maturity ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BSMM",
+    "name": "Invesco BulletShares (R) 2022 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LQAI",
+    "name": "Exchange Listed Funds Trust - LG Qraft AI-Powered U.S. Large Cap Core ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RSPN",
+    "name": "Invesco S&P 500 Equal Weight Industrials ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PLC",
+    "name": "Principal U.S. Large-Cap Multi-Factor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NIKL",
+    "name": "Sprott Nickel Miners ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SKOR",
+    "name": "FlexShares Credit-Scored US Corporate Bond Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DFGR",
+    "name": "Dimensional Global Real Estate ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RSPT",
+    "name": "Invesco S&P 500 Equal Weight Technology ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "276000.KS",
+    "name": "Mirae Asset TIGER Synth-Morningstar Global Upstream Natural Resources(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AGMI",
+    "name": "Themes Silver Miners ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSJW",
+    "name": "Invesco BulletShares 2032 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSVO",
+    "name": "Ea Series Trust - Ea Bridgeway Omni Small Cap Value Etf Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LVHD",
+    "name": "Franklin U.S. Low Volatility High Dividend Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IEF",
+    "name": "iShares 7-10 Year Treasury Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ROE",
+    "name": "Astoria US Equal Weight Quality Kings ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WIZ",
+    "name": "Alpha Architect Merlyn.AI Bull-Rider Bear-Fighter ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NZAC",
+    "name": "SPDR MSCI ACWI Climate Paris Aligned ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IGCB",
+    "name": "TCW ETF Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TTEQ",
+    "name": "T. Rowe Price Technology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QTOP",
+    "name": "iShares Nasdaq Top 30 Stocks ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AAPD",
+    "name": "Direxion Daily AAPL Bear 1X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VCRB",
+    "name": "Vanguard Core Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "METU",
+    "name": "Direxion Daily META Bull 2X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USFI",
+    "name": "Brandywineglobal-U.S. Fixed Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QCLR",
+    "name": "Global X NASDAQ 100 Collar 95-110 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "365040.KS",
+    "name": "Mirae Asset Maps Management - Tiger AI Korea Growth Active ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "NSCR",
+    "name": "Nuveen Sustainable Core ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XAIX",
+    "name": "Xtrackers Artificial Intelligence and Big Data ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PTIR",
+    "name": "GraniteShares 2x Long PLTR Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "379780.KS",
+    "name": "Kb Asset Management Co Ltd. - Kb Star S and P 500 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EFAS",
+    "name": "Global X MSCI SuperDividend EAFE ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QYLE",
+    "name": "Global X Funds - Global X Nasdaq 100 ESG Covered Call ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NIXT",
+    "name": "Research Affiliates Deletions ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FLXR",
+    "name": "TCW ETF Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AVXC",
+    "name": "Avantis Emerging Markets ex-China Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YQQQ",
+    "name": "YieldMax Short N100 Option Income Strategy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSLW",
+    "name": "Tradr 1.5X Long TSLA Weekly ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "137930.KS",
+    "name": "Midas KOSPI 200 Covered Call ETF - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "USXF",
+    "name": "iShares ESG Advanced MSCI USA ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VETS",
+    "name": "Pacer Military Times Best Employers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "287320.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Industrials ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "269540.KS",
+    "name": "Hanwha Investment Trust Management - Arirang S&P 500 ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "237440.KS",
+    "name": "Mirae Asset Tiger Consumer Goods Balanced ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "VBB",
+    "name": "Valkyrie Balance Sheet Opportunities ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "282000.KS",
+    "name": "KB Asset Management Co., Ltd. - KB Star KTB 3 Year Futures Inverse ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "279530.KS",
+    "name": "Samsung Investment Trust Management - Samsung Kodex High Dividend ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PSCF",
+    "name": "Invesco S&P SmallCap Financials ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "244620.KS",
+    "name": "KODEX KRW Cash PLUS",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "228820.KS",
+    "name": "Mirae Asset Tiger KTOP 30 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SMHX",
+    "name": "VanEck Fabless Semiconductor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSSX",
+    "name": "Invesco BulletShares 2033 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FCTE",
+    "name": "SMI 3Fourteen Full-Cycle Trend ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "266160.KS",
+    "name": "KB Asset Management Co. Ltd - KBStar High Dividend ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "365000.KS",
+    "name": "Mirae Asset Maps Management - Tiger KRX Internet K-New Deal ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "NVDW",
+    "name": "Tradr 1.75X Long NVDA Weekly ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FLN",
+    "name": "First Trust Latin America AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EVMT",
+    "name": "Invesco Electric Vehicle Metals Commodity Strategy No K-1 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AETH",
+    "name": "Bitwise Funds Trust",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MQQQ",
+    "name": "Tradr 2X Long Triple Q Monthly ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MMKT",
+    "name": "Texas Capital Government Money Market ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ETHA",
+    "name": "iShares Ethereum Trust ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JGLO",
+    "name": "JPMorgan Global Select Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWMC",
+    "name": "AdvisorShares Dorsey Wright Micro-Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "176710.KS",
+    "name": "Kyobo Axa Asset Management - Power Ktb Etf Bond",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "360750.KS",
+    "name": "Mirae Asset Maps Management - Mirae Asset Tiger S&P500 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "270810.KS",
+    "name": "Kb Kbstar Kosdaq150 Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FEMS",
+    "name": "First Trust Emerging Markets Small Cap AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "304660.KS",
+    "name": "Samsung Kodex Ultra Treasury Bond Futures(H) ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "KNGZ",
+    "name": "First Trust S&P 500 Diversified Dividend Aristocrats ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQQW",
+    "name": "Tradr 2X Long Triple Q Weekly ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VGSH",
+    "name": "Vanguard Short-Term Treasury Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SOGU",
+    "name": "AXS Short De-SPAC Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSDD",
+    "name": "GraniteShares 1.5x Short TSLA Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EMXC",
+    "name": "iShares MSCI Emerging Markets ex China ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "337160.KS",
+    "name": "Samsung Kodex 200 ESG ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "381180.KS",
+    "name": "Mirae Asset Maps Management - Tiger PHLX Semiconductor Sector Nasdaq ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AQWA",
+    "name": "Global X Clean Water ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "292750.KS",
+    "name": "Hanwha ARIRANG KRX300 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FVI",
+    "name": "First Trust Total US Market AlphaDEX ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DYFI",
+    "name": "IDX Dynamic Fixed Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BITS",
+    "name": "Global X Blockchain & Bitcoin Strategy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "152380.KS",
+    "name": "Kodex 10Y F-LKTB",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MCHS",
+    "name": "Matthews China Discovery Active ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BIGB",
+    "name": "Roundhill BIG Bank ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HEWG",
+    "name": "iShares Currency Hedged MSCI Germany ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSJP",
+    "name": "Invesco BulletShares 2025 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CLRG",
+    "name": "IQ Chaikin U.S. Large Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "261140.KS",
+    "name": "Mirae Asset Tiger Preferred Stock ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSJU",
+    "name": "Invesco Bulletshares 2030 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTA",
+    "name": "First Trust Large Cap Value AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "227550.KS",
+    "name": "Mirae Asset Tiger 200 Industrials ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SARK",
+    "name": "AXS Short Innovation Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "102780.KS",
+    "name": "KODEX Samsung Group",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FMK",
+    "name": "First Trust Mega Cap AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AVGX",
+    "name": "Defiance Daily Target 2X Long AVGO ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OCTA",
+    "name": "Tidal Trust II - Octane All-Cap Value Energy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "140950.KS",
+    "name": "Kyobo AXA Power K100 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EMCB",
+    "name": "WisdomTree Emerging Markets Corporate Bond Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BKCH",
+    "name": "Global X Blockchain ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "091180.KS",
+    "name": "Kodex Autos",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DALI",
+    "name": "First Trust Dorsey Wright DALI 1 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BUG",
+    "name": "Global X Cybersecurity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "219480.KS",
+    "name": "KODEX S&P500 Futures(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "122260.KS",
+    "name": "KOSEF MSB",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IFEU",
+    "name": "iShares Europe Developed Real Estate ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SPYM",
+    "name": "Tradr 2X Long SPY Monthly ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "291620.KS",
+    "name": "Kiwoom Asset Management - Kosef Kosdaq 150 Futures Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "236350.KS",
+    "name": "Mirae Asset Tiger Synth-India Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "371470.KS",
+    "name": "Mirae Asset Management - Tiger China Biotech Solactive ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PFI",
+    "name": "Invesco DWA Financial Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQQG",
+    "name": "Pacer Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "285020.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Steels & Materials ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "JMPD",
+    "name": "JMP Group LLC 7.25% SR NT 27",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "XT",
+    "name": "iShares Exponential Technologies ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "291130.KS",
+    "name": "Korea Investment Trust Management - Kim Kindex MSCI Mexico ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EWJV",
+    "name": "iShares MSCI Japan Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EMIF",
+    "name": "iShares Emerging Markets Infrastructure ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SPAM",
+    "name": "Themes Cybersecurity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VCLT",
+    "name": "Vanguard Long-Term Corporate Bond Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "306530.KS",
+    "name": "NH Amundi Asset Management - Hanaro Kosdaq 150 Futures Leverage ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSCU",
+    "name": "Invesco BulletShares 2030 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QXQ",
+    "name": "SGI Enhanced Nasdaq-100 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTC",
+    "name": "First Trust Large Cap Growth AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DECO",
+    "name": "Spdr Galaxy Digital Asset Ecosystem Etf",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FICS",
+    "name": "First Trust International Developed Cap Strength ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NSI",
+    "name": "National Security Emerging Markets Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "139320.KS",
+    "name": "Mirae Asset TIGER Precious Metals Futures ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AGIX",
+    "name": "KraneShares Artificial Intelligence & Technology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USDX",
+    "name": "SGI Enhanced Core ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "114260.KS",
+    "name": "Samsung Kodex Treasury Bond Securities ETF - Bonds",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ESGU",
+    "name": "iShares ESG Aware MSCI USA ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBBQ",
+    "name": "Invesco Nasdaq Biotechnology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "292770.KS",
+    "name": "Samsung KODEX Treasury Bond 3-year Inverse Securities Listing Index Investment Trust",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "VTIP",
+    "name": "Vanguard Short-Term Inflation-Protected Securities Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FATT",
+    "name": "Fat Tail Risk ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BCHP",
+    "name": "Principal Focused Blue Chip ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "152870.KS",
+    "name": "Kyobo AXA Power K200 Securities ETF Investment Trust - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "267450.KS",
+    "name": "KB Asset Management Co., Ltd. - US Treasury Long Bond Futures Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BUFC",
+    "name": "AB Conservative Buffer ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IPKW",
+    "name": "Invesco International BuyBack Achievers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UCYB",
+    "name": "ProShares Ultra Nasdaq Cybersecurity",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TBG",
+    "name": "TBG Dividend Focus ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "208470.KS",
+    "name": "Shinhan Bnpp Smart Synth-Msci Developed Market Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "RSPH",
+    "name": "Invesco S&P 500 Equal Weight Health Care ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QCLN",
+    "name": "First Trust NASDAQ Clean Edge Green Energy Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PGJ",
+    "name": "Invesco Golden Dragon China ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSLL",
+    "name": "Direxion Daily TSLA Bull 1.5X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MCHI",
+    "name": "iShares MSCI China ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBTD",
+    "name": "iShares iBonds Dec 2023 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "289040.KS",
+    "name": "Samsung Investment Trust Management - Kodex MSCI Korea ESG Universal ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SNUG",
+    "name": "Alpha Architect Merlyn.AI Tactical Growth and Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBTG",
+    "name": "iShares iBonds Dec 2026 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "COPP",
+    "name": "Sprott Copper Miners ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SWEB",
+    "name": "AXS Short China Internet ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EVTR",
+    "name": "Eaton Vance Total Return Bond ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "226980.KS",
+    "name": "KODEX 200 Mid-Small",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MAGQ",
+    "name": "Roundhill Daily Inverse Magnificent Seven ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "130680.KS",
+    "name": "Mirae Asset TIGER WTI Futures ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "STXV",
+    "name": "Strive 1000 Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GGLL",
+    "name": "Direxion Daily GOOGL Bull 1.5X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QBUF",
+    "name": "Innovator Nasdaq-100 10 Buffer ETF Quarterly",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UFO",
+    "name": "Procure Space ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EWJE",
+    "name": "iShares MSCI Japan Equal Weighted ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EMEQ",
+    "name": "Macquarie Focused Emerging Markets Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "105780.KS",
+    "name": "KB KBSTAR Top5 Group Securities ETF Investment Fund - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "OPTZ",
+    "name": "Optimize Strategy Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VZA",
+    "name": "Verizon Communications, 5.9% 15 Feb 2054",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IVAL",
+    "name": "Alpha Architect International Quantitative Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AAPB",
+    "name": "GraniteShares ETF Trust - GraniteShares 2x Long Tilray Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WEEI",
+    "name": "Westwood Salient Enhanced Energy Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "139240.KS",
+    "name": "Mirae Asset TIGER Steels & Materials ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "JPEF",
+    "name": "JPMorgan Equity Focus ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FPA",
+    "name": "First Trust Asia Pacific Ex-Japan AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CEZ",
+    "name": "VictoryShares Emerging Market Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FPXE",
+    "name": "First Trust IPOX Europe Equity Opportunities ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "217790.KS",
+    "name": "Mirae Asset TIGER CONTRARIAN ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DVAL",
+    "name": "BrandywineGLOBAL Dynamic U.S. Large Cap Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "102970.KS",
+    "name": "Samsung Kodex Securities ETF - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SKYU",
+    "name": "ProShares Ultra Cloud Computing",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CA",
+    "name": "DBX Etf Trust - Xtrackers California Municipal Bond Etf",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTHI",
+    "name": "First Trust BuyWrite Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CTEC",
+    "name": "Global X CleanTech ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FPXI",
+    "name": "First Trust International Equity Opportunities ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PBY",
+    "name": "Prospect Capital Corporation",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KQQQ",
+    "name": "Kurv Technology Titans Select ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "256750.KS",
+    "name": "KODEX SYNTH-ChiNext",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ENZL",
+    "name": "iShares MSCI New Zealand ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWAQ",
+    "name": "Invesco DWA NASDAQ Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RSPR",
+    "name": "Invesco S&P 500 Equal Weight Real Estate ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KEJI",
+    "name": "Global X China Innovation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FINE",
+    "name": "Themes European Luxury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AIPI",
+    "name": "REX AI Equity Premium Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "104530.KS",
+    "name": "KOSEF High Dividend",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CACG",
+    "name": "ClearBridge All Cap Growth ESG ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SUSL",
+    "name": "iShares ESG MSCI USA Leaders ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CIRC",
+    "name": "JPMorgan Sustainable Consumption ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MSTX",
+    "name": "Defiance Daily Target 1.75x Long MSTR ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BRHY",
+    "name": "BlackRock High Yield ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ADRE",
+    "name": "Invesco BLDRS Emerging Markets 50 ADR Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "105190.KS",
+    "name": "KIMC KINDEX200 Securities Exchange Traded Investment Trust",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FKU",
+    "name": "First Trust United Kingdom AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VALX",
+    "name": "Validea Market Legends ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQQT",
+    "name": "Defiance Nasdaq 100 Income Target ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JKI",
+    "name": "iShares Morningstar Mid-Cap Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQQ",
+    "name": "Invesco QQQ Trust",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "159800.KS",
+    "name": "Dongbu Mighty K100 Securities ETF - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "UPGR",
+    "name": "Xtrackers US Green Infrastructure Select Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "299070.KS",
+    "name": "Korea Investment Trust Management- Kim Kindex LKTB Futures Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "QQQS",
+    "name": "Invesco NASDAQ Future Gen 200 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "290130.KS",
+    "name": "Kb Asset Management Co Ltd - kbstar esg sri ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FTXH",
+    "name": "First Trust Nasdaq Pharmaceuticals ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EHLS",
+    "name": "Even Herd Long Short ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMT",
+    "name": "Invesco BulletShares 2029 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "152100.KS",
+    "name": "Arirang 200 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "181480.KS",
+    "name": "KINDEX Synth- Dow Jones US Real Estate (H) ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "HISF",
+    "name": "First Trust High Income Strategic Focus ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "316300.KS",
+    "name": "Korea Investment Trust management - Kindex Singapore Reits Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "275980.KS",
+    "name": "Mirae Asset TIGER Synth-Morningstar Global Exponential Technology(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "275290.KS",
+    "name": "KODEX MSCI Value",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "LIVR",
+    "name": "Intelligent Livermore ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "279540.KS",
+    "name": "Samsung Investment Trust Management - Samsung Kodex Minimum Volitality ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DXJS",
+    "name": "WisdomTree Japan Hedged SmallCap Equity Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DTJ",
+    "name": "DTE Energy Company JR SUB DEB 76",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NETZ",
+    "name": "Engine No. 1 Transform Climate ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SOXW",
+    "name": "Tradr 2X Long SOXX Weekly ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "272220.KS",
+    "name": "Kim Kindex Smart Momentum Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FAAR",
+    "name": "First Trust Alternative Absolute Return Strategy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "226490.KS",
+    "name": "KODEX KOSPI",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "292730.KS",
+    "name": "Hi Focus KRX300 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSML",
+    "name": "Invesco Exchange-Traded Self-Indexed Fund Trust - Invesco BulletShares 2021 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NCPB",
+    "name": "Nuveen Core Plus Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GSIB",
+    "name": "Themes Global Systemically Important Banks ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FEPI",
+    "name": "REX FANG & Innovation Equity Premium Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NUCL",
+    "name": "VanEck Uranium and Nuclear Tech UCITS ETF USD A",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "114470.KS",
+    "name": "KOSEF KTB",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "140580.KS",
+    "name": "KStar Prime Industry ETF (Equity)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "185680.KS",
+    "name": "Kodex Synth US Biotech",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MDIV",
+    "name": "Multi-Asset Diversified Income Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TPVY",
+    "name": "TriplePoint Venture Growth BDC Corp.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "196030.KS",
+    "name": "KINDEX Japan Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FBZ",
+    "name": "First Trust Brazil AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FNX",
+    "name": "First Trust Mid Cap Core AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCP",
+    "name": "Invesco BulletShares 2025 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "243880.KS",
+    "name": "Mirae Asset Tiger 200 IT Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IUS",
+    "name": "Invesco RAFI Strategic US ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FINX",
+    "name": "Global X FinTech ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "248270.KS",
+    "name": "Mirae Asset Tiger Synth-Global Healthcare ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "QVAL",
+    "name": "Alpha Architect U.S. Quantitative Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "292190.KS",
+    "name": "Samsung KODEX KRX300 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "GRID",
+    "name": "First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "POTX",
+    "name": "Global X Cannabis ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MILN",
+    "name": "Global X Millennials Consumer ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BMLP",
+    "name": "BMO Dorsey Wright MLP Index Exchange Traded Notes",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDNI",
+    "name": "First Trust Dow Jones International Internet ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FLDB",
+    "name": "Fidelity Low Duration Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "329660.KS",
+    "name": "Samsung Kodex TRF5050 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "LDSF",
+    "name": "First Trust Low Duration Strategic Focus ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AIRL",
+    "name": "Themes Airlines ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LMHA",
+    "name": "Legg Mason, Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "306950.KS",
+    "name": "Samsung KODEX KRX300 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "RTH",
+    "name": "VanEck Retail ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YLDE",
+    "name": "ClearBridge Dividend Strategy ESG ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "322120.KS",
+    "name": "Kim Kindex Smart Quality ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "QYLG",
+    "name": "Global X Nasdaq 100 Covered Call & Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "295000.KS",
+    "name": "KB Asset Management - KB KBSTAR KTB 10Y Futures ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSJM",
+    "name": "Invesco BulletShares 2022 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZBK",
+    "name": "Zions Bancorporation SUB NT FX/FLT 28",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "MBB",
+    "name": "iShares MBS ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CATH",
+    "name": "Global X S&P 500 Catholic Values ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QMOM",
+    "name": "Alpha Architect U.S. Quantitative Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ISEM",
+    "name": "Invesco RAFI Strategic Emerging Markets ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GNOM",
+    "name": "Global X Genomics & Biotechnology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QHDG",
+    "name": "Innovator Hedged Nasdaq-100 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "285690.KS",
+    "name": "VI Focus ESG Leaders150 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "RNEW",
+    "name": "VanEck Green Infrastructure ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BTF",
+    "name": "Valkyrie Bitcoin Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SMST",
+    "name": "Defiance Daily Target 1.5x Short MSTR ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CCSB",
+    "name": "Carbon Collective Short Duration Green Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "368680.KS",
+    "name": "Samsung Kodex Fn K-New Deal Digital Plus ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IMOM",
+    "name": "Alpha Architect International Quantitative Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQXT",
+    "name": "First Trust NASDAQ-100 Ex-Technology Sector Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SETM",
+    "name": "Sprott Energy Transition Materials ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQA",
+    "name": "Invesco QQQ Income Advantage ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "305540.KS",
+    "name": "Mirae Asset Management - Tiger Secondary Battery ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "271050.KS",
+    "name": "KODEX WTI CrudeOil Futures Inverse(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PATN",
+    "name": "Pacer Nasdaq International Patent Leaders ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDIV",
+    "name": "First Trust Strategic Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "280940.KS",
+    "name": "Samsung Investment Trust Management - Kodex Gold Inverse Futures ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MCSE",
+    "name": "Martin Currie Sustainable International Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSJS",
+    "name": "Invesco BulletShares 2028 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "122630.KS",
+    "name": "Kodex Leverage",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "VONE",
+    "name": "Vanguard Russell 1000 Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MAGX",
+    "name": "Roundhill Daily 2X Long Magnificent Seven ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VIIZ",
+    "name": "VelocityShares VIX MT ETN",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ABCS",
+    "name": "Alpha Blue Capital US Small-Mid Cap Dynamic ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XFIX",
+    "name": "F/m Opportunistic Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FBL",
+    "name": "GraniteShares 1.5x Long META Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "REAI",
+    "name": "Tidal ETF Trust - Intelligent Real Estate ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SCZ",
+    "name": "iShares MSCI EAFE Small-Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "364990.KS",
+    "name": "Mirae Asset Maps Management - KRX Tiger Game K-New Deal ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MCDS",
+    "name": "JPMorgan Fundamental Data Science Mid Core ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NVDS",
+    "name": "AXS 1.25X NVDA Bear Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTRI",
+    "name": "First Trust Indxx Global Natural Resources Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BLLD",
+    "name": "JPMorgan Sustainable Infrastructure ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "256440.KS",
+    "name": "KINDEX MSCI Indonesia ETF(Synth)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "314250.KS",
+    "name": "Samsung Investment Trust Management - Samsung Kodex Fang Plus ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IGIB",
+    "name": "iShares 5-10 Year Investment Grade Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "157490.KS",
+    "name": "Mirae Asset TIGER Software ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "123320.KS",
+    "name": "Mirae Asset TIGER Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SMRI",
+    "name": "Bushido Capital US Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "284430.KS",
+    "name": "Samsung Investment Trust Management - Kodex 200 US Treasury Notes Balanced ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PXI",
+    "name": "Invesco DWA Energy Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBTO",
+    "name": "Ishares Ibonds Dec 2033 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "266370.KS",
+    "name": "KODEX IT Hardware",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CONI",
+    "name": "GraniteShares 1x Short COIN Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "253160.KS",
+    "name": "Hanwha Arirang200 Future Inverse 2X Securities ETF Investment Trust - Equity-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FTXG",
+    "name": "First Trust Nasdaq Food & Beverage ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBOT",
+    "name": "VanEck ETF Trust - VanEck Robotics ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SPCX",
+    "name": "AXS SPAC and New Issue ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTGC",
+    "name": "First Trust Global Tactical Commodity Strategy Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DCAP",
+    "name": "Unity Wealth Partners Dynamic Capital Appreciation & Options ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EUFN",
+    "name": "iShares MSCI Europe Financials ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCV",
+    "name": "Invesco BulletShares 2031 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MAGS",
+    "name": "Roundhill Magnificent Seven ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "153270.KS",
+    "name": "KOSEF 100",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "322400.KS",
+    "name": "NH-Amundi Hanaro E-Commerce ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AEH",
+    "name": "Aegon N.V. PRP CP SEC 6.375",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "INFR",
+    "name": "Legg Mason Global Infrastructure ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "261220.KS",
+    "name": "KODEX WTI CrudeOil Futures(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SLIM",
+    "name": "The Obesity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HCOW",
+    "name": "Amplify Cash Flow High Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PSTR",
+    "name": "PeakShares Sector Rotation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "192720.KS",
+    "name": "Kyobo Axa Power LVHD ETF - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PSCU",
+    "name": "Invesco S&P SmallCap Utilities & Communication Services ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MAXI",
+    "name": "Simplify Bitcoin Strategy PLUS Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "123310.KS",
+    "name": "Mirae Asset TIGER Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IBTB",
+    "name": "iShares iBonds Dec 2022 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "117460.KS",
+    "name": "Kodex Energy & Chemicals",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "HYLS",
+    "name": "First Trust Tactical High Yield ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "140700.KS",
+    "name": "Samsung Investment Trust - Kodex Insurance ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "105010.KS",
+    "name": "Mirae Asset TIGER Latin ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "225130.KS",
+    "name": "KINDEX Gold Futures Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AIRR",
+    "name": "First Trust RBA American Industrial RenaissanceTM ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "STXM",
+    "name": "Strive Mid-Cap ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QABA",
+    "name": "First Trust NASDAQ ABA Community Bank Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BYOB",
+    "name": "SoFi Be Your Own Boss ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USLV",
+    "name": "VelocityShares 3x Long Silver ETN Linked to the S&P GSCI Silver Index ER",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SAF",
+    "name": "Saratoga Investment Corp 6.25% ",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "261120.KS",
+    "name": "Mirae Asset Tiger US Dollar Inverse 2X ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "WALA",
+    "name": "Western Alliance Bancorporation SUB DEBENTURS 56",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "280320.KS",
+    "name": "KINDEX US Internet ETF(Synth H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "169950.KS",
+    "name": "Kodex FTSE China A50 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "230480.KS",
+    "name": "Kiwoom KOSEF USD Futures Inverse 2X Special Assets ETF Investment Trust - USD-Derivatives (Synth)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "371160.KS",
+    "name": "Mirae Asset Management - Tiger China Hang Seng Tech ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "JULD",
+    "name": "Innovator ETFs Trust - Innovator Premium Income 10 Barrier ETF - July",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SOJA",
+    "name": "The Southern Company JR SUB NT 2015A",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BULD",
+    "name": "Pacer BlueStar Engineering the Future ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "069660.KS",
+    "name": "KOSEF 200",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FYC",
+    "name": "First Trust Small Cap Growth AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "360200.KS",
+    "name": "Kim Kindex S&P 500 Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BEEZ",
+    "name": "Honeytree U.S. Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MDST",
+    "name": "Westwood Salient Enhanced Midstream Income ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DAX",
+    "name": "Global X DAX Germany ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "YLCO",
+    "name": "Global X YieldCo & Renewable Energy Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PYS",
+    "name": "PPlus Trust Series RRD-1 RRD-1 CTF CL A",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HERD",
+    "name": "Pacer Cash Cows Fund of Funds ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XDNA",
+    "name": "Kelly CRISPR & Gene Editing Technology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "291630.KS",
+    "name": "Kiwoom Asset Management - Kosef Kosdaq 150 Futures Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "225030.KS",
+    "name": "Mirae Asset Tiger S&P500 Inverse ETF(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "136340.KS",
+    "name": "KStar Credit Bond ETF (Bond)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ECCY",
+    "name": "Eagle Point Credit Company Inc. 6.75% NT DE 2027",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HYDR",
+    "name": "Global X Hydrogen ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "227540.KS",
+    "name": "Mirae Asset Tiger 200 Health Care ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MNTL",
+    "name": "Tema Neuroscience and Mental Health ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KEAT",
+    "name": "Keating Active ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ANGL",
+    "name": "VanEck Fallen Angel High Yield Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "157500.KS",
+    "name": "Mirae Asset TIGER Securities ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TUSA",
+    "name": "First Trust Dividend Strength ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "322130.KS",
+    "name": "Kim Kindex Smart Low Volatility ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ILIT",
+    "name": "iShares Lithium Miners and Producers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "302170.KS",
+    "name": "Mirae Asset Tiger KTB 3 year Futures Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "153130.KS",
+    "name": "KODEX KRW Cash",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IBTK",
+    "name": "iShares iBonds Dec 2030 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "300610.KS",
+    "name": "MAPS MIRAE Asset Tiger K-GAME ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "328370.KS",
+    "name": "Hanwha Arirang Kospi Total Return Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "145670.KS",
+    "name": "Kindex Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "220130.KS",
+    "name": "Shinhan BNPP SMART Synth-China Mainland Small & Mid cap CSI500 ETF(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "HIDE",
+    "name": "Alpha Architect High Inflation And Deflation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "091160.KS",
+    "name": "Kodex Semicon",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "233160.KS",
+    "name": "Mirae Asset Tiger KOSDAQ150 Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "261070.KS",
+    "name": "Mirae Asset KOSDAQ150Biotech ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PIE",
+    "name": "Invesco DWA Emerging Markets Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "200250.KS",
+    "name": "Kiwoom Kosef Synth-CNX NIFTY India Securities ETF (H) - Equity-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IQQQ",
+    "name": "ProShares Nasdaq-100 High Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KOR",
+    "name": "Corvus Gold Inc.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WNDY",
+    "name": "Global X Wind Energy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DAM",
+    "name": "VanEck Digital Assets Mining ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USCF",
+    "name": "Themes US Cash Flow Champions ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FIXT",
+    "name": "Procure Disaster Recovery Strategy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AUMI",
+    "name": "Themes Gold Miners ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "139260.KS",
+    "name": "Mirae Asset TIGER IT ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EVLMC",
+    "name": "Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IEI",
+    "name": "iShares 3-7 Year Treasury Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VFLO",
+    "name": "VictoryShares Free Cash Flow ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PABU",
+    "name": "iShares Paris-Aligned Climate MSCI USA ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "273140.KS",
+    "name": "KODEX Active FRN",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "195980.KS",
+    "name": "Hanwha Arirang Synth MSCI Emerging Markets ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ECOW",
+    "name": "Pacer Emerging Markets Cash Cows 100 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SDVY",
+    "name": "First Trust SMID Cap Rising Dividend Achievers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DIP",
+    "name": "Btd Capital Fund",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "099140.KS",
+    "name": "KODEX China H",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "167860.KS",
+    "name": "KOSEF 10yr KTB Leverage",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EQRR",
+    "name": "ProShares Equities for Rising Rates ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ISTB",
+    "name": "iShares Core 1-5 Year USD Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QTEC",
+    "name": "First Trust NASDAQ-100-Technology Sector Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VRIG",
+    "name": "Invesco Variable Rate Investment Grade ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RFEM",
+    "name": "First Trust RiverFront Dynamic Emerging Markets ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PRN",
+    "name": "Invesco DWA Industrials Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "298340.KS",
+    "name": "Hanwha Investment Trust Management - Arirang KTB 3 Year Futures ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SMCF",
+    "name": "Themes US Small Cap Cash Flow Champions ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BNDX",
+    "name": "Vanguard Total International Bond Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LGRO",
+    "name": "ALPS ETF Trust - Level Four Large Cap Growth Active ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "166400.KS",
+    "name": "Mirae Asset TIGER200 Covered Call 5% OTM ETF - Equity - Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CLOA",
+    "name": "BlackRock ETF Trust II - BlackRock AAA CLO ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "COMT",
+    "name": "iShares GSCI Commodity Dynamic Roll Strategy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KMPA",
+    "name": "Kemper Corporation SUB NT 54",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "GPRF",
+    "name": "Goldman Sachs Access U.S. Preferred Stock and Hybrid Securities ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "217780.KS",
+    "name": "Mirae Asset Tiger SYNTH-China A Inverse",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SPRX",
+    "name": "Spear Alpha ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PIZ",
+    "name": "Invesco DWA Developed Markets Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "117680.KS",
+    "name": "KODEX Steels",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "156080.KS",
+    "name": "KODEX MSCI Korea",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PLW",
+    "name": "Invesco 1-30 Laddered Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BTFX",
+    "name": "Valkyrie Bitcoin Futures Leveraged Strategy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "301410.KS",
+    "name": "Hanwha Arirang KOSDAQ-150 Futures Inverse Securities Listing Index Investment Trust",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "NKEL",
+    "name": "AXS 2X NKE Bull Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GENY",
+    "name": "Principal Millennial Global Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "250730.KS",
+    "name": "KB KBSTAR China H-Share Securities ETF Investment Trust - Equity-Derivatives(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "VXUS",
+    "name": "Vanguard Total Intl Stock Idx Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "289670.KS",
+    "name": "Hanwha Investment Trust Management - Arirang KTB 10 Year Futures ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "266390.KS",
+    "name": "KODEX Consumer Discretionary",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "364980.KS",
+    "name": "Mirae Asset Maps Management - Tiger KRX Secondary Battery K-New Deal ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "117700.KS",
+    "name": "KODEX Constructions",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "UTWO",
+    "name": "US Treasury 2 Year Note ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DRIV",
+    "name": "Global X Autonomous & Electric Vehicles ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "COWG",
+    "name": "Pacer US Large Cap Cash Cows Growth Leaders ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BOTZ",
+    "name": "Global X Robotics & Artificial Intelligence ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "261920.KS",
+    "name": "KINDEX MSCI Philippines ETF(Synth)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EBIZ",
+    "name": "Global X E-commerce ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSJT",
+    "name": "Invesco BulletShares 2029 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBAT",
+    "name": "iShares Energy Storage & Materials ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BKIV",
+    "name": "BNY Mellon Innovators ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBIT",
+    "name": "iShares Bitcoin Trust",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMU",
+    "name": "Invesco BulletShares 2030 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSLI",
+    "name": "GraniteShares ETF Trust - GraniteShares 2x Long NIO Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "292050.KS",
+    "name": "KB Asset Management Co. Ltd. - KB KBStar KRX300 ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "272560.KS",
+    "name": "Kb Kbstar Short Term Ktb Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SMCP",
+    "name": "AlphaMark Actively Managed Small Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "138230.KS",
+    "name": "KOSEF US Dollar",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "291680.KS",
+    "name": "KB Asset Management - KBSTAR China H Futures Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "139310.KS",
+    "name": "Mirae Asset TIGER Industrial Metal Futures ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "278530.KS",
+    "name": "Samsung Kodex 200 Total Return ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "325020.KS",
+    "name": "Samsung Kodex Dividend Value Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AMDL",
+    "name": "GraniteShares 2x Long AMD Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VTHR",
+    "name": "Vanguard Russell 3000 Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "COWS",
+    "name": "Amplify Cash Flow Dividend Leaders ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NUSB",
+    "name": "Nuveen Ultra Short Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MDLQ",
+    "name": "Medley LLC NT 24",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VSMV",
+    "name": "VictoryShares US Multi-Factor Minimum Volatility ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WOOD",
+    "name": "iShares Global Timber & Forestry ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SQLV",
+    "name": "Royce Quant Small-Cap Quality Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBTI",
+    "name": "iShares iBonds Dec 2028 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "272230.KS",
+    "name": "Kim Kindex Smart Value Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MKAM",
+    "name": "EA Series Trust - MKAM ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "284980.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Financials ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SPDG",
+    "name": "SPDR Series Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SLQD",
+    "name": "iShares 0-5 Year Investment Grade Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CPLS",
+    "name": "AB Core Plus Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "139290.KS",
+    "name": "Mirae Asset TIGER Consumer Discretionary ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "315960.KS",
+    "name": "Kb Kbstar Large Cap High Dividend 10 Trust ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "143460.KS",
+    "name": "KINDEX Large Value ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "LRGC",
+    "name": "AB Active ETFs, Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "319640.KS",
+    "name": "Mirae Asset Tiger Gold Futures ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CDL",
+    "name": "VictoryShares US Large Cap High Div Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "108590.KS",
+    "name": "Yurie Trex200 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "245350.KS",
+    "name": "Mirae Asset Tiger EURO STOXX Dividend 30 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DUBS",
+    "name": "Aptus Large Cap Enhanced Yield ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IBTM",
+    "name": "iShares iBonds Dec 2032 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "266420.KS",
+    "name": "KODEX Healthcare",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "310960.KS",
+    "name": "Tiger 200 Total Return",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "227830.KS",
+    "name": "Hanwha Arirang KOSPI Securities ETF Investment Trust - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TSLQ",
+    "name": "AXS TSLA Bear Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LDRI",
+    "name": "Invesco LadderRite 0-5 Year Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UBND",
+    "name": "VictoryShares ESG Core Plus Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DEMZ",
+    "name": "Democratic Large Cap Core ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HCXZ",
+    "name": "Hercules Capital, Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "114100.KS",
+    "name": "KB KStar KTB ETF (Bond)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MART",
+    "name": "AIM ETF Products Trust AllianzI",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PSCM",
+    "name": "Invesco S&P SmallCap Materials ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "219390.KS",
+    "name": "KB Kstar US Oil & Gas E&P Company ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "225060.KS",
+    "name": "Mirae Asset Tiger SYNTH-MSCI EM Leverage ETF(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FYT",
+    "name": "First Trust Small Cap Value AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCE",
+    "name": "Invesco BulletShares (R) 2023 USD Emerging Markets Debt ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CTZ",
+    "name": "Qwest Corp. NT",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FMED",
+    "name": "Fidelity Covington Trust - Disruptive Medicine ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMP",
+    "name": "Invesco BulletShares (R) 2025 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCO",
+    "name": "Invesco BulletShares 2024 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PHO",
+    "name": "Invesco Water Resources ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "269530.KS",
+    "name": "Hanwha Investment Trust Management - Arirang S&P Global Infra ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FTXN",
+    "name": "First Trust Nasdaq Oil & Gas ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "232080.KS",
+    "name": "Mirae Asset Tiger KOSDAQ150 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FTCS",
+    "name": "First Trust Capital Strength ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EWZS",
+    "name": "iShares MSCI Brazil Small-Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PSCE",
+    "name": "Invesco S&P SmallCap Energy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QAT",
+    "name": "iShares MSCI Qatar ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UTHY",
+    "name": "The RBB Fund, Inc. - US Treasury 30 Year Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "217770.KS",
+    "name": "Mirae Asset TIGER WTI Inverse Future Special Assets ETF - Oil-Derivatives (H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PRFZ",
+    "name": "Invesco FTSE RAFI US 1500 Small-Mid ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "138530.KS",
+    "name": "Mirae Asset TIGER LG Group+ ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "250780.KS",
+    "name": "Mirae Asset Tiger KOSDAQ150 Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PDP",
+    "name": "Invesco DWA Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "108450.KS",
+    "name": "KINDEX Samsung Group SW ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FDTX",
+    "name": "Fidelity Disruptive Technology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CONL",
+    "name": "GraniteShares ETF Trust - GraniteShares 1.5x Long COIN Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IUSV",
+    "name": "iShares Core S&P U.S. Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "REIT",
+    "name": "ALPS Active REIT ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SRET",
+    "name": "Global X SuperDividend REIT ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SOCL",
+    "name": "Global X Social Media ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SOXQ",
+    "name": "Invesco PHLX Semiconductor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SHY",
+    "name": "iShares 1-3 Year Treasury Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ODDS",
+    "name": "Pacer BlueStar Digital Entertainment ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "101280.KS",
+    "name": "KODEX Japan",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FFOG",
+    "name": "Franklin Focused Growth ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ERNZ",
+    "name": "TrueShares Active Yield ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSLR",
+    "name": "GraniteShares 1.75x Long TSLA Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "228810.KS",
+    "name": "Mirae Asset Tiger Media Contents ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TVIX",
+    "name": "VelocityShares Daily 2x VIX Short-Term ETN",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IFV",
+    "name": "First Trust Dorsey Wright International Focus 5 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OFSSZ",
+    "name": "OFS Capital Corporation - 6.50%",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KBWY",
+    "name": "Invesco KBW Premium Yield Equity REIT ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "STXK",
+    "name": "Strive 2000 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "218420.KS",
+    "name": "KODEX SYNTH-US Energy",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "114800.KS",
+    "name": "Samsung Kodex Inverse ETF - Equity-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EKG",
+    "name": "First Trust Nasdaq Lux Digital Health Solutions ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FEM",
+    "name": "First Trust Emerging Markets AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JIVE",
+    "name": "JPMorgan International Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTSL",
+    "name": "First Trust Senior Loan Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "147970.KS",
+    "name": "Mirae Asset TIGER Momentum ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DTCR",
+    "name": "Global X Data Center & Digital Infrastructure ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SHV",
+    "name": "iShares Short Treasury Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SOXX",
+    "name": "iShares Semiconductor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GLDI",
+    "name": "Credit Suisse X-Links Gold Shares Covered Call ETN",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "XBIL",
+    "name": "The RBB Fund, Inc. - US Treasury 6 Month Bill ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "266360.KS",
+    "name": "KODEX IT Software",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EMXF",
+    "name": "iShares ESG Advanced MSCI EM ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UTRE",
+    "name": "The RBB Fund, Inc. - US Treasury 3 Year Note ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "102960.KS",
+    "name": "Kodex Shipbuilding",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TLT",
+    "name": "iShares 20+ Year Treasury Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSBE",
+    "name": "Invesco BulletShares (R) 2022 USD Emerging Markets Debt ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LMBS",
+    "name": "First Trust Low Duration Opportunities ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CCSO",
+    "name": "Carbon Collective Climate Solutions U.S. Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMR",
+    "name": "Invesco BulletShares (R) 2027 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "315930.KS",
+    "name": "Samsung Kodex Top 5 Plus Total Return ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BIS",
+    "name": "ProShares UltraShort Nasdaq Biotechnology",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DLBL",
+    "name": "iPath US Treasury Long Bond Bull ETN",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "295820.KS",
+    "name": "Hanwha Asset Management - Arirang 200 Equity Weighted ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSDE",
+    "name": "Invesco BulletShares (R) 2024 Emerging Markets Debt ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IGSB",
+    "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SKYY",
+    "name": "First Trust Cloud Computing ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CHPS",
+    "name": "Xtrackers Semiconductor Select Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "291890.KS",
+    "name": "Kodex Energy & Chemicals",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "316670.KS",
+    "name": "Kiwoom Kosef Kosdaq 150 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "248260.KS",
+    "name": "Mirae Asset Tiger Synth-Japan Healthcare ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "229720.KS",
+    "name": "KODEX KTOP 30",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DGRW",
+    "name": "WisdomTree U.S. Quality Dividend Growth Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AEB",
+    "name": "Aegon N.V. PERP CAP FLTG RT",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HYND",
+    "name": "WisdomTree Negative Duration High Yield Bond Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBTH",
+    "name": "iShares iBonds Dec 2027 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IDLB",
+    "name": "Invesco FTSE International Low Beta Equal Weight ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UPWD",
+    "name": "JPMorgan Social Advancement ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TVIZ",
+    "name": "VelocityShares Daily 2x VIX MT ETN",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PSM",
+    "name": "Principal U.S. Small-MidCap Multi-Factor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QTR",
+    "name": "Global X NASDAQ 100 Tail Risk ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EVGBC",
+    "name": "Eaton Vance Global Income Builder NextShares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DGRS",
+    "name": "WisdomTree U.S. SmallCap Quality Dividend Growth Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "138910.KS",
+    "name": "Samsung Kodex Copper Futures Special Asset ETF - Copper-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "OLD",
+    "name": "The Long-Term Care ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "OZEM",
+    "name": "Roundhill GLP-1 & Weight Loss ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQQN",
+    "name": "VictoryShares Nasdaq Next 50 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "277630.KS",
+    "name": "Mirae Asset TIGER KOSPI ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IUSS",
+    "name": "Invesco RAFI Strategic US Small Company ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GINX",
+    "name": "SGI Enhanced Global Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "114460.KS",
+    "name": "Kindex Treasury ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MTBA",
+    "name": "Simplify MBS ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DWTR",
+    "name": "Invesco DWA Tactical Sector Rotation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWAS",
+    "name": "Invesco DWA SmallCap Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "292160.KS",
+    "name": "Mirae Asset Tiger KRX300 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "VGSR",
+    "name": "Vert Global Sustainable Real Estate ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MRNY",
+    "name": "YieldMax MRNA Option Income Strategy ETF\t",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ISDS",
+    "name": "Invesco RAFI Strategic Developed ex-US Small Company ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "309210.KS",
+    "name": "Hanwha Investment Trust Management - Arirang KR300 Health Care ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TCHI",
+    "name": "iShares MSCI China Multisector Tech ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "139230.KS",
+    "name": "MiraeAsset TIGER 200 Heavy Industry ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AGNG",
+    "name": "Global X Aging Population ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SPC",
+    "name": "CrossingBridge Pre-Merger SPAC ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DGLD",
+    "name": "VelocityShares 3x Inverse Gold ETN Linked to the S&P GSCI Gold Index ER",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDCF",
+    "name": "Fidelity Covington Trust - Disruptive Communications ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ACWX",
+    "name": "iShares MSCI ACWI ex U.S. ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JSMD",
+    "name": "Janus Henderson Small/Mid Cap Growth Alpha ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RSPD",
+    "name": "Invesco S&P 500 Equal Weight Consumer Discretionary ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "JOET",
+    "name": "Virtus Terranova U.S. Quality Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TMET",
+    "name": "iShares Transition-Enabling Metals ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ROBT",
+    "name": "First Trust Nasdaq Artificial Intelligence and Robotics ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LRGE",
+    "name": "ClearBridge Large Cap Growth ESG ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "139250.KS",
+    "name": "Mirae Asset TIGER Energy & Chemicals ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "290080.KS",
+    "name": "KB KBSTAR 200 High Dividend Covered Call ATM ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "QQQA",
+    "name": "ProShares Nasdaq-100 Dorsey Wright Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "183710.KS",
+    "name": "KB Kstar Equity Balanced ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "277650.KS",
+    "name": "Mirae Asset TIGER KOSPI MIDCAP ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "271060.KS",
+    "name": "KODEX Grains Futures(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "VNQI",
+    "name": "Vanguard Global ex-U.S. Real Estate Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UFIV",
+    "name": "The RBB Fund, Inc.- US Treasury 5 Year Note ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "373490.KS",
+    "name": "Samsung KODEX Energy & chemicals Securities ETF - Kodex K-Innovation Active Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "307010.KS",
+    "name": "KB Asset Management Co. Ltd. - KB KBStar KRX300 ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "JBR",
+    "name": "Corporate Backed Call Trust Certificates JCP 06-1CTF A1",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PBB",
+    "name": "Prospect Capital Corporation NT 061524",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "EWEB",
+    "name": "Global X Emerging Markets Internet & E-commerce ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "307510.KS",
+    "name": "Mirae Asset Management - Tiger HealthCare Equipment ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CIZ",
+    "name": "VictoryShares Developed Enhanced Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BETE",
+    "name": "ProShares Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "NEWZ",
+    "name": "Stocksnips AI-Powered Sentiment US ALL Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FONE",
+    "name": "First Trust IndXX NextG ETG",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SUSB",
+    "name": "iShares ESG 1-5 Year USD Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PYZ",
+    "name": "Invesco DWA Basic Materials Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IMCV",
+    "name": "iShares Morningstar Mid-Cap Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GTR",
+    "name": "WisdomTree Target Range Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "252710.KS",
+    "name": "Mirae Asset Tiger 200 Futures Inverse 2X ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PFEL",
+    "name": "AXS 2X PFE Bull Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "326240.KS",
+    "name": "KB Kbstar IT Plus ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TARK",
+    "name": "AXS 2X Innovation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DVOL",
+    "name": "First Trust Dorsey Wright Momentum & Low Volatility ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "160580.KS",
+    "name": "Mirae Asset TIGER Physical Copper ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "314700.KS",
+    "name": "NH-Amundi Hanaro Agriculture Business ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AMZZ",
+    "name": "GraniteShares 2x Long AMZN Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GYC",
+    "name": "Cabco Series 2004-102 Trust (sbc Communications Inc.) CTF FLT RATE",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BSCL",
+    "name": "Invesco BulletShares 2021 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TQQQ",
+    "name": "ProShares UltraPro QQQ",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "205720.KS",
+    "name": "Kim Kindex Synth-Japan Inverse ETF(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "277640.KS",
+    "name": "Mirae Asset TIGER KOSPI LARGECAP ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "229200.KS",
+    "name": "KODEX KOSDAQ 150",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "289250.KS",
+    "name": "Mirae Asset Tiger Msci Korea Esg Universal ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PMOM",
+    "name": "Principal Sustainable Momentum Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "276990.KS",
+    "name": "KODEX Global Robotics & Automation",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "KRMA",
+    "name": "Global X Conscious Companies ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "INRO",
+    "name": "BlackRock U.S. Industry Rotation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "287310.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar Consumer Discretionary ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "307520.KS",
+    "name": "Mirae Asset Management - Tiger Holding Company",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "GRNR",
+    "name": "Global X Green Building ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EVSTC",
+    "name": "Eaton Vance Stock NextShares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HTFA",
+    "name": "Horizon Technology Finance Corporation 6.25% NT 22",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IHYF",
+    "name": "Invesco High Yield Bond Factor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCM",
+    "name": "Invesco BulletShares 2022 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GPIQ",
+    "name": "Goldman Sachs Nasdaq 100 Core Premium Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "143850.KS",
+    "name": "Mirae Asset TIGER S&P500 Futures ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ESGE",
+    "name": "iShares ESG Aware MSCI EM ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BRTR",
+    "name": "BlackRock Total Return ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BND",
+    "name": "Vanguard Total Bond Market Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCN",
+    "name": "Invesco BulletShares 2023 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "130730.KS",
+    "name": "KOSEF Enhanced Cash",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "UBIO",
+    "name": "ProShares UltraPro Nasdaq Biotechnology",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UTEN",
+    "name": "US Treasury 10 Year Note ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QOWZ",
+    "name": "Invesco Nasdaq Free Cash Flow Achievers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SPAQ",
+    "name": "Horizon Kinetics SPAC Active ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQD",
+    "name": "Simplify Nasdaq 100 plus Downside  convexity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DFGX",
+    "name": "Dimensional Global ex US Core Fixed Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FSZ",
+    "name": "First Trust Switzerland AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MEMS",
+    "name": "Matthews Emerging Markets Discovery Active ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FYX",
+    "name": "First Trust Small Cap Core AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DRUA",
+    "name": "Dominion Energy, Inc. ENHCD SUB NT16 A",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RNEM",
+    "name": "First Trust Emerging Markets Equity Select ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQMG",
+    "name": "Invesco ESG NASDAQ 100 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PSCH",
+    "name": "Invesco S&P SmallCap Health Care ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCR",
+    "name": "Invesco BulletShares 2027 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "139220.KS",
+    "name": "Mirae Asset TIGER Constructions & Machinery ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FIVR",
+    "name": "Strategy Shares Nasdaq 5 Handl Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UMMA",
+    "name": "Wahed Dow Jones Islamic World ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UNIY",
+    "name": "WisdomTree Voya Yield Enchanced USD Universal Bond Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RNRG",
+    "name": "Global X Renewable Energy Producers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "157450.KS",
+    "name": "Mirae Asset TIGER Money Market ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FCA",
+    "name": "First Trust China AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "329650.KS",
+    "name": "Samsung Kodex TRF3070 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSCQ",
+    "name": "Invesco BulletShares 2026 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWCR",
+    "name": "Arrow DWA Tactical: International ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BGRN",
+    "name": "iShares USD Green Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "138920.KS",
+    "name": "KODEX Soybean Futures (H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "QRMI",
+    "name": "Global X NASDAQ 100 Risk Managed Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "304780.KS",
+    "name": "NH Amundi Asset Management - Hanaro 200 Futures Leverage ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DTY",
+    "name": "DTE Energy Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "VSHY",
+    "name": "Virtus ETF Trust II - Virtus Newfleet Short Duration High Yield Bond ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "304770.KS",
+    "name": "NH Amundi Asset Management - Hanaro Kosdaq 150 ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSJQ",
+    "name": "Invesco BulletShares 2026 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "148070.KS",
+    "name": "KOSEF 10-Year KTB",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSMQ",
+    "name": "Invesco BulletShares (R) 2026 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LDEM",
+    "name": "iShares ESG MSCI EM Leaders ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "140710.KS",
+    "name": "Samsung Kodex Transportation ETF - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PABD",
+    "name": "iShares Paris-Aligned Climate MSCI World ex USA ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DMAT",
+    "name": "Global X Disruptive Materials ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTCB",
+    "name": "First Trust Exchange-Traded Fund IV - First Trust Core Investment Grade ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "371450.KS",
+    "name": "Mirae Asset Management - Tiger Global Cloud Computing Index ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "USRD",
+    "name": "Themes US R&D Champions ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMV",
+    "name": "Invesco BulletShares 2031 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "192090.KS",
+    "name": "Mirae Asset TIGER ChinaA300 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FIXD",
+    "name": "First Trust TCW Opportunistic Fixed Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SMH",
+    "name": "VanEck Semiconductor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LJIM",
+    "name": "Northern Lights Fund Trust IV - Long Cramer Tracker ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "091170.KS",
+    "name": "Kodex Banks",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "245710.KS",
+    "name": "KINDEX Vietnam VN30 ETF(Synth)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "269420.KS",
+    "name": "KODEX SYNTH-S&P Global Infrastructure",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TDIV",
+    "name": "First Trust NASDAQ Technology Dividend Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DGCB",
+    "name": "Dimensional Global Credit ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EDUT",
+    "name": "Global X Education ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "287330.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Consumer Staples ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "NTZG",
+    "name": "Nuveen Global Net Zero Transition ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "228790.KS",
+    "name": "Mirae Asset Tiger Cosmetics ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IEUS",
+    "name": "iShares MSCI Europe Small-Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GULF",
+    "name": "WisdomTree Middle East Dividend Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "332620.KS",
+    "name": "Hanwha Arirang US Long-Term Credit Bond ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PSCC",
+    "name": "Invesco S&P SmallCap Consumer Staples ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "285000.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Information Technology ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "377990.KS",
+    "name": "Mirae Asset Maps Management - Tiger Financial Renewable Energy ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SPQQ",
+    "name": "Siren Large Cap Blend Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "266550.KS",
+    "name": "Hanwha Investment Trust Management - Arirang Midcap Low Volume 50 Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "277540.KS",
+    "name": "Korea Investment Trust Management - Kim Kindex S&P Asia Top50 ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CFA",
+    "name": "VictoryShares US 500 Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CANC",
+    "name": "Tema Oncology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PKW",
+    "name": "Invesco BuyBack Achievers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FCVT",
+    "name": "First Trust SSI Strategic Convertible Securities ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BCNA",
+    "name": "Reality Shares Nasdaq NexGen Economy China ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JDOC",
+    "name": "JPMorgan Healthcare Leaders ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RSPC",
+    "name": "Invesco S&P 500 Equal Weight Communication Services ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PUI",
+    "name": "Invesco DWA Utilities Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "325010.KS",
+    "name": "Samsung Kodex Fn Growth Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "280920.KS",
+    "name": "Hanwha Asset Management - Arirang Leading Industry ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "139280.KS",
+    "name": "Mirae Asset TIGER Consumer Staples ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "LNGR",
+    "name": "Global X Aging Population ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CTBB",
+    "name": "Qwest Corp. NT",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "HLAL",
+    "name": "Wahed FTSE USA Shariah ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UZB",
+    "name": "United States Cellular Corporation SR NT 120163",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "214980.KS",
+    "name": "KODEX KRW Cash PLUS",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "346000.KS",
+    "name": "Nh-Amundi Hanaro Kap Ultra Long Ktb Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TAFM",
+    "name": "AB Tax-Aware Intermediate Municipal ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CIBR",
+    "name": "First Trust NASDAQ Cybersecurity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PSET",
+    "name": "Principal Quality ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SMCO",
+    "name": "Hilton Small-MidCap Opportunity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ICOP",
+    "name": "iShares Copper and Metals Mining ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TRES",
+    "name": "Defiance Treasury Alternative Yield ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "195920.KS",
+    "name": "Mirae Asset TIGER Synth-Japan ETF(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PDBC",
+    "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USLB",
+    "name": "Invesco Russell 1000 Low Beta Equal Weight ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EFRA",
+    "name": "iShares Environmental Infrastructure and Industrials ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "144600.KS",
+    "name": "Kodex Silver Futures Special Asset ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "WISE",
+    "name": "Themes Generative Artificial Intelligence ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UCRD",
+    "name": "VictoryShares ESG Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "269370.KS",
+    "name": "Mirae Asset Tiger Synth-Global Infra ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IGOV",
+    "name": "iShares International Treasury Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "176950.KS",
+    "name": "Samsung Kodex 10 Year F-LKBT Inverse ETF - Bonds-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "272910.KS",
+    "name": "Kim Korea index Active Korea Treasury and agency Bonds Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "161510.KS",
+    "name": "ARIRANG Dividend ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "280930.KS",
+    "name": "Samsung Kodex Us Russell 2000 Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ISHG",
+    "name": "iShares 1-3 Year International Treasury Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ISDX",
+    "name": "Invesco RAFI Strategic Developed ex-US ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CHB",
+    "name": "Global X China Biotech Innovation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VMOT",
+    "name": "Alpha Architect Value Momentum Trend ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RDVY",
+    "name": "First Trust Rising Dividend Achievers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "283580.KS",
+    "name": "Samsung Investment Trust Management - Kodex China CSI300 ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "KBWR",
+    "name": "Invesco KBW Regional Banking ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "329670.KS",
+    "name": "Samsung Kodex TRF7030 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "182480.KS",
+    "name": "Mirae Asset TIGER SYNTH-MSCI US REIT ETF(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AAPU",
+    "name": "Direxion Daily AAPL Bull 1.5X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PRVT",
+    "name": "Private Real Estate Strategy via Liquid REITs ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "285010.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Heavy Industries ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TUGN",
+    "name": "STF Tactical Growth & Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "226380.KS",
+    "name": "KINDEX Korean Culture ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "276650.KS",
+    "name": "KB Asset Management Co., Ltd. - KB KBStar Global 4th Index Reverse Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "275280.KS",
+    "name": "KODEX MSCI Momentum",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BTEC",
+    "name": "Principal Healthcare Innovators ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JEPQ",
+    "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "304940.KS",
+    "name": "Samsung Kodex Us Nasdaq 100 Futures Etf(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSCW",
+    "name": "Invesco Bulletshares 2032 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FBOT",
+    "name": "Fidelity Covington Trust - Disruptive Automation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MCX",
+    "name": "Medley Capital Corporation 6.50 NT 013021",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "245340.KS",
+    "name": "Mirae Asset Tiger Dow Jones 30 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "305080.KS",
+    "name": "Mirae Asset Tiger 10 Year U.S. Treasury Note Futures Exchnage Traded Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "091230.KS",
+    "name": "Mirae Asset TIGER Semicon ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CXSE",
+    "name": "WisdomTree China ex-State-Owned Enterprises Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ELU",
+    "name": "Entergy Louisiana, LLC 1ST MTG BD",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PEY",
+    "name": "Invesco High Yield Equity Dividend Achievers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSJL",
+    "name": "Invesco BulletShares 2021 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FKO",
+    "name": "First Trust South Korea AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSLZ",
+    "name": "T-Rex 2X Inverse Tesla Daily Target ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "168580.KS",
+    "name": "KINDEX China CSI300 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "298770.KS",
+    "name": "KODEX Korea Taiwan IT Premier ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "WGRO",
+    "name": "WisdomTree U.S. Growth & Momentum Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBET",
+    "name": "iBET Sports Betting & Gaming ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "LMHB",
+    "name": "Legg Mason, Inc. JR SUB NT 56",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RNSC",
+    "name": "First Trust Small Cap US Equity Select ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CALY",
+    "name": "BlackRock Short-Term California Muni Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "138540.KS",
+    "name": "Mirae Asset TIGER Hyundai Motor Group+ ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "376250.KS",
+    "name": "Hanwha Asset Management - Arirang Carbon Efficient ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "233740.KS",
+    "name": "KODEX KOSDAQ150 Leverage",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "276970.KS",
+    "name": "KODEX US S&P Dividend Covered Call",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "203780.KS",
+    "name": "Mirae Asset TIGER NASDAQ Bio ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SNLN",
+    "name": "Highland/iBoxx Senior Loan ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMN",
+    "name": "Invesco BulletShares (R) 2023 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CID",
+    "name": "VictoryShares International High Div Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "211560.KS",
+    "name": "Mirae Asset TIGER Dividend Growth ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "WABF",
+    "name": "Western Asset Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "132030.KS",
+    "name": "Samsung KODEX Gold Futures Special Asset ETF - Gold-Derivatives (H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CEY",
+    "name": "VictoryShares Emerging Market High Div Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VTC",
+    "name": "Vanguard Total Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "265690.KS",
+    "name": "KINDEX MSCI Russia ETF(Synth)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "195930.KS",
+    "name": "Mirae Asset TIGER Synth - Euro Stoxx 50 ETF H - Equity-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BBH",
+    "name": "VanEck Biotech ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "122090.KS",
+    "name": "Hanhwa Arirang KOSPI50 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DFGP",
+    "name": "Dimensional Global Core Plus Fixed Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NFTY",
+    "name": "First Trust India NIFTY 50 Equal Weight ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BNDW",
+    "name": "Vanguard Total World Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PPH",
+    "name": "VanEck Pharmaceutical ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ICLN",
+    "name": "iShares Global Clean Energy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCX",
+    "name": "Invesco BulletShares 2033 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VTWO",
+    "name": "Vanguard Russell 2000 Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PTEC",
+    "name": "Global X Funds - Global X PropTech ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "168300.KS",
+    "name": "Hana UBS KTOP KOSPI50 Securities ETF Investment Trust - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FHK",
+    "name": "First Trust Hong Kong AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQQI",
+    "name": "NEOS Nasdaq 100 High Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "225050.KS",
+    "name": "Mirae Asset Tiger SYNTH-EURO STOXX 50 Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MSFD",
+    "name": "Direxion Daily MSFT Bear 1X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "299080.KS",
+    "name": "Korea Investment Trust Management- Kim Kindex KTB Futures Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PSCT",
+    "name": "Invesco S&P SmallCap Information Technology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PSL",
+    "name": "Invesco DWA Consumer Staples Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VPLS",
+    "name": "Vanguard Core Plus Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CZAR",
+    "name": "Themes Natural Monopoly ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "138520.KS",
+    "name": "Mirae Asset TIGER Samsung Group ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "VTWV",
+    "name": "Vanguard Russell 2000 Value Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "COPJ",
+    "name": "Sprott Junior Copper Miners ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RFAP",
+    "name": "First Trust RiverFront Dynamic Asia Pacific ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "STXG",
+    "name": "Strive 1000 Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HYZD",
+    "name": "WisdomTree Interest Rate Hedged High Yield Bond Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AIQ",
+    "name": "Global X Artificial Intelligence & Technology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KBWB",
+    "name": "Invesco KBW Bank ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "308620.KS",
+    "name": "Samsung KODEX Energy & chemicals Securities ETF-Kodex Treasury Note Futures Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "JMPNL",
+    "name": "JMP Group LLC - 7.25% Senior No",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "289260.KS",
+    "name": "MIRAE ASSET TIGER MSCI KOREA ESG LEADERS ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "069500.KS",
+    "name": "KODEX 200",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TBLU",
+    "name": "Tortoise Global Water ESG Fund",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CNCR",
+    "name": "Loncar Cancer Immunotherapy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "227570.KS",
+    "name": "Mirae Asset Tiger Quality Value ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "RSPM",
+    "name": "Invesco S&P 500 Equal Weight Materials ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BIB",
+    "name": "ProShares Ultra Nasdaq Biotechnology",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AGND",
+    "name": "WisdomTree Negative Duration U.S. Aggregate Bond Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "315480.KS",
+    "name": "KB Asset Management Co. Ltd.  - KBStar 200 Communication Service ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "LGBT",
+    "name": "LGBTQ100 ESG ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NVDD",
+    "name": "Direxion Daily NVDA Bear 1X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FMHI",
+    "name": "First Trust Municipal High Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZGEN",
+    "name": "The Gen Z ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EMPW",
+    "name": "Emerge ETF Trust - Emerge EMPWR Unified Sustainable Equity ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RUNN",
+    "name": "Running Oak Efficient Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "INDY",
+    "name": "iShares India 50 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RILYI",
+    "name": "B. Riley Financial, Inc. - 6.87",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "300950.KS",
+    "name": "Samsung KODEX Game Industry ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "URNJ",
+    "name": "Sprott Junior Uranium Miners ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "133690.KS",
+    "name": "Mirae Asset TIGER NASDAQ 100 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EMB",
+    "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "329750.KS",
+    "name": "Mirae Asset Maps Management - Tiger USD Money Market Active ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SLVO",
+    "name": "Credit Suisse X-Links Silver Shares Covered Call ETN",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "261060.KS",
+    "name": "Mirae Asset Tiger KOSDAQ150 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "LITP",
+    "name": "Sprott Lithium Miners ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IFGL",
+    "name": "iShares International Developed Real Estate ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FAB",
+    "name": "First Trust Multi Cap Value AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "270800.KS",
+    "name": "KB KBstar KQ High Dividend ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FMB",
+    "name": "First Trust Managed Municipal ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DVLU",
+    "name": "First Trust Dorsey Wright Momentum & Value ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SCA",
+    "name": "Stellus Capital Investment Corporation 5.75% NT 2022",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "DXGE",
+    "name": "WisdomTree Germany Hedged Equity Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "219900.KS",
+    "name": "KINDEX China Mainland Leverage CSI300 ETF (Synth)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ADRU",
+    "name": "Invesco BLDRS Europe Select ADR Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BTOP",
+    "name": "Bitwise Funds Trust",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RSPU",
+    "name": "Invesco S&P 500 Equal Weight Utilities ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "CSA",
+    "name": "VictoryShares US Small Cap Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "292500.KS",
+    "name": "Shinhan BNP Paribas Asset Management Company - BNPP Smart KRX300 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FTQI",
+    "name": "First Trust Nasdaq BuyWrite Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "368590.KS",
+    "name": "KB Asset Management - KB KBSTAR US NASDAQ 100 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FEX",
+    "name": "First Trust Large Cap Core AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ASET",
+    "name": "FlexShares Real Assets Allocation Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "225800.KS",
+    "name": "Kiwoom KOSEF USD Futures Leverage Special Assets ETF Investment Trust - USD-Derivatives (Synth)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IXUS",
+    "name": "iShares Core MSCI Total International Stock ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DAPP",
+    "name": "VanEck Digital Transformation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ORG",
+    "name": "The Organics ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDTS",
+    "name": "First Trust Developed Markets ex-US Small Cap AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IUSG",
+    "name": "iShares Core S&P U.S. Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MRCCL",
+    "name": "Monroe Capital Corporation - 5.",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "204480.KS",
+    "name": "Mirae Asset TIGER Synth-China A Leverage",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "091220.KS",
+    "name": "Mirae Asset TIGER Banks ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CU",
+    "name": "First Trust ISE Global Copper ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSJR",
+    "name": "Invesco BulletShares 2027 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "137610.KS",
+    "name": "Mirae Asset TIGER Agriculture ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "238720.KS",
+    "name": "KINDEX Japan Nikkei225 ETF(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ONEQ",
+    "name": "Fidelity Nasdaq Composite Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "302450.KS",
+    "name": "KB KBStar Kospi ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FVC",
+    "name": "First Trust Dorsey Wright Dynamic Focus 5 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTLB",
+    "name": "First Trust Nasdaq BuyWrite Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "KBWP",
+    "name": "Invesco KBW Property & Casualty Insurance ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSAE",
+    "name": "Invesco BulletShares (R) 2021 USD Emerging Markets Debt ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "210780.KS",
+    "name": "Mirae Asset TIGER KOSPI High Dividend ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "315270.KS",
+    "name": "Mirae Asset Tiger 200 Communication Service ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AMZD",
+    "name": "Direxion Daily AMZN Bear 1X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RFDI",
+    "name": "First Trust RiverFront Dynamic Developed International ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VONV",
+    "name": "Vanguard Russell 1000 Value Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TCRZ",
+    "name": "THL Credit, Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PIO",
+    "name": "Invesco Global Water ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSLT",
+    "name": "T-REX 2X Long Tesla Daily Target ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UTWY",
+    "name": "The RBB Fund, Inc. - US Treasury 20 Year Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "243890.KS",
+    "name": "Mirae Asset Tiger 200 Energy Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FGM",
+    "name": "First Trust Germany AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "117690.KS",
+    "name": "Mirae Asset TIGER China ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "NZRO",
+    "name": "Strategy Shares Halt Climate Change ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RING",
+    "name": "iShares MSCI Global Gold Miners ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BIGT",
+    "name": "Listed Funds Trust - Roundhill BIG Tech ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WINC",
+    "name": "Western Asset Short Duration Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TUG",
+    "name": "STF Tactical Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TSL",
+    "name": "GraniteShares ETF Trust - GraniteShares 2x Long Tesla Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EEMA",
+    "name": "iShares MSCI Emerging Markets Asia ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "367380.KS",
+    "name": "Kim Kindex Nasdaq100 Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IBB",
+    "name": "iShares Biotechnology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RFEU",
+    "name": "First Trust RiverFront Dynamic Europe ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AED",
+    "name": "Aegon N.V. PERP CAP SECS",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "252670.KS",
+    "name": "Samsung Kodex F Kospi 200 Inverse2x ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "NKEQ",
+    "name": "AXS 2X NKE Bear Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CARZ",
+    "name": "First Trust S-Network Future Vehicles & Technology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FEUZ",
+    "name": "First Trust Eurozone AlphaDEX ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BDXA",
+    "name": "Becton, Dickinson and Company",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "SKRE",
+    "name": "Tuttle Capital Daily 2X Inverse Regional Banks ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "300640.KS",
+    "name": "Kb Kbstar Game Industry",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SPBC",
+    "name": "Simplify U.S. Equity PLUS GBTC ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IVEG",
+    "name": "iShares Emergent Food and AgTech Multisector ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "304760.KS",
+    "name": "NH Amundi Asset Management - Hanaro KRX 300 ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "MSFU",
+    "name": "Direxion Daily MSFT Bull 1.5X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "302190.KS",
+    "name": "Mirae Asset Tiger KTB 3 - 10 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "USBF",
+    "name": "iShares USD Bond Factor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VYMI",
+    "name": "Vanguard International High Dividend Yield Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "364690.KS",
+    "name": "Samsung KODEX Energy & chemicals Securities ETF-Kodex Innovative Technology Active ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "295020.KS",
+    "name": "KB Asset Management -KB KBTAR KTB 10Y Futures Inverse ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "244580.KS",
+    "name": "KODEX Biotech",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DSLV",
+    "name": "VelocityShares 3x Inverse Silver ETN Linked to the S&P GSCI Silver Index ER",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DYNI",
+    "name": "IDX Dynamic Innovation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "367770.KS",
+    "name": "KB Asset Management - KB KBSTAR Fn Hydrogen Economy ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CEFA",
+    "name": "Global X S&P Catholic Values Developed ex-U.S. ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EDOC",
+    "name": "Global X Telemedicine & Digital Health ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "182490.KS",
+    "name": "Mirae Asset TIGER Synth - iBoxx Short Term High Yield ETF H - Bonds-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "GNMA",
+    "name": "iShares GNMA Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BICK",
+    "name": "First Trust BICK Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "252650.KS",
+    "name": "KODEX 200 EW",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "KBWD",
+    "name": "Invesco KBW High Dividend Yield Financial ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AGZD",
+    "name": "WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RAYS",
+    "name": "Global X Solar ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PFF",
+    "name": "iShares Preferred and Income Securities ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "098560.KS",
+    "name": "Mirae Asset TIGER Media & Telecom ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "292340.KS",
+    "name": "DB Mighty KOSPI200 Covered Call ATM Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "IBTF",
+    "name": "iShares iBonds Dec 2025 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DDIV",
+    "name": "First Trust Dorsey Wright Momentum & Dividend ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "294400.KS",
+    "name": "KOSEF 200 Total Return ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SDSI",
+    "name": "American Century Short Duration Strategic Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FAD",
+    "name": "First Trust Multi Cap Growth AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IWTR",
+    "name": "iShares MSCI Water Management Multisector ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AMID",
+    "name": "Argent Mid Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTDS",
+    "name": "First Trust Dividend Strength ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TXSS",
+    "name": "Texas Capital Texas Small Cap Equity Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TUR",
+    "name": "iShares MSCI Turkey ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "305720.KS",
+    "name": "Samsung Kodex Secondary Battery Industry ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "131890.KS",
+    "name": "KINDEX Samsung Group EW ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "HNDL",
+    "name": "Strategy Shares Nasdaq 7 Handl Index ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QYLD",
+    "name": "Global X NASDAQ 100 Covered Call ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VOTE",
+    "name": "Engine No. 1 Transform 500 ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AADR",
+    "name": "AdvisorShares Dorsey Wright ADR ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IUSB",
+    "name": "iShares Core Total USD Bond Market ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HERO",
+    "name": "Global X Video Games & Esports ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ACWI",
+    "name": "iShares MSCI ACWI ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BFIT",
+    "name": "Global X Health & Wellness ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TBIL",
+    "name": "US Treasury 3 Month Bill ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "275750.KS",
+    "name": "KB Asset Management Co., Ltd. - KB KBStar F-Kosdaq150 Inverse ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "213630.KS",
+    "name": "Hanwha Arirang Dow Jones US Select Dividend Securities ETF - Equity-Derivatives (Synth H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PEZ",
+    "name": "Invesco DWA Consumer Cyclicals Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBTJ",
+    "name": "iShares iBonds Dec 2029 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "RNDM",
+    "name": "First Trust Developed International Equity Select ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NZUS",
+    "name": "SPDR MSCI USA Climate Paris Aligned ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "261240.KS",
+    "name": "KODEX USD Futures",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "HYXE",
+    "name": "iShares iBoxx $ High Yield ex Oil & Gas Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QVOY",
+    "name": "Q3 All-Season Active Rotation ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "289480.KS",
+    "name": "Mirae Asset Tiger 200 Covered Call Atm ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "TSLS",
+    "name": "Direxion Daily TSLA Bear 1X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "215620.KS",
+    "name": "Heungkuk S&P Low Vol Securities ETF Investment Trust - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BSCS",
+    "name": "Invesco BulletShares 2028 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "MARW",
+    "name": "AIM ETF Products Trust AllianzI",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "IBBJ",
+    "name": "Defiance Nasdaq Junior Biotechnology ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SSWA",
+    "name": "Seaspan Corporation 7.125% NT DUE 27",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "252000.KS",
+    "name": "Mirae Asset TIGER 200 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PSCD",
+    "name": "Invesco S&P SmallCap Consumer Discretionary ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BLCR",
+    "name": "BlackRock Large Cap Core ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FV",
+    "name": "First Trust Dorsey Wright Focus 5 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "USIG",
+    "name": "iShares Broad USD Investment Grade Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQQM",
+    "name": "Invesco NASDAQ 100 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JTEK",
+    "name": "JPMorgan U.S. Tech Leaders ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQJG",
+    "name": "Invesco ESG NASDAQ Next Gen 100 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "SDG",
+    "name": "iShares MSCI Global Impact ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "305050.KS",
+    "name": "Kim Kindex Kospi ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "310080.KS",
+    "name": "KB Asset Management Co., Ltd – KBStar Msci China Futures ETF(H) Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "225040.KS",
+    "name": "Mirae Asset Tiger SYNTH-S&P500 Leverage ETF(H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "190620.KS",
+    "name": "Kindex Money Market",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "322150.KS",
+    "name": "Kim Kindex Smart High Beta ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PTF",
+    "name": "Invesco DWA Technology Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "152500.KS",
+    "name": "Korea Investment Trust Management - Kindex Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PYPT",
+    "name": "AXS 1.5X PYPL Bull Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TWEB",
+    "name": "SoFi Web 3 ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "326230.KS",
+    "name": "KB Kbstar Domestic Consumption Plus ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "145850.KS",
+    "name": "Yurie TREX Fundamental 200 Securities ETF - Equity",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "287180.KS",
+    "name": "Hanwha Investment Trust Management - Arirang Nasdaq Technology Sector ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "223190.KS",
+    "name": "KODEX 200 Intrinsic Value",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BJK",
+    "name": "VanEck Gaming ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IJT",
+    "name": "iShares S&P Small-Cap 600 Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "278420.KS",
+    "name": "Hanwha Investment Trust Management - Arirang ESG Leading Company Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "200030.KS",
+    "name": "Samsung Kodex Synth-US Industrial Securities ETF - Equity-Derivatives",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "NRES",
+    "name": "Xtrackers RREEF Global Natural Resources ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CSML",
+    "name": "IQ Chaikin U.S. Small Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FNY",
+    "name": "First Trust Mid Cap Growth AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "143860.KS",
+    "name": "Mirae Asset TIGER Health Care ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FEMA",
+    "name": "Procure Disaster Recovery Strategy ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FALN",
+    "name": "iShares Fallen Angels USD Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GFGF",
+    "name": "Guru Favorite Stocks ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BDGS",
+    "name": "Bridges Capital Tactical ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "196230.KS",
+    "name": "KStar Short-term MSB ETF (Bond)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "HRTS",
+    "name": "Tema Cardiovascular and Metabolic ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "381170.KS",
+    "name": "Mirae Asset Maps Management - Tiger US Tech Top 10 Index ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ZIV",
+    "name": "VelocityShares Daily Inverse VIX Medium-Term ETN",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTXL",
+    "name": "First Trust Nasdaq Semiconductor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "329200.KS",
+    "name": "Mirae Asset Management - Tiger Real Estate Infra High Dividend ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "272580.KS",
+    "name": "Mirae Asset Tiger Money Market Active ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "STXD",
+    "name": "Strive 1000 Dividend Growth ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DVY",
+    "name": "iShares Select Dividend ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQC",
+    "name": "Simplify Nasdaq 100 plus convexity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PYPS",
+    "name": "AXS 1.5X PYPL Bear Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "148020.KS",
+    "name": "KStar200 ETF (Equity)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SUSC",
+    "name": "iShares ESG USD Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSMO",
+    "name": "Invesco BulletShares (R) 2024 Municipal Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VR",
+    "name": "Global X Metaverse ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "189400.KS",
+    "name": "Hanwha Arirang Synth MSCI AC World ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "GGLS",
+    "name": "Direxion Daily GOOGL Bear 1X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PTH",
+    "name": "Invesco DWA Healthcare Momentum ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "292560.KS",
+    "name": "MIRAE Asset Tiger JPYKRW Futures ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "213610.KS",
+    "name": "Kodex Samsung  Group Value",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PDEV",
+    "name": "Principal International Multi-Factor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NPFI",
+    "name": "Nuveen Preferred and Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "287300.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar Constructions ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "251340.KS",
+    "name": "KODEX KOSDAQ150 Inverse",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "266410.KS",
+    "name": "KODEX Consumer Staples",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "284990.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Energy & Chemicals ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "NVDU",
+    "name": "Direxion Daily NVDA Bull 1.5X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DUKH",
+    "name": "Duke Energy Corporation JR SUB DEB 73",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "367760.KS",
+    "name": "KB Asset Management - KB KBSTAR Fn5G Tech ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "RSPS",
+    "name": "Invesco S&P 500 Equal Weight Consumer Staples ETF",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "FTXO",
+    "name": "First Trust Nasdaq Bank ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "275300.KS",
+    "name": "KODEX MSCI Quality",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "278240.KS",
+    "name": "KB Asset Management Co., Ltd. - KB KBStar F-Kosdaq150 Leverage ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DWFI",
+    "name": "SPDR Dorsey Wright Fixed Income Allocation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "114820.KS",
+    "name": "Mirae Asset TIGER KTB 3 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "FTXD",
+    "name": "First Trust Nasdaq Retail ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FCEF",
+    "name": "First Trust Income Opportunity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VIGI",
+    "name": "Vanguard International Dividend Appreciation Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CSF",
+    "name": "VictoryShares US Discovery Enhanced Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "256450.KS",
+    "name": "Hanwha Arirang Shenzhen Chinext Securities ETF Investment Trust - Equity-Derivatives (Synth)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "VIIX",
+    "name": "VelocityShares VIX Short-Term ETN",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CIL",
+    "name": "VictoryShares International Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "301440.KS",
+    "name": "Hanwha Asset Management - Arirang Kospi Midcap Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "PSC",
+    "name": "Principal U.S. Small-Cap Multi-Factor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AAXJ",
+    "name": "iShares MSCI All Country Asia ex Japan ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "364960.KS",
+    "name": "Mirae Asset Maps Management - Tiger KRX Bbig K-New Deal ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "SOJB",
+    "name": "The Southern Company JR SUB NT 76",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "354350.KS",
+    "name": "Nh-Amundi Hanaro Global Luxury S&P ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "211900.KS",
+    "name": "KODEX Dividend Growth",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "139270.KS",
+    "name": "Mirae Asset TIGER Financials ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "EZT",
+    "name": "Entergy Texas, Inc.",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "QQQY",
+    "name": "Defiance Nasdaq 100 Enhanced Options Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IGF",
+    "name": "iShares Global Infrastructure ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FEMB",
+    "name": "First Trust Emerging Markets Local Currency Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CHNA",
+    "name": "Loncar China BioPharma ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "139660.KS",
+    "name": "KOSEF USD Inverse Futures",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "RNMC",
+    "name": "First Trust Mid Cap US Equity Select ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "195970.KS",
+    "name": "Hanwha Arirang Synth MSCI EAFE ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "OBIL",
+    "name": "The RBB Fund, Inc. - US Treasury 12 Month Bill ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FCAN",
+    "name": "First Trust Canada AlphaDEX Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DWEQ",
+    "name": "AdvisorShares Dorsey Wright Alpha Equal Weight ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PSWD",
+    "name": "Xtrackers Cybersecurity Select Equity ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GMTA",
+    "name": "GATX Corporation SR NT 2066",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RNDV",
+    "name": "First Trust US Equity Dividend Select ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "267440.KS",
+    "name": "KB Asset Management Co., Ltd. - US Treasury Long Bond Futures ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "102110.KS",
+    "name": "Mirae Asset TIGER 200 ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "364970.KS",
+    "name": "Mirae Asset Maps Management - Tiger KRX Bio K-New Deal ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BABX",
+    "name": "GraniteShares 1.75x Long BABA Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "331910.KS",
+    "name": "Kiwoom Kosef Fn Mid Small Capital Etf",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "AMZU",
+    "name": "Direxion Daily AMZN Bull 1.5X Shares",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IBTE",
+    "name": "iShares iBonds Dec 2024 Term Treasury ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "245360.KS",
+    "name": "Mirae Asset TIGER China ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "DWAT",
+    "name": "Arrow DWA Tactical: Macro ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "352540.KS",
+    "name": "Samsung Asset Management Co Ltd- Kodex Tse Japan Reits ETF(H) Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "BETH",
+    "name": "ProShares Trust",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "LZRD",
+    "name": "Spinnaker ETF Series - Parabla Innovation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "UAE",
+    "name": "iShares MSCI UAE ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "TTTN",
+    "name": "TigerShares UP Fintech China-U.S. Internet Titans ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FTXR",
+    "name": "First Trust Nasdaq Transportation ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CAFG",
+    "name": "Pacer US Small Cap Cash Cows Growth Leaders ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "WHFBZ",
+    "name": "WhiteHorse Finance, Inc. - 6.50",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VTWG",
+    "name": "Vanguard Russell 2000 Growth Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ERET",
+    "name": "Ishares Environmentally Aware Real Estate ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VTRN",
+    "name": "VictoryShares Top Veteran Employers ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSJV",
+    "name": "Invesco BulletShares 2031 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "QQEW",
+    "name": "First Trust NASDAQ-100 Equal Weighted Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GIGE",
+    "name": "SoFi Be Your Own Boss ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSCT",
+    "name": "Invesco BulletShares 2029 Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PFES",
+    "name": "AXS 2X PFE Bear Daily ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AMCA",
+    "name": "iShares Russell 1000 Pure U.S. Revenue ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "FDIF",
+    "name": "Fidelity Disruptors ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VONG",
+    "name": "Vanguard Russell 1000 Growth Index Fund",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "267500.KS",
+    "name": "KB Asset Management Co., Ltd. - US Treasury Long Bond Futures Inverse 2X ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "ESMV",
+    "name": "iShares ESG MSCI USA Min Vol Factor ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "BSJN",
+    "name": "Invesco BulletShares 2023 High Yield Corporate Bond ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "VPN",
+    "name": "Global X Data Center REITs & Digital Infrastructure ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ALTY",
+    "name": "Global X Alternative Income ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "372330.KS",
+    "name": "Samsung KODEX Energy & Chemicals Securities ETF - Samsung Kodex China Hang Seng Tech ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "261110.KS",
+    "name": "Mirae Asset Tiger US Dollar Leverage ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "RNLC",
+    "name": "First Trust Large Cap US Equity Select ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "281990.KS",
+    "name": "KB Asset Management Co., Ltd - Mid Small Cap High Dividend ETF Fund",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "USMC",
+    "name": "Principal U.S. Mega-Cap ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "321410.KS",
+    "name": "Samsung Kodex Morningstar Multi-Asset High Income ETF (H)",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "228800.KS",
+    "name": "Mirae Asset Tiger Tour Leisure ETF",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "CSB",
+    "name": "VictoryShares US Small Cap High Div Volatility Wtd ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "JSML",
+    "name": "Janus Henderson Small Cap Growth Alpha ETF",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "309230.KS",
+    "name": "Korea Investment Trust Management - Kim Kindex US Wide Moat ETF Fund",
+    "exchange": "KSC"
+  }
+]
