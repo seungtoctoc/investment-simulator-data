@@ -60,15 +60,74 @@ const getETF = async () => {
 };
 
 const insertAsset = (type, symbol, exchange, name) => {
-  const query = `insert into Assets (type, symbol, exchange, name) values (?, ?, ?, ?)`;
+  return new Promise((resolve, reject) => {
+    const query = `insert into Assets (type, symbol, exchange, name) values (?, ?, ?, ?)`;
 
-  connection.query(query, [type, symbol, exchange, name], (err, result) => {
-    if (err) {
-      console.log(err);
-      return;
-    }
-    console.log('data inserted: ', result);
+    connection.query(query, [type, symbol, exchange, name], (err, result) => {
+      if (err) {
+        console.log(err);
+        reject(err);
+      }
+      console.log('data inserted: ', result);
+      resolve();
+    });
   });
 };
 
+const insertFileToAssets = async (file, type, exchange) => {
+  const assetsToInsert = JSON.parse(fs.readFileSync(file, 'utf8'));
+
+  for (const asset of assetsToInsert) {
+    if (!asset.name) {
+      continue;
+    }
+
+    const symbol =
+      exchange.slice(0, 3) == 'KOS' ? asset.symbol.slice(0, -3) : asset.symbol;
+    const name =
+      asset.name.length > 100 ? asset.name.slice(0, 100) : asset.name;
+
+    console.log('save: ', type, symbol, exchange, name);
+    await insertAsset(type, symbol, exchange, name);
+  }
+};
+
+const getFormattedExchange = (exchange) => {
+  if (exchange === 'KSC') {
+    return 'KOSPI';
+  }
+
+  if (exchange === 'KOE') {
+    return 'KOSDAQ';
+  }
+
+  return exchange;
+};
+
+const insertEtfFileToAssets = async (file) => {
+  const assetsToInsert = JSON.parse(fs.readFileSync(file, 'utf8'));
+
+  for (const asset of assetsToInsert) {
+    if (!asset.name) {
+      continue;
+    }
+
+    const name =
+      asset.name.length > 100 ? asset.name.slice(0, 100) : asset.name;
+    const symbol =
+      asset.exchange.slice(0, 1) == 'K'
+        ? asset.symbol.slice(0, -3)
+        : asset.symbol;
+    const exchange = getFormattedExchange(asset.exchange);
+
+    console.log('save: ', 'etf', symbol, exchange, name);
+    await insertAsset('etf', symbol, exchange, name);
+  }
+};
+
+await insertFileToAssets('results/stocksOfKOE.json', 'stock', 'KOSDAQ');
+await insertFileToAssets('results/stocksOfKSC.json', 'stock', 'KOSPI');
+await insertFileToAssets('results/stocksOfNASDAQ.json', 'stock', 'NASDAQ');
+await insertFileToAssets('results/stocksOfNYSE.json', 'stock', 'NYSE');
+await insertEtfFileToAssets('results/ETF.json');
 connection.end();
