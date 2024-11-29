@@ -1,0 +1,5586 @@
+[
+  {
+    "symbol": "000020.KS",
+    "name": "Dongwha Pharm.Co.,Ltd"
+  },
+  {
+    "symbol": "000040.KS",
+    "name": "KR Motors Co., Ltd."
+  },
+  {
+    "symbol": "000050.KS",
+    "name": "Kyungbangco.Ltd"
+  },
+  {
+    "symbol": "000060.KS",
+    "name": "Meritz Fire & Marine Insurance Co., Ltd."
+  },
+  {
+    "symbol": "000070.KS",
+    "name": "Samyang Holdings Corporation"
+  },
+  {
+    "symbol": "000075.KS",
+    "name": "Samyang Holdings Corporation"
+  },
+  {
+    "symbol": "000080.KS",
+    "name": "HITEJINRO Co., Ltd."
+  },
+  {
+    "symbol": "000087.KS",
+    "name": "HITEJINRO Co., Ltd."
+  },
+  {
+    "symbol": "000100.KS",
+    "name": "Yuhan Corporation"
+  },
+  {
+    "symbol": "000105.KS",
+    "name": "Yuhan Corporation"
+  },
+  {
+    "symbol": "000120.KS",
+    "name": "CJ Logistics Corporation"
+  },
+  {
+    "symbol": "000140.KS",
+    "name": "Hitejinro Holdings Co., Ltd."
+  },
+  {
+    "symbol": "000145.KS",
+    "name": "Hitejinro Holdings Co., Ltd."
+  },
+  {
+    "symbol": "000150.KS",
+    "name": "Doosan Corporation"
+  },
+  {
+    "symbol": "000155.KS",
+    "name": "Doosan Corporation"
+  },
+  {
+    "symbol": "000157.KS",
+    "name": "Doosan Corporation"
+  },
+  {
+    "symbol": "000180.KS",
+    "name": "Sungchang Enterprise Holdings Limited"
+  },
+  {
+    "symbol": "000210.KS",
+    "name": "DL Holdings CO., LTD."
+  },
+  {
+    "symbol": "000215.KS",
+    "name": "DL Holdings CO., LTD."
+  },
+  {
+    "symbol": "000220.KS",
+    "name": "Yuyu Pharma, Inc."
+  },
+  {
+    "symbol": "000225.KS",
+    "name": "Yuyu Pharma, Inc."
+  },
+  {
+    "symbol": "000227.KS",
+    "name": "Yuyu Pharma, Inc."
+  },
+  {
+    "symbol": "000230.KS",
+    "name": "Ildong Holdings Co., Ltd."
+  },
+  {
+    "symbol": "000240.KS",
+    "name": "Hankook & Company Co., Ltd."
+  },
+  {
+    "symbol": "000270.KS",
+    "name": "Kia Corporation"
+  },
+  {
+    "symbol": "000300.KS",
+    "name": "Dayou Plus Co.,Ltd"
+  },
+  {
+    "symbol": "000320.KS",
+    "name": "NOROO Holdings Co., Ltd."
+  },
+  {
+    "symbol": "000325.KS",
+    "name": "NOROO Holdings Co., Ltd."
+  },
+  {
+    "symbol": "000370.KS",
+    "name": "Hanwha General Insurance Co., Ltd."
+  },
+  {
+    "symbol": "000390.KS",
+    "name": "Samhwa Paints Industrial Co., Ltd."
+  },
+  {
+    "symbol": "000400.KS",
+    "name": "Lotte Non - Life Insurance Co., Ltd."
+  },
+  {
+    "symbol": "000430.KS",
+    "name": "Daewon Kang Up Co., Ltd."
+  },
+  {
+    "symbol": "000480.KS",
+    "name": "Chosun Refractories Co.,Ltd."
+  },
+  {
+    "symbol": "000490.KS",
+    "name": "Daedong Corporation"
+  },
+  {
+    "symbol": "000500.KS",
+    "name": "GAON CABLE Co., Ltd."
+  },
+  {
+    "symbol": "000520.KS",
+    "name": "Samil Pharmaceutical Co.,Ltd"
+  },
+  {
+    "symbol": "000540.KS",
+    "name": "Heungkuk Fire&Marine Insurance Co., Ltd."
+  },
+  {
+    "symbol": "000545.KS",
+    "name": "Heungkuk Fire&Marine Insurance Co., Ltd."
+  },
+  {
+    "symbol": "000547.KS",
+    "name": "Heungkuk Fire & Marine Insurance Co., Ltd."
+  },
+  {
+    "symbol": "000590.KS",
+    "name": "CS Holdings Co., Ltd."
+  },
+  {
+    "symbol": "000640.KS",
+    "name": "Dong-A Socio Holdings Co., Ltd."
+  },
+  {
+    "symbol": "000650.KS",
+    "name": "Chunil Express Co., Ltd."
+  },
+  {
+    "symbol": "000660.KS",
+    "name": "SK hynix Inc."
+  },
+  {
+    "symbol": "000670.KS",
+    "name": "Young Poong Corporation"
+  },
+  {
+    "symbol": "000680.KS",
+    "name": "LS Networks Corporation Limited"
+  },
+  {
+    "symbol": "000700.KS",
+    "name": "Eusu Holdings Co., Ltd."
+  },
+  {
+    "symbol": "000720.KS",
+    "name": "Hyundai Engineering & Construction Co., Ltd."
+  },
+  {
+    "symbol": "000725.KS",
+    "name": "Hyundai Engineering & Construction Co., Ltd."
+  },
+  {
+    "symbol": "000760.KS",
+    "name": "Rifa Co.,Ltd."
+  },
+  {
+    "symbol": "000810.KS",
+    "name": "Samsung Fire & Marine Insurance Co., Ltd."
+  },
+  {
+    "symbol": "000815.KS",
+    "name": "Samsung Fire & Marine Insurance Co., Ltd."
+  },
+  {
+    "symbol": "000850.KS",
+    "name": "Hwacheon Machine Tool Co. Ltd"
+  },
+  {
+    "symbol": "000860.KS",
+    "name": "Kangnam Jevisco Co., Ltd"
+  },
+  {
+    "symbol": "000880.KS",
+    "name": "Hanwha Corporation"
+  },
+  {
+    "symbol": "000885.KS",
+    "name": "Hanwha Corporation"
+  },
+  {
+    "symbol": "00088K.KS",
+    "name": "Hanwha Corporation"
+  },
+  {
+    "symbol": "000890.KS",
+    "name": "BOHAE BREWERY Co., Ltd."
+  },
+  {
+    "symbol": "000910.KS",
+    "name": "Union Corporation"
+  },
+  {
+    "symbol": "000950.KS",
+    "name": "Chonbang Co., Ltd."
+  },
+  {
+    "symbol": "000970.KS",
+    "name": "Korea Cast Iron Pipe Ind. Co., Ltd."
+  },
+  {
+    "symbol": "000990.KS",
+    "name": "DB HiTek CO., LTD."
+  },
+  {
+    "symbol": "000995.KS",
+    "name": "DB HiTek CO., LTD."
+  },
+  {
+    "symbol": "001020.KS",
+    "name": "PaperCorea Inc."
+  },
+  {
+    "symbol": "001040.KS",
+    "name": "CJ Corporation"
+  },
+  {
+    "symbol": "001045.KS",
+    "name": "CJ Corporation"
+  },
+  {
+    "symbol": "00104K.KS",
+    "name": "CJ Corporation"
+  },
+  {
+    "symbol": "001060.KS",
+    "name": "JW Pharmaceutical Corporation"
+  },
+  {
+    "symbol": "001065.KS",
+    "name": "JW Pharmaceutical Corporation"
+  },
+  {
+    "symbol": "001067.KS",
+    "name": "JW Pharmaceutical Corporation"
+  },
+  {
+    "symbol": "001070.KS",
+    "name": "Taihan Textile Co., Ltd."
+  },
+  {
+    "symbol": "001080.KS",
+    "name": "Manho Rope & Wire Co., Ltd."
+  },
+  {
+    "symbol": "001120.KS",
+    "name": "LX International Corp."
+  },
+  {
+    "symbol": "001130.KS",
+    "name": "Daehan Flour Mills Co.,Ltd"
+  },
+  {
+    "symbol": "001140.KS",
+    "name": "KUKBO Logistics Co., Ltd."
+  },
+  {
+    "symbol": "001200.KS",
+    "name": "Eugene Investment & Securities Co.,Ltd."
+  },
+  {
+    "symbol": "001210.KS",
+    "name": "Kumho Electric, Inc."
+  },
+  {
+    "symbol": "001230.KS",
+    "name": "Dongkuk Steel Mill Company Limited"
+  },
+  {
+    "symbol": "001250.KS",
+    "name": "GS Global Corp."
+  },
+  {
+    "symbol": "001260.KS",
+    "name": "Namkwang Engineering & Construction Co., Ltd."
+  },
+  {
+    "symbol": "001270.KS",
+    "name": "BOOKOOK Securities Co., Ltd."
+  },
+  {
+    "symbol": "001275.KS",
+    "name": "BOOKOOK Securities Co., Ltd."
+  },
+  {
+    "symbol": "001290.KS",
+    "name": "Sangsangin Investment & Securities Co.,Ltd."
+  },
+  {
+    "symbol": "001340.KS",
+    "name": "Paik Kwang Industrial Co., Ltd."
+  },
+  {
+    "symbol": "001360.KS",
+    "name": "SAMSUNG PHARM. Co., LTD."
+  },
+  {
+    "symbol": "001380.KS",
+    "name": "SG Global Co.,Ltd."
+  },
+  {
+    "symbol": "001390.KS",
+    "name": "KG Chemical Corporation"
+  },
+  {
+    "symbol": "001420.KS",
+    "name": "Tae Won Mulsan Co., Ltd."
+  },
+  {
+    "symbol": "001430.KS",
+    "name": "SeAH Besteel Holdings Corporation"
+  },
+  {
+    "symbol": "001440.KS",
+    "name": "Taihan Electric Wire Co., Ltd."
+  },
+  {
+    "symbol": "001450.KS",
+    "name": "Hyundai Marine & Fire Insurance Co., Ltd."
+  },
+  {
+    "symbol": "001460.KS",
+    "name": "BYC Co., Ltd."
+  },
+  {
+    "symbol": "001465.KS",
+    "name": "BYC Co., Ltd."
+  },
+  {
+    "symbol": "001470.KS",
+    "name": "Sambu Engineering & Construction Co., Ltd"
+  },
+  {
+    "symbol": "001500.KS",
+    "name": "Hyundai Motor Securities Co., Ltd."
+  },
+  {
+    "symbol": "001510.KS",
+    "name": "SK Securities Co., Ltd."
+  },
+  {
+    "symbol": "001515.KS",
+    "name": "SK Securities Co., Ltd."
+  },
+  {
+    "symbol": "001520.KS",
+    "name": "Tongyang Inc."
+  },
+  {
+    "symbol": "001525.KS",
+    "name": "Tongyang Inc."
+  },
+  {
+    "symbol": "001527.KS",
+    "name": "Tongyang Inc."
+  },
+  {
+    "symbol": "001529.KS",
+    "name": "Tongyang Inc."
+  },
+  {
+    "symbol": "001530.KS",
+    "name": "Di Dong Il Corporation"
+  },
+  {
+    "symbol": "001550.KS",
+    "name": "Chobi Company Limited"
+  },
+  {
+    "symbol": "001560.KS",
+    "name": "Cheil Grinding Wheel Ind. Co., Ltd."
+  },
+  {
+    "symbol": "001570.KS",
+    "name": "Kumyang Co., Ltd."
+  },
+  {
+    "symbol": "001620.KS",
+    "name": "Kbi Dongkook Ind.Co.,Ltd."
+  },
+  {
+    "symbol": "001630.KS",
+    "name": "Chong Kun Dang Holdings Corp."
+  },
+  {
+    "symbol": "001680.KS",
+    "name": "Daesang Corporation"
+  },
+  {
+    "symbol": "001685.KS",
+    "name": "Daesang Corporation"
+  },
+  {
+    "symbol": "001720.KS",
+    "name": "Shinyoung Securities Co., Ltd."
+  },
+  {
+    "symbol": "001725.KS",
+    "name": "Shinyoung Securities Co., Ltd."
+  },
+  {
+    "symbol": "001740.KS",
+    "name": "SK Networks Company Limited"
+  },
+  {
+    "symbol": "001745.KS",
+    "name": "SK Networks Company Limited"
+  },
+  {
+    "symbol": "001750.KS",
+    "name": "Hanyang Securities Co. Ltd."
+  },
+  {
+    "symbol": "001755.KS",
+    "name": "Hanyang Securities Co. Ltd."
+  },
+  {
+    "symbol": "001770.KS",
+    "name": "Shin Hwa Dynamics Co., Ltd."
+  },
+  {
+    "symbol": "001780.KS",
+    "name": "Aluko Co., Ltd."
+  },
+  {
+    "symbol": "001790.KS",
+    "name": "TS Corporation"
+  },
+  {
+    "symbol": "001795.KS",
+    "name": "TS Corporation"
+  },
+  {
+    "symbol": "001800.KS",
+    "name": "ORION Holdings Corp."
+  },
+  {
+    "symbol": "001820.KS",
+    "name": "SAMWHA CAPACITOR Co.,LTD"
+  },
+  {
+    "symbol": "001880.KS",
+    "name": "DL Construction Co., Ltd."
+  },
+  {
+    "symbol": "001940.KS",
+    "name": "KISCO Holdings Corp."
+  },
+  {
+    "symbol": "002020.KS",
+    "name": "Kolon Corporation"
+  },
+  {
+    "symbol": "002025.KS",
+    "name": "Kolon Corporation"
+  },
+  {
+    "symbol": "002030.KS",
+    "name": "Asia Holdings Co., Ltd."
+  },
+  {
+    "symbol": "002070.KS",
+    "name": "Vivien Corporation"
+  },
+  {
+    "symbol": "002100.KS",
+    "name": "Kyung Nong Corporation"
+  },
+  {
+    "symbol": "002140.KS",
+    "name": "Korea Industrial Co., Ltd."
+  },
+  {
+    "symbol": "002150.KS",
+    "name": "Dohwa Engineering Co., Ltd."
+  },
+  {
+    "symbol": "002170.KS",
+    "name": "Samyang Tongsang Co., Ltd"
+  },
+  {
+    "symbol": "002200.KS",
+    "name": "Korea Export Packaging Industrial Co.,Ltd"
+  },
+  {
+    "symbol": "002210.KS",
+    "name": "Dong Sung Bio Pharm.Co.,Ltd."
+  },
+  {
+    "symbol": "002220.KS",
+    "name": "Hanil Iron & Steel Co., Ltd"
+  },
+  {
+    "symbol": "002240.KS",
+    "name": "Kiswire Ltd."
+  },
+  {
+    "symbol": "002270.KS",
+    "name": "Lotte Food Co.,Ltd."
+  },
+  {
+    "symbol": "002310.KS",
+    "name": "Asia Paper Manufacturing.Co.,Ltd"
+  },
+  {
+    "symbol": "002320.KS",
+    "name": "Hanjin Transportation Co., Ltd."
+  },
+  {
+    "symbol": "002350.KS",
+    "name": "Nexen Tire Corporation"
+  },
+  {
+    "symbol": "002355.KS",
+    "name": "Nexen Tire Corporation"
+  },
+  {
+    "symbol": "002360.KS",
+    "name": "SH Energy & Chemical Co., Ltd."
+  },
+  {
+    "symbol": "002380.KS",
+    "name": "KCC Corporation"
+  },
+  {
+    "symbol": "002390.KS",
+    "name": "HANDOK Inc."
+  },
+  {
+    "symbol": "002410.KS",
+    "name": "Bumyang Construction Co.,Ltd."
+  },
+  {
+    "symbol": "002450.KS",
+    "name": "SAMICK MUSICAL INSTRUMENT Co., Ltd"
+  },
+  {
+    "symbol": "002460.KS",
+    "name": "Hwasung Industrial Co., Ltd."
+  },
+  {
+    "symbol": "002600.KS",
+    "name": "Choheung Corporation"
+  },
+  {
+    "symbol": "002620.KS",
+    "name": "Jeil Pharma Holdings Inc"
+  },
+  {
+    "symbol": "002630.KS",
+    "name": "ORIENT BIO Inc."
+  },
+  {
+    "symbol": "002690.KS",
+    "name": "Dong Il Steel Mfg Co.,Ltd"
+  },
+  {
+    "symbol": "002700.KS",
+    "name": "Shinil Electronics Co.,Ltd"
+  },
+  {
+    "symbol": "002710.KS",
+    "name": "TCC Steel Corp."
+  },
+  {
+    "symbol": "002720.KS",
+    "name": "Kukje Pharma Co., Ltd."
+  },
+  {
+    "symbol": "002760.KS",
+    "name": "Bolak Company Limited"
+  },
+  {
+    "symbol": "002780.KS",
+    "name": "ChinHung International, Inc."
+  },
+  {
+    "symbol": "002785.KS",
+    "name": "ChinHung International, Inc."
+  },
+  {
+    "symbol": "002787.KS",
+    "name": "ChinHung International, Inc."
+  },
+  {
+    "symbol": "002790.KS",
+    "name": "AMOREPACIFIC Group"
+  },
+  {
+    "symbol": "002795.KS",
+    "name": "AMOREPACIFIC Group"
+  },
+  {
+    "symbol": "00279K.KS",
+    "name": "AMOREPACIFIC Group"
+  },
+  {
+    "symbol": "002810.KS",
+    "name": "Samyung Trading Co., Ltd."
+  },
+  {
+    "symbol": "002820.KS",
+    "name": "SUN&L Co., Ltd."
+  },
+  {
+    "symbol": "002840.KS",
+    "name": "Miwon Commercial Co., Ltd."
+  },
+  {
+    "symbol": "002870.KS",
+    "name": "Shinpoong Paper Mfg. Co., Ltd"
+  },
+  {
+    "symbol": "002880.KS",
+    "name": "Dayou A-Tech Co.,Ltd"
+  },
+  {
+    "symbol": "002900.KS",
+    "name": "TYM Corporation"
+  },
+  {
+    "symbol": "002920.KS",
+    "name": "Yoosung Enterprise Co., Ltd."
+  },
+  {
+    "symbol": "002960.KS",
+    "name": "Hankook Shell Oil Co.,Ltd."
+  },
+  {
+    "symbol": "002990.KS",
+    "name": "KUMHO Engineering & Construction Co., Ltd."
+  },
+  {
+    "symbol": "002995.KS",
+    "name": "KUMHO Engineering & Construction Co., Ltd."
+  },
+  {
+    "symbol": "003000.KS",
+    "name": "Bukwang Pharmaceutical Co., Ltd."
+  },
+  {
+    "symbol": "003010.KS",
+    "name": "Haein Corporation"
+  },
+  {
+    "symbol": "003030.KS",
+    "name": "SeAH Steel Holdings Corporation"
+  },
+  {
+    "symbol": "003060.KS",
+    "name": "Aprogen pharmaceuticals,Inc."
+  },
+  {
+    "symbol": "003070.KS",
+    "name": "Kolon Global Corporation"
+  },
+  {
+    "symbol": "003075.KS",
+    "name": "Kolon Global Corporation"
+  },
+  {
+    "symbol": "003080.KS",
+    "name": "Sung Bo Chemicals Co., LTD"
+  },
+  {
+    "symbol": "003090.KS",
+    "name": "Daewoong Co., Ltd."
+  },
+  {
+    "symbol": "003120.KS",
+    "name": "Ilsung Pharmaceuticals Co., Ltd."
+  },
+  {
+    "symbol": "003160.KS",
+    "name": "D.I Corporation"
+  },
+  {
+    "symbol": "003200.KS",
+    "name": "Ilshin Spinning Co.,Ltd"
+  },
+  {
+    "symbol": "003220.KS",
+    "name": "Daewon Pharmaceutical Co., Ltd."
+  },
+  {
+    "symbol": "003230.KS",
+    "name": "Samyang Foods Co., Ltd."
+  },
+  {
+    "symbol": "003240.KS",
+    "name": "Taekwang Industrial Co., Ltd."
+  },
+  {
+    "symbol": "003300.KS",
+    "name": "Hanil Holdings Co., Ltd."
+  },
+  {
+    "symbol": "003350.KS",
+    "name": "Hankook Cosmetics Manufacturing Co., Ltd"
+  },
+  {
+    "symbol": "003410.KS",
+    "name": "SsangYong C&E Co., Ltd."
+  },
+  {
+    "symbol": "003460.KS",
+    "name": "Yuhwa Securities co.,ltd."
+  },
+  {
+    "symbol": "003465.KS",
+    "name": "Yuhwa Securities co.,ltd."
+  },
+  {
+    "symbol": "003470.KS",
+    "name": "Yuanta Securities Korea Co., Ltd."
+  },
+  {
+    "symbol": "003475.KS",
+    "name": "Yuanta Securities Korea Co., Ltd."
+  },
+  {
+    "symbol": "003480.KS",
+    "name": "Hanjin Heavy Industries & Construction Holdings Co., Ltd."
+  },
+  {
+    "symbol": "003490.KS",
+    "name": "Korean Air Lines Co., Ltd."
+  },
+  {
+    "symbol": "003495.KS",
+    "name": "Korean Air Lines Co., Ltd."
+  },
+  {
+    "symbol": "003520.KS",
+    "name": "Yungjin Pharm. Co., Ltd."
+  },
+  {
+    "symbol": "003530.KS",
+    "name": "Hanwha Investment & Securities Co., Ltd."
+  },
+  {
+    "symbol": "003535.KS",
+    "name": "Hanwha Investment & Securities Co., Ltd."
+  },
+  {
+    "symbol": "003540.KS",
+    "name": "Daishin Securities Co., Ltd."
+  },
+  {
+    "symbol": "003545.KS",
+    "name": "Daishin Securities Co., Ltd."
+  },
+  {
+    "symbol": "003547.KS",
+    "name": "Daishin Securities Co., Ltd."
+  },
+  {
+    "symbol": "003550.KS",
+    "name": "LG Corp."
+  },
+  {
+    "symbol": "003555.KS",
+    "name": "LG Corp."
+  },
+  {
+    "symbol": "003560.KS",
+    "name": "IHQ Inc."
+  },
+  {
+    "symbol": "003570.KS",
+    "name": "Snt Dynamics Co.,Ltd."
+  },
+  {
+    "symbol": "003580.KS",
+    "name": "HLB GLOBAL Co., Ltd."
+  },
+  {
+    "symbol": "003610.KS",
+    "name": "Pangrim Co., Ltd."
+  },
+  {
+    "symbol": "003620.KS",
+    "name": "Ssangyong Motor Company"
+  },
+  {
+    "symbol": "003650.KS",
+    "name": "Michang Oil Ind  .Co.,Ltd."
+  },
+  {
+    "symbol": "003670.KS",
+    "name": "Posco Chemical Co., Ltd."
+  },
+  {
+    "symbol": "003680.KS",
+    "name": "Hansung Enterprise Co.,Ltd"
+  },
+  {
+    "symbol": "003690.KS",
+    "name": "Korean Reinsurance Company"
+  },
+  {
+    "symbol": "003720.KS",
+    "name": "SamYoung Chemical Co.,Ltd"
+  },
+  {
+    "symbol": "003780.KS",
+    "name": "Chin Yang Industry Co., Ltd."
+  },
+  {
+    "symbol": "003830.KS",
+    "name": "Daehan Synthetic Fiber Co., Ltd."
+  },
+  {
+    "symbol": "003850.KS",
+    "name": "Boryung Corporation"
+  },
+  {
+    "symbol": "003920.KS",
+    "name": "Namyang Dairy Products Co., Ltd"
+  },
+  {
+    "symbol": "003925.KS",
+    "name": "Namyang Dairy Products Co., Ltd"
+  },
+  {
+    "symbol": "003960.KS",
+    "name": "Sajodaerim Corporation"
+  },
+  {
+    "symbol": "004000.KS",
+    "name": "LOTTE Fine Chemical Co., Ltd."
+  },
+  {
+    "symbol": "004020.KS",
+    "name": "Hyundai Steel Company"
+  },
+  {
+    "symbol": "004060.KS",
+    "name": "SG Corporation"
+  },
+  {
+    "symbol": "004080.KS",
+    "name": "Shinhung Co., Ltd"
+  },
+  {
+    "symbol": "004090.KS",
+    "name": "Korea Petroleum Industries Company"
+  },
+  {
+    "symbol": "004100.KS",
+    "name": "Taeyang Metal Industrial Co., Ltd."
+  },
+  {
+    "symbol": "004105.KS",
+    "name": "Taeyang Metal Industrial Co., Ltd."
+  },
+  {
+    "symbol": "004140.KS",
+    "name": "Dongbang Transport Logistics Co., Ltd."
+  },
+  {
+    "symbol": "004150.KS",
+    "name": "Hansol Holdings Co., Ltd."
+  },
+  {
+    "symbol": "004170.KS",
+    "name": "SHINSEGAE Inc."
+  },
+  {
+    "symbol": "004250.KS",
+    "name": "NPC Co., Ltd."
+  },
+  {
+    "symbol": "004255.KS",
+    "name": "NPC Co., Ltd."
+  },
+  {
+    "symbol": "004270.KS",
+    "name": "Namsung Corp."
+  },
+  {
+    "symbol": "004310.KS",
+    "name": "Hyundai Pharmaceutical Co., Ltd."
+  },
+  {
+    "symbol": "004360.KS",
+    "name": "Sebang Co., Ltd"
+  },
+  {
+    "symbol": "004365.KS",
+    "name": "Sebang Co., Ltd"
+  },
+  {
+    "symbol": "004370.KS",
+    "name": "Nongshim Co., Ltd."
+  },
+  {
+    "symbol": "004380.KS",
+    "name": "Samick THK Co., Ltd."
+  },
+  {
+    "symbol": "004410.KS",
+    "name": "Seoul Food Industrial.Co.,Ltd"
+  },
+  {
+    "symbol": "004415.KS",
+    "name": "Seoul Food Industrial.Co.,Ltd"
+  },
+  {
+    "symbol": "004430.KS",
+    "name": "Songwon Industrial Co., Ltd."
+  },
+  {
+    "symbol": "004440.KS",
+    "name": "Samil C&S Co.,Ltd"
+  },
+  {
+    "symbol": "004450.KS",
+    "name": "Samhwa Crown & Closure Co., Ltd"
+  },
+  {
+    "symbol": "004490.KS",
+    "name": "Sebang Global Battery Co., Ltd."
+  },
+  {
+    "symbol": "004540.KS",
+    "name": "KleanNara Co., Ltd."
+  },
+  {
+    "symbol": "004545.KS",
+    "name": "KleanNara Co., Ltd."
+  },
+  {
+    "symbol": "004560.KS",
+    "name": "Hyundai Bng Steel Co., Ltd."
+  },
+  {
+    "symbol": "004565.KS",
+    "name": "Hyundai Bng Steel Co., Ltd."
+  },
+  {
+    "symbol": "004690.KS",
+    "name": "Samchully Co.,Ltd"
+  },
+  {
+    "symbol": "004700.KS",
+    "name": "Chokwang Leather Co.,Ltd."
+  },
+  {
+    "symbol": "004710.KS",
+    "name": "Hansol  Technics Co., LTD."
+  },
+  {
+    "symbol": "004720.KS",
+    "name": "PharmGen Science, Inc."
+  },
+  {
+    "symbol": "004770.KS",
+    "name": "Sunny Electronics Corp."
+  },
+  {
+    "symbol": "004800.KS",
+    "name": "Hyosung Corporation"
+  },
+  {
+    "symbol": "004830.KS",
+    "name": "Duksung Co., Ltd."
+  },
+  {
+    "symbol": "004835.KS",
+    "name": "Duksung Co., Ltd."
+  },
+  {
+    "symbol": "004840.KS",
+    "name": "DRB Holding Co., Ltd."
+  },
+  {
+    "symbol": "004870.KS",
+    "name": "Tway Holdings Incorporation"
+  },
+  {
+    "symbol": "004890.KS",
+    "name": "Dongil Industries Co.,Ltd."
+  },
+  {
+    "symbol": "004910.KS",
+    "name": "Chokwang Paint Co., Ltd."
+  },
+  {
+    "symbol": "004920.KS",
+    "name": "CITECH Co., Ltd."
+  },
+  {
+    "symbol": "004960.KS",
+    "name": "HANSHIN Engineering & Construction Co., Ltd."
+  },
+  {
+    "symbol": "004970.KS",
+    "name": "Silla Co.,Ltd"
+  },
+  {
+    "symbol": "004980.KS",
+    "name": "Sungshin Cement Co., Ltd"
+  },
+  {
+    "symbol": "004985.KS",
+    "name": "Sungshin Cement Co., Ltd"
+  },
+  {
+    "symbol": "004990.KS",
+    "name": "LOTTE Corporation"
+  },
+  {
+    "symbol": "00499K.KS",
+    "name": "LOTTE Corporation"
+  },
+  {
+    "symbol": "005010.KS",
+    "name": "Husteel Co., Ltd."
+  },
+  {
+    "symbol": "005030.KS",
+    "name": "Pusan Cast Iron Co., Ltd."
+  },
+  {
+    "symbol": "005070.KS",
+    "name": "Cosmo Advanced Materials & Technology Co., Ltd."
+  },
+  {
+    "symbol": "005090.KS",
+    "name": "SGC Energy Co.,Ltd."
+  },
+  {
+    "symbol": "005110.KS",
+    "name": "Hanchang Corporation"
+  },
+  {
+    "symbol": "005180.KS",
+    "name": "Binggrae Co., Ltd."
+  },
+  {
+    "symbol": "005250.KS",
+    "name": "Green Cross Holdings Corporation"
+  },
+  {
+    "symbol": "005257.KS",
+    "name": "Green Cross Holdings Corporation"
+  },
+  {
+    "symbol": "005290.KS",
+    "name": "Dongjin Semichem Co Ltd"
+  },
+  {
+    "symbol": "005300.KS",
+    "name": "Lotte Chilsung Beverage Co., Ltd."
+  },
+  {
+    "symbol": "005305.KS",
+    "name": "Lotte Chilsung Beverage Co., Ltd."
+  },
+  {
+    "symbol": "005320.KS",
+    "name": "Kukdong Corporation"
+  },
+  {
+    "symbol": "005360.KS",
+    "name": "Monami Co., Ltd."
+  },
+  {
+    "symbol": "005380.KS",
+    "name": "Hyundai Motor Company"
+  },
+  {
+    "symbol": "005385.KS",
+    "name": "Hyundai Motor Company"
+  },
+  {
+    "symbol": "005387.KS",
+    "name": "Hyundai Motor Company"
+  },
+  {
+    "symbol": "005389.KS",
+    "name": "Hyundai Motor Company"
+  },
+  {
+    "symbol": "005390.KS",
+    "name": "Shinsung Tongsang Co., Ltd."
+  },
+  {
+    "symbol": "005420.KS",
+    "name": "Cosmo Chemical Co., Ltd."
+  },
+  {
+    "symbol": "005430.KS",
+    "name": "Korea Airport Service Co.,Ltd."
+  },
+  {
+    "symbol": "005440.KS",
+    "name": "Hyundai Green Food Co.,Ltd."
+  },
+  {
+    "symbol": "005490.KS",
+    "name": "POSCO Holdings Inc."
+  },
+  {
+    "symbol": "005500.KS",
+    "name": "Samjin Pharmaceuticals Co., Ltd."
+  },
+  {
+    "symbol": "005610.KS",
+    "name": "SPC Samlip Co., Ltd."
+  },
+  {
+    "symbol": "005680.KS",
+    "name": "Samyoung Electronics Co., Ltd"
+  },
+  {
+    "symbol": "005690.KS",
+    "name": "Pharmicell Co., Ltd."
+  },
+  {
+    "symbol": "005720.KS",
+    "name": "Nexen Corporation"
+  },
+  {
+    "symbol": "005725.KS",
+    "name": "Nexen Corporation"
+  },
+  {
+    "symbol": "005740.KS",
+    "name": "CROWNHAITAI Holdings Co.,Ltd."
+  },
+  {
+    "symbol": "005745.KS",
+    "name": "CROWNHAITAI Holdings Co.,Ltd."
+  },
+  {
+    "symbol": "005750.KS",
+    "name": "Daelim B&Co Co.,Ltd."
+  },
+  {
+    "symbol": "005800.KS",
+    "name": "Shinyoungwacoal,Inc."
+  },
+  {
+    "symbol": "005810.KS",
+    "name": "Poongsan Holdings Corporation"
+  },
+  {
+    "symbol": "005820.KS",
+    "name": "Wonlim Corporation"
+  },
+  {
+    "symbol": "005830.KS",
+    "name": "DB Insurance Co., Ltd."
+  },
+  {
+    "symbol": "005850.KS",
+    "name": "SL Corporation"
+  },
+  {
+    "symbol": "005870.KS",
+    "name": "Huneed Technologies"
+  },
+  {
+    "symbol": "005880.KS",
+    "name": "Korea Line Corporation"
+  },
+  {
+    "symbol": "005930.KS",
+    "name": "Samsung Electronics Co., Ltd."
+  },
+  {
+    "symbol": "005935.KS",
+    "name": "Samsung Electronics Co., Ltd."
+  },
+  {
+    "symbol": "005940.KS",
+    "name": "NH Investment & Securities Co., Ltd."
+  },
+  {
+    "symbol": "005945.KS",
+    "name": "NH Investment & Securities Co., Ltd."
+  },
+  {
+    "symbol": "005950.KS",
+    "name": "ISU Chemical Co., Ltd"
+  },
+  {
+    "symbol": "005960.KS",
+    "name": "Dongbu Corporation"
+  },
+  {
+    "symbol": "005965.KS",
+    "name": "Dongbu Corporation"
+  },
+  {
+    "symbol": "006040.KS",
+    "name": "Dongwon Industries Co., Ltd."
+  },
+  {
+    "symbol": "006050.KS",
+    "name": "Kuk Young G&M"
+  },
+  {
+    "symbol": "006060.KS",
+    "name": "HWASEUNG Industries Co.,Ltd."
+  },
+  {
+    "symbol": "006090.KS",
+    "name": "Oyang Corporation"
+  },
+  {
+    "symbol": "006110.KS",
+    "name": "Sam-A Aluminium Company, Limited"
+  },
+  {
+    "symbol": "006120.KS",
+    "name": "SK Discovery Co., Ltd."
+  },
+  {
+    "symbol": "006125.KS",
+    "name": "SK Discovery Co., Ltd."
+  },
+  {
+    "symbol": "006140.KS",
+    "name": "PJ Electronics Co Ltd"
+  },
+  {
+    "symbol": "006200.KS",
+    "name": "KEC Holdings Co., Ltd."
+  },
+  {
+    "symbol": "006220.KS",
+    "name": "Jeju Bank"
+  },
+  {
+    "symbol": "006260.KS",
+    "name": "LS Corp."
+  },
+  {
+    "symbol": "006280.KS",
+    "name": "Green Cross Corporation"
+  },
+  {
+    "symbol": "006340.KS",
+    "name": "Daewon Cable. Co., Ltd."
+  },
+  {
+    "symbol": "006345.KS",
+    "name": "Daewon Cable. Co., Ltd."
+  },
+  {
+    "symbol": "006360.KS",
+    "name": "GS Engineering & Construction Corporation"
+  },
+  {
+    "symbol": "006370.KS",
+    "name": "Daegu Department Store Co., Ltd."
+  },
+  {
+    "symbol": "006380.KS",
+    "name": "Capro Corporation"
+  },
+  {
+    "symbol": "006390.KS",
+    "name": "Hanil Hyundai Cement Co., Ltd"
+  },
+  {
+    "symbol": "006400.KS",
+    "name": "Samsung SDI Co., Ltd."
+  },
+  {
+    "symbol": "006405.KS",
+    "name": "Samsung SDI Co., Ltd."
+  },
+  {
+    "symbol": "006490.KS",
+    "name": "Inscobee., Inc."
+  },
+  {
+    "symbol": "006570.KS",
+    "name": "Daelim Trading Co., Ltd."
+  },
+  {
+    "symbol": "006650.KS",
+    "name": "Korea Petrochemical Ind. Co., Ltd."
+  },
+  {
+    "symbol": "006660.KS",
+    "name": "Samsung Climate Control Co., Ltd."
+  },
+  {
+    "symbol": "006740.KS",
+    "name": "Young Poong Paper Mfg Co.,Ltd."
+  },
+  {
+    "symbol": "006800.KS",
+    "name": "Mirae Asset Securities Co. Ltd."
+  },
+  {
+    "symbol": "006805.KS",
+    "name": "Mirae Asset Securities Co. Ltd."
+  },
+  {
+    "symbol": "00680K.KS",
+    "name": "Mirae Asset Securities Co. Ltd."
+  },
+  {
+    "symbol": "006840.KS",
+    "name": "AK Holdings, Inc."
+  },
+  {
+    "symbol": "006880.KS",
+    "name": "Singsong Holdings Co.,Ltd."
+  },
+  {
+    "symbol": "006890.KS",
+    "name": "Taekyung Chemical Co., Ltd."
+  },
+  {
+    "symbol": "006980.KS",
+    "name": "Woosung Co., Ltd."
+  },
+  {
+    "symbol": "007070.KS",
+    "name": "GS Retail Co., Ltd."
+  },
+  {
+    "symbol": "007110.KS",
+    "name": "Ilshinstone.Co.,Ltd."
+  },
+  {
+    "symbol": "007120.KS",
+    "name": "MiraeING.Co.,Ltd."
+  },
+  {
+    "symbol": "007160.KS",
+    "name": "Sajo Industries Company Limited"
+  },
+  {
+    "symbol": "007210.KS",
+    "name": "Byucksan Corporation"
+  },
+  {
+    "symbol": "007280.KS",
+    "name": "Korea Steel Co., Ltd."
+  },
+  {
+    "symbol": "007310.KS",
+    "name": "Ottogi Corporation"
+  },
+  {
+    "symbol": "007340.KS",
+    "name": "DN Automotive Corporation"
+  },
+  {
+    "symbol": "007460.KS",
+    "name": "Aprogen Medicines Inc."
+  },
+  {
+    "symbol": "007540.KS",
+    "name": "Sempio Company"
+  },
+  {
+    "symbol": "007570.KS",
+    "name": "Ilyang Pharmaceutical Co.,Ltd"
+  },
+  {
+    "symbol": "007575.KS",
+    "name": "Ilyang Pharmaceutical Co.,Ltd"
+  },
+  {
+    "symbol": "007590.KS",
+    "name": "DONGBANG AGRO Corporation"
+  },
+  {
+    "symbol": "007610.KS",
+    "name": "Seondo Electric Co., Ltd."
+  },
+  {
+    "symbol": "007630.KS",
+    "name": "Polus BioPharm Inc."
+  },
+  {
+    "symbol": "007660.KS",
+    "name": "ISU Petasys Co., Ltd."
+  },
+  {
+    "symbol": "007690.KS",
+    "name": "Kukdo Chemical Co., Ltd."
+  },
+  {
+    "symbol": "007700.KS",
+    "name": "F&F Holdings Co., Ltd."
+  },
+  {
+    "symbol": "007810.KS",
+    "name": "Korea Circuit Co., Ltd."
+  },
+  {
+    "symbol": "007815.KS",
+    "name": "Korea Circuit Co., Ltd."
+  },
+  {
+    "symbol": "00781K.KS",
+    "name": "Korea Circuit Co., Ltd."
+  },
+  {
+    "symbol": "007860.KS",
+    "name": "Seoyon Co., Ltd."
+  },
+  {
+    "symbol": "007980.KS",
+    "name": "Pan-Pacific Co., Ltd."
+  },
+  {
+    "symbol": "008040.KS",
+    "name": "Sajodongaone Co.,Ltd"
+  },
+  {
+    "symbol": "008060.KS",
+    "name": "Daeduck Co.,Ltd."
+  },
+  {
+    "symbol": "00806K.KS",
+    "name": "Daeduck Co.,Ltd."
+  },
+  {
+    "symbol": "008110.KS",
+    "name": "Daidong Electronics Co. Ltd."
+  },
+  {
+    "symbol": "008250.KS",
+    "name": "Eagon Industrial Co., Ltd."
+  },
+  {
+    "symbol": "008260.KS",
+    "name": "Ni Steel Co.,Ltd"
+  },
+  {
+    "symbol": "008350.KS",
+    "name": "Namsun Aluminum Co., Ltd."
+  },
+  {
+    "symbol": "008355.KS",
+    "name": "Namsun Aluminum Co., Ltd."
+  },
+  {
+    "symbol": "008420.KS",
+    "name": "Moonbaesteel Co.,Ltd"
+  },
+  {
+    "symbol": "008490.KS",
+    "name": "Suheung Co., Ltd."
+  },
+  {
+    "symbol": "008500.KS",
+    "name": "Iljeong Industrial Co.,Ltd"
+  },
+  {
+    "symbol": "008560.KS",
+    "name": "Meritz Securities Co., Ltd."
+  },
+  {
+    "symbol": "008600.KS",
+    "name": "The Willbes & CO., Ltd."
+  },
+  {
+    "symbol": "008700.KS",
+    "name": "Anam Electronics Co.,Ltd."
+  },
+  {
+    "symbol": "008730.KS",
+    "name": "Youlchon Chemical Co.,Ltd."
+  },
+  {
+    "symbol": "008770.KS",
+    "name": "Hotel Shilla Co.,Ltd"
+  },
+  {
+    "symbol": "008775.KS",
+    "name": "Hotel Shilla Co.,Ltd"
+  },
+  {
+    "symbol": "008870.KS",
+    "name": "Kumbi Corporation"
+  },
+  {
+    "symbol": "008930.KS",
+    "name": "Hanmi Science Co., Ltd."
+  },
+  {
+    "symbol": "008970.KS",
+    "name": "Dong Yang Steel Pipe Co., Ltd."
+  },
+  {
+    "symbol": "009070.KS",
+    "name": "KCTC Co. Ltd"
+  },
+  {
+    "symbol": "009140.KS",
+    "name": "Kyungin Electronics Co., Ltd"
+  },
+  {
+    "symbol": "009150.KS",
+    "name": "Samsung Electro-Mechanics Co., Ltd."
+  },
+  {
+    "symbol": "009155.KS",
+    "name": "Samsung Electro-Mechanics Co., Ltd."
+  },
+  {
+    "symbol": "009160.KS",
+    "name": "SIMPAC Inc."
+  },
+  {
+    "symbol": "009180.KS",
+    "name": "Hansol Logistics Co., Ltd."
+  },
+  {
+    "symbol": "009190.KS",
+    "name": "Daiyang Metal Co., Ltd."
+  },
+  {
+    "symbol": "009200.KS",
+    "name": "Moorim Paper Co., Ltd."
+  },
+  {
+    "symbol": "009240.KS",
+    "name": "Hanssem Co., Ltd."
+  },
+  {
+    "symbol": "009270.KS",
+    "name": "ShinWon Corporation"
+  },
+  {
+    "symbol": "009275.KS",
+    "name": "ShinWon Corporation"
+  },
+  {
+    "symbol": "009290.KS",
+    "name": "Kwang Dong Pharmaceutical Co., Ltd."
+  },
+  {
+    "symbol": "009310.KS",
+    "name": "Charm Engineering Co.,Ltd."
+  },
+  {
+    "symbol": "009320.KS",
+    "name": "Daewoo Electronic Components Co., Ltd."
+  },
+  {
+    "symbol": "009410.KS",
+    "name": "Taeyoung Engineering & Construction Co.,Ltd."
+  },
+  {
+    "symbol": "009415.KS",
+    "name": "Taeyoung Engineering & Construction Co.,Ltd."
+  },
+  {
+    "symbol": "009420.KS",
+    "name": "Hanall Biopharma Co.,Ltd"
+  },
+  {
+    "symbol": "009440.KS",
+    "name": "KC Green Holdings Co., Ltd."
+  },
+  {
+    "symbol": "009450.KS",
+    "name": "Kyung Dong Navien Co., Ltd."
+  },
+  {
+    "symbol": "009460.KS",
+    "name": "Hanchangpaper co., Ltd"
+  },
+  {
+    "symbol": "009470.KS",
+    "name": "Samwha Electric Co.,Ltd."
+  },
+  {
+    "symbol": "009540.KS",
+    "name": "Korea Shipbuilding & Offshore Engineering Co., Ltd."
+  },
+  {
+    "symbol": "009580.KS",
+    "name": "Moorim P&P Co., Ltd."
+  },
+  {
+    "symbol": "009680.KS",
+    "name": "Motonic Corporation"
+  },
+  {
+    "symbol": "009730.KS",
+    "name": "Kossen Co Ltd"
+  },
+  {
+    "symbol": "009770.KS",
+    "name": "Sam Jung Pulp Co.,Ltd."
+  },
+  {
+    "symbol": "009810.KS",
+    "name": "Playgram Co., Ltd."
+  },
+  {
+    "symbol": "009830.KS",
+    "name": "Hanwha Solutions Corporation"
+  },
+  {
+    "symbol": "009835.KS",
+    "name": "Hanwha Solutions Corporation"
+  },
+  {
+    "symbol": "009900.KS",
+    "name": "Myoung Shin Industrial Co.,Ltd"
+  },
+  {
+    "symbol": "009970.KS",
+    "name": "Youngone Holdings Co., Ltd."
+  },
+  {
+    "symbol": "010040.KS",
+    "name": "Korea Refractories Co., Ltd"
+  },
+  {
+    "symbol": "010050.KS",
+    "name": "Woori Investment Bank Co.,Ltd."
+  },
+  {
+    "symbol": "010060.KS",
+    "name": "OCI Company Ltd."
+  },
+  {
+    "symbol": "010100.KS",
+    "name": "Korea Flange Co., Ltd"
+  },
+  {
+    "symbol": "010120.KS",
+    "name": "LS ELECTRIC Co., Ltd."
+  },
+  {
+    "symbol": "010130.KS",
+    "name": "Korea Zinc Company, Ltd."
+  },
+  {
+    "symbol": "010140.KS",
+    "name": "Samsung Heavy Industries Co., Ltd."
+  },
+  {
+    "symbol": "010145.KS",
+    "name": "Samsung Heavy Industries Co., Ltd."
+  },
+  {
+    "symbol": "010400.KS",
+    "name": "Woojin I&S Co., Ltd."
+  },
+  {
+    "symbol": "010420.KS",
+    "name": "Hansol PNS Co.,Ltd."
+  },
+  {
+    "symbol": "010600.KS",
+    "name": "Wellbiotec Co., Ltd."
+  },
+  {
+    "symbol": "010620.KS",
+    "name": "Hyundai Mipo Dockyard Co., Ltd."
+  },
+  {
+    "symbol": "010640.KS",
+    "name": "Chinyang Poly Urethane Co.,Ltd"
+  },
+  {
+    "symbol": "010660.KS",
+    "name": "Hwacheon Machinery Co., Ltd."
+  },
+  {
+    "symbol": "010690.KS",
+    "name": "HWASHIN CO.,Ltd"
+  },
+  {
+    "symbol": "010770.KS",
+    "name": "Pyung Hwa Holdings Co., Ltd."
+  },
+  {
+    "symbol": "010780.KS",
+    "name": "IS DongSeo Co., Ltd."
+  },
+  {
+    "symbol": "010820.KS",
+    "name": "FIRSTEC Co., Ltd"
+  },
+  {
+    "symbol": "010950.KS",
+    "name": "S-Oil Corporation"
+  },
+  {
+    "symbol": "010955.KS",
+    "name": "S-Oil Corporation"
+  },
+  {
+    "symbol": "010960.KS",
+    "name": "Samho Development Co., LTD"
+  },
+  {
+    "symbol": "011000.KS",
+    "name": "GeneOne Life Science, Inc."
+  },
+  {
+    "symbol": "011070.KS",
+    "name": "LG Innotek Co., Ltd."
+  },
+  {
+    "symbol": "011090.KS",
+    "name": "ENEX Co.,LTD"
+  },
+  {
+    "symbol": "011150.KS",
+    "name": "CJ Seafood Corporation"
+  },
+  {
+    "symbol": "011155.KS",
+    "name": "CJ Seafood Corporation"
+  },
+  {
+    "symbol": "011170.KS",
+    "name": "Lotte Chemical Corporation"
+  },
+  {
+    "symbol": "011200.KS",
+    "name": "HMM Co.,Ltd"
+  },
+  {
+    "symbol": "011210.KS",
+    "name": "HYUNDAI WIA Corporation"
+  },
+  {
+    "symbol": "011230.KS",
+    "name": "Samwha Electronics Co.,Ltd."
+  },
+  {
+    "symbol": "011280.KS",
+    "name": "Tailim Packaging Co., Ltd."
+  },
+  {
+    "symbol": "011330.KS",
+    "name": "Uni-Chem Co., Ltd."
+  },
+  {
+    "symbol": "011390.KS",
+    "name": "Busan Industrial Co., Ltd."
+  },
+  {
+    "symbol": "011420.KS",
+    "name": "Galaxia SM, Inc."
+  },
+  {
+    "symbol": "011500.KS",
+    "name": "Hannong Chemicals Inc."
+  },
+  {
+    "symbol": "011690.KS",
+    "name": "Y2 Solution CO.,LTD"
+  },
+  {
+    "symbol": "011700.KS",
+    "name": "Hanshin Machinery Co., Ltd."
+  },
+  {
+    "symbol": "011760.KS",
+    "name": "Hyundai Corporation"
+  },
+  {
+    "symbol": "011780.KS",
+    "name": "Kumho Petrochemical Co., Ltd."
+  },
+  {
+    "symbol": "011785.KS",
+    "name": "Kumho Petrochemical Co., Ltd."
+  },
+  {
+    "symbol": "011790.KS",
+    "name": "SKC Co., Ltd."
+  },
+  {
+    "symbol": "011810.KS",
+    "name": "STX Corporation"
+  },
+  {
+    "symbol": "011930.KS",
+    "name": "Shinsung E&G Co., Ltd."
+  },
+  {
+    "symbol": "012030.KS",
+    "name": "DB Inc."
+  },
+  {
+    "symbol": "012160.KS",
+    "name": "Youngwire Co., Ltd."
+  },
+  {
+    "symbol": "012170.KS",
+    "name": "Ascendio Co., Ltd."
+  },
+  {
+    "symbol": "012200.KS",
+    "name": "Keyang Electric Machinery Co., Ltd."
+  },
+  {
+    "symbol": "012205.KS",
+    "name": "Keyang Electric Machinery Co., Ltd."
+  },
+  {
+    "symbol": "012280.KS",
+    "name": "Yeong Hwa Metal Co., Ltd."
+  },
+  {
+    "symbol": "012320.KS",
+    "name": "Kyungdong Invest Co., Ltd"
+  },
+  {
+    "symbol": "012330.KS",
+    "name": "Hyundai Mobis Co.,Ltd"
+  },
+  {
+    "symbol": "012450.KS",
+    "name": "Hanwha Aerospace Co., Ltd."
+  },
+  {
+    "symbol": "012510.KS",
+    "name": "Douzone Bizon Co., Ltd."
+  },
+  {
+    "symbol": "012610.KS",
+    "name": "Kyungin Synthetic Co., Ltd."
+  },
+  {
+    "symbol": "012630.KS",
+    "name": "HDC HOLDINGS CO.,Ltd"
+  },
+  {
+    "symbol": "012690.KS",
+    "name": "Monalisa Co., Ltd"
+  },
+  {
+    "symbol": "012750.KS",
+    "name": "S-1 Corporation"
+  },
+  {
+    "symbol": "012800.KS",
+    "name": "Daechang Co., Ltd."
+  },
+  {
+    "symbol": "013030.KS",
+    "name": "HY-LOK Corp"
+  },
+  {
+    "symbol": "013360.KS",
+    "name": "Ilsung Construction Co., Ltd."
+  },
+  {
+    "symbol": "013520.KS",
+    "name": "Hwaseung Corporation Co.,Ltd."
+  },
+  {
+    "symbol": "013570.KS",
+    "name": "DY Corporation"
+  },
+  {
+    "symbol": "013580.KS",
+    "name": "Kyeryong Construction Industrial Co., Ltd."
+  },
+  {
+    "symbol": "013700.KS",
+    "name": "CAMUS ENGINEERING & CONSTRUCTION Inc."
+  },
+  {
+    "symbol": "013870.KS",
+    "name": "GMB Korea Corp."
+  },
+  {
+    "symbol": "013890.KS",
+    "name": "Zinus, Inc"
+  },
+  {
+    "symbol": "014130.KS",
+    "name": "Hanexpress.Co., Ltd"
+  },
+  {
+    "symbol": "014160.KS",
+    "name": "DAE YOUNG Packaging.Co., Ltd."
+  },
+  {
+    "symbol": "014280.KS",
+    "name": "Kumkang Kind Co., Ltd."
+  },
+  {
+    "symbol": "014285.KS",
+    "name": "Kumkang Kind Co., Ltd."
+  },
+  {
+    "symbol": "014440.KS",
+    "name": "Youngbo Chemical Co., Ltd."
+  },
+  {
+    "symbol": "014530.KS",
+    "name": "Kukdong Oil & Chemicals Co.,Ltd"
+  },
+  {
+    "symbol": "014580.KS",
+    "name": "Taekyung Bk Co., Ltd"
+  },
+  {
+    "symbol": "014680.KS",
+    "name": "Hansol Chemical Co., Ltd."
+  },
+  {
+    "symbol": "014710.KS",
+    "name": "SAJO SEAFOOD Co.,Ltd"
+  },
+  {
+    "symbol": "014790.KS",
+    "name": "Halla Corporation"
+  },
+  {
+    "symbol": "014820.KS",
+    "name": "Dongwon Systems Corporation"
+  },
+  {
+    "symbol": "014825.KS",
+    "name": "Dongwon Systems Corporation"
+  },
+  {
+    "symbol": "014830.KS",
+    "name": "UNID Company Ltd."
+  },
+  {
+    "symbol": "014910.KS",
+    "name": "Sungmoon Electronics Co., Ltd."
+  },
+  {
+    "symbol": "014915.KS",
+    "name": "Sungmoon Electronics Co., Ltd."
+  },
+  {
+    "symbol": "014970.KS",
+    "name": "Samryoong Co Ltd"
+  },
+  {
+    "symbol": "014990.KS",
+    "name": "In the F CO.,LTD."
+  },
+  {
+    "symbol": "015020.KS",
+    "name": "E-Starco. Co. Ltd"
+  },
+  {
+    "symbol": "015230.KS",
+    "name": "Daechang Forging Co., Ltd."
+  },
+  {
+    "symbol": "015260.KS",
+    "name": "Automobile & PCB Inc."
+  },
+  {
+    "symbol": "015350.KS",
+    "name": "Busan City Gas. Co. Ltd."
+  },
+  {
+    "symbol": "015360.KS",
+    "name": "Yesco Holdings Co., Ltd."
+  },
+  {
+    "symbol": "015590.KS",
+    "name": "Curo Co.,Ltd."
+  },
+  {
+    "symbol": "015750.KS",
+    "name": "Sungwoo Hitech Co Ltd"
+  },
+  {
+    "symbol": "015760.KS",
+    "name": "Korea Electric Power Corporation"
+  },
+  {
+    "symbol": "015860.KS",
+    "name": "ILJIN Holdings Co., Ltd."
+  },
+  {
+    "symbol": "015890.KS",
+    "name": "Taekyung Industry.Co., Ltd."
+  },
+  {
+    "symbol": "016090.KS",
+    "name": "Daehyun Co.,Ltd."
+  },
+  {
+    "symbol": "016100.KS",
+    "name": "Leaders Cosmetics Co Ltd"
+  },
+  {
+    "symbol": "016360.KS",
+    "name": "Samsung Securities Co., Ltd."
+  },
+  {
+    "symbol": "016380.KS",
+    "name": "KG Dongbu Steel Co.,Ltd."
+  },
+  {
+    "symbol": "016385.KS",
+    "name": "KG Dongbu Steel Co.,Ltd."
+  },
+  {
+    "symbol": "016450.KS",
+    "name": "Hansae Yes24 Holdings Co., Ltd"
+  },
+  {
+    "symbol": "016580.KS",
+    "name": "Whan In Pharm Co.,Ltd."
+  },
+  {
+    "symbol": "016590.KS",
+    "name": "Shindaeyang Paper Co., Ltd."
+  },
+  {
+    "symbol": "016610.KS",
+    "name": "DB Financial Investment Co., Ltd."
+  },
+  {
+    "symbol": "016710.KS",
+    "name": "Daesung Holdings Co., Ltd."
+  },
+  {
+    "symbol": "016740.KS",
+    "name": "DUAL Co., Ltd."
+  },
+  {
+    "symbol": "016800.KS",
+    "name": "Fursys Inc."
+  },
+  {
+    "symbol": "016880.KS",
+    "name": "Woongjin Co., Ltd."
+  },
+  {
+    "symbol": "017040.KS",
+    "name": "Kwang Myung Electric Co.,Ltd"
+  },
+  {
+    "symbol": "017180.KS",
+    "name": "MYUNGMOON Pharm co.,Ltd"
+  },
+  {
+    "symbol": "017370.KS",
+    "name": "Wooshin Systems Co., Ltd."
+  },
+  {
+    "symbol": "017390.KS",
+    "name": "Seoul City Gas Co., Ltd."
+  },
+  {
+    "symbol": "017550.KS",
+    "name": "Soosan Heavy Industries Co., Ltd."
+  },
+  {
+    "symbol": "017670.KS",
+    "name": "SK Telecom Co.,Ltd"
+  },
+  {
+    "symbol": "017800.KS",
+    "name": "Hyundai Elevator Co., Ltd"
+  },
+  {
+    "symbol": "017810.KS",
+    "name": "Pulmuone Co., Ltd."
+  },
+  {
+    "symbol": "017900.KS",
+    "name": "AUK Corp."
+  },
+  {
+    "symbol": "017940.KS",
+    "name": "E1 Corporation"
+  },
+  {
+    "symbol": "017960.KS",
+    "name": "Hankuk Carbon Co., Ltd."
+  },
+  {
+    "symbol": "018250.KS",
+    "name": "Aekyung Industrial Co., Ltd."
+  },
+  {
+    "symbol": "018260.KS",
+    "name": "Samsung SDS Co.,Ltd."
+  },
+  {
+    "symbol": "018470.KS",
+    "name": "Choil Aluminum Co., Ltd."
+  },
+  {
+    "symbol": "018500.KS",
+    "name": "Dongwon Metal Co., Ltd."
+  },
+  {
+    "symbol": "018670.KS",
+    "name": "SK Gas Co., Ltd."
+  },
+  {
+    "symbol": "018880.KS",
+    "name": "Hanon Systems"
+  },
+  {
+    "symbol": "019170.KS",
+    "name": "Shin Poong Pharm.Co.,Ltd."
+  },
+  {
+    "symbol": "019175.KS",
+    "name": "Shin Poong Pharm.Co.,Ltd."
+  },
+  {
+    "symbol": "019180.KS",
+    "name": "THN Corporation"
+  },
+  {
+    "symbol": "019440.KS",
+    "name": "SeAH SPECIALSTEEL CO., LTD."
+  },
+  {
+    "symbol": "019490.KS",
+    "name": "Hitron Systems Inc."
+  },
+  {
+    "symbol": "019680.KS",
+    "name": "Daekyo Co., Ltd."
+  },
+  {
+    "symbol": "019685.KS",
+    "name": "Daekyo Co., Ltd."
+  },
+  {
+    "symbol": "020000.KS",
+    "name": "HANDSOME Corp."
+  },
+  {
+    "symbol": "020120.KS",
+    "name": "KidariStudio, Inc."
+  },
+  {
+    "symbol": "020150.KS",
+    "name": "ILJIN Materials Co., Ltd."
+  },
+  {
+    "symbol": "020560.KS",
+    "name": "Asiana Airlines, Inc."
+  },
+  {
+    "symbol": "020760.KS",
+    "name": "Iljin Display Co., Ltd."
+  },
+  {
+    "symbol": "021050.KS",
+    "name": "Seowon Co., Ltd."
+  },
+  {
+    "symbol": "021240.KS",
+    "name": "COWAY Co., Ltd."
+  },
+  {
+    "symbol": "022100.KS",
+    "name": "Posco Dx Company Ltd."
+  },
+  {
+    "symbol": "023000.KS",
+    "name": "SAMWONSTEEL Co.,Ltd."
+  },
+  {
+    "symbol": "023150.KS",
+    "name": "MH Ethanol Co.,Ltd."
+  },
+  {
+    "symbol": "023350.KS",
+    "name": "Korea Engineering Consultants Corp."
+  },
+  {
+    "symbol": "023450.KS",
+    "name": "Dongnam Chemical Co., LTD."
+  },
+  {
+    "symbol": "023530.KS",
+    "name": "Lotte Shopping Co., Ltd."
+  },
+  {
+    "symbol": "023590.KS",
+    "name": "Daou Technology Inc."
+  },
+  {
+    "symbol": "023800.KS",
+    "name": "INZI Controls Co.,Ltd."
+  },
+  {
+    "symbol": "023810.KS",
+    "name": "INFAC Corporation"
+  },
+  {
+    "symbol": "023960.KS",
+    "name": "SC Engineering Co., Ltd"
+  },
+  {
+    "symbol": "024070.KS",
+    "name": "Wiscom Co.,Ltd."
+  },
+  {
+    "symbol": "024090.KS",
+    "name": "DCM Corp."
+  },
+  {
+    "symbol": "024110.KS",
+    "name": "Industrial Bank of Korea"
+  },
+  {
+    "symbol": "024720.KS",
+    "name": "Kolmar Korea Holdings Co., Ltd."
+  },
+  {
+    "symbol": "024890.KS",
+    "name": "DAEWON Chemical Co., Ltd."
+  },
+  {
+    "symbol": "024900.KS",
+    "name": "Duckyang Ind. Co., Ltd."
+  },
+  {
+    "symbol": "025000.KS",
+    "name": "KPX Chemical Co.,Ltd."
+  },
+  {
+    "symbol": "025530.KS",
+    "name": "SJM Holdings Co.,Ltd."
+  },
+  {
+    "symbol": "025540.KS",
+    "name": "Korea Electric Terminal Co., Ltd."
+  },
+  {
+    "symbol": "025560.KS",
+    "name": "Mirae Corporation"
+  },
+  {
+    "symbol": "025620.KS",
+    "name": "Jayjun Cosmetic Co., Ltd."
+  },
+  {
+    "symbol": "025750.KS",
+    "name": "Hansol HomeDeco Co., Ltd."
+  },
+  {
+    "symbol": "025820.KS",
+    "name": "Leeku Industrial Co., Ltd."
+  },
+  {
+    "symbol": "025860.KS",
+    "name": "Namhae Chemical Corporation"
+  },
+  {
+    "symbol": "025890.KS",
+    "name": "Hankook Steel Co., Ltd."
+  },
+  {
+    "symbol": "025900.KS",
+    "name": "Dongwha Enterprise Co Ltd"
+  },
+  {
+    "symbol": "026890.KS",
+    "name": "STIC Investments, Inc."
+  },
+  {
+    "symbol": "026910.KS",
+    "name": "Kwang Jin Industry Co Ltd"
+  },
+  {
+    "symbol": "026940.KS",
+    "name": "Bookook Steel Co., Ltd."
+  },
+  {
+    "symbol": "026960.KS",
+    "name": "Dong Suh Companies Inc."
+  },
+  {
+    "symbol": "027410.KS",
+    "name": "BGF Co., Ltd."
+  },
+  {
+    "symbol": "027740.KS",
+    "name": "Maniker.Co.,Ltd"
+  },
+  {
+    "symbol": "027970.KS",
+    "name": "seha corporation"
+  },
+  {
+    "symbol": "028050.KS",
+    "name": "Samsung Engineering Co., Ltd."
+  },
+  {
+    "symbol": "028100.KS",
+    "name": "Dong-Ah Geological Engineering Company Ltd."
+  },
+  {
+    "symbol": "028260.KS",
+    "name": "Samsung C&T Corporation"
+  },
+  {
+    "symbol": "02826K.KS",
+    "name": "Samsung C&T Corporation"
+  },
+  {
+    "symbol": "028670.KS",
+    "name": "Pan Ocean Co., Ltd."
+  },
+  {
+    "symbol": "029460.KS",
+    "name": "KC Co., Ltd."
+  },
+  {
+    "symbol": "029530.KS",
+    "name": "sindoh Co.,Ltd."
+  },
+  {
+    "symbol": "029780.KS",
+    "name": "Samsung Card Co., Ltd."
+  },
+  {
+    "symbol": "029960.KS",
+    "name": "Korea Environment Technology Co Ltd"
+  },
+  {
+    "symbol": "030000.KS",
+    "name": "Cheil Worldwide Inc."
+  },
+  {
+    "symbol": "030200.KS",
+    "name": "KT Corporation"
+  },
+  {
+    "symbol": "030210.KS",
+    "name": "Daol Investment & Securities Co., Ltd."
+  },
+  {
+    "symbol": "030520.KS",
+    "name": "Hancom Inc"
+  },
+  {
+    "symbol": "030610.KS",
+    "name": "Kyobo Securities Co ., Ltd"
+  },
+  {
+    "symbol": "030720.KS",
+    "name": "Dong Won Fisheries Co., Ltd."
+  },
+  {
+    "symbol": "030790.KS",
+    "name": "BK TOPS Co., Ltd."
+  },
+  {
+    "symbol": "031430.KS",
+    "name": "Shinsegae International Co., Ltd."
+  },
+  {
+    "symbol": "031440.KS",
+    "name": "SHINSEGAE FOOD Inc."
+  },
+  {
+    "symbol": "031820.KS",
+    "name": "Comtec Systems Co.,Ltd."
+  },
+  {
+    "symbol": "032350.KS",
+    "name": "Lotte Tour Development Co., Ltd."
+  },
+  {
+    "symbol": "032560.KS",
+    "name": "Hwang Kum Steel & Technology Co., Ltd"
+  },
+  {
+    "symbol": "032640.KS",
+    "name": "LG Uplus Corp."
+  },
+  {
+    "symbol": "032830.KS",
+    "name": "Samsung Life Insurance Co., Ltd."
+  },
+  {
+    "symbol": "032850.KS",
+    "name": "BIT Computer Co Ltd"
+  },
+  {
+    "symbol": "033180.KS",
+    "name": "KH Feelux Co., Ltd."
+  },
+  {
+    "symbol": "033240.KS",
+    "name": "Jahwa Electronics. Co., Ltd"
+  },
+  {
+    "symbol": "033250.KS",
+    "name": "CHASYS Co., Ltd."
+  },
+  {
+    "symbol": "033270.KS",
+    "name": "Korea United Pharm Inc."
+  },
+  {
+    "symbol": "033500.KS",
+    "name": "Dongsung FineTec Co Ltd"
+  },
+  {
+    "symbol": "033530.KS",
+    "name": "Sejong Industrial Co., Ltd."
+  },
+  {
+    "symbol": "033780.KS",
+    "name": "KT&G Corporation"
+  },
+  {
+    "symbol": "033920.KS",
+    "name": "Muhak Co., Ltd."
+  },
+  {
+    "symbol": "034020.KS",
+    "name": "Doosan Enerbility Co., Ltd."
+  },
+  {
+    "symbol": "034120.KS",
+    "name": "Seoul Broadcasting System"
+  },
+  {
+    "symbol": "034220.KS",
+    "name": "LG Display Co., Ltd."
+  },
+  {
+    "symbol": "034230.KS",
+    "name": "Paradise Co., Ltd."
+  },
+  {
+    "symbol": "034300.KS",
+    "name": "Shinsegae Engineering & Construction Inc."
+  },
+  {
+    "symbol": "034310.KS",
+    "name": "NICE Holdings Co., Ltd."
+  },
+  {
+    "symbol": "034590.KS",
+    "name": "Incheon City Gas Co., Ltd."
+  },
+  {
+    "symbol": "034730.KS",
+    "name": "SK Inc."
+  },
+  {
+    "symbol": "03473K.KS",
+    "name": "SK Inc."
+  },
+  {
+    "symbol": "034830.KS",
+    "name": "KOREIT"
+  },
+  {
+    "symbol": "035000.KS",
+    "name": "GIIR Inc."
+  },
+  {
+    "symbol": "035150.KS",
+    "name": "BAIKSAN Co,. Ltd"
+  },
+  {
+    "symbol": "035200.KS",
+    "name": "Plumb Fast Co Ltd"
+  },
+  {
+    "symbol": "035250.KS",
+    "name": "Kangwon Land, Inc."
+  },
+  {
+    "symbol": "035420.KS",
+    "name": "NAVER Corporation"
+  },
+  {
+    "symbol": "035510.KS",
+    "name": "SHINSEGAE Information & Communication Co., LTD"
+  },
+  {
+    "symbol": "035720.KS",
+    "name": "Kakao Corp."
+  },
+  {
+    "symbol": "036180.KS",
+    "name": "GW Vitek Co Ltd"
+  },
+  {
+    "symbol": "036420.KS",
+    "name": "ContentreeJoongAng corp."
+  },
+  {
+    "symbol": "036460.KS",
+    "name": "Korea Gas Corporation"
+  },
+  {
+    "symbol": "036530.KS",
+    "name": "SNT Holdings Co., Ltd."
+  },
+  {
+    "symbol": "036540.KS",
+    "name": "SFA Semicon Co Ltd"
+  },
+  {
+    "symbol": "036570.KS",
+    "name": "Ncsoft Corporation"
+  },
+  {
+    "symbol": "036580.KS",
+    "name": "Farmsco"
+  },
+  {
+    "symbol": "036710.KS",
+    "name": "Simmtech Holdings Co"
+  },
+  {
+    "symbol": "037270.KS",
+    "name": "YG Plus, Inc."
+  },
+  {
+    "symbol": "037560.KS",
+    "name": "LG HelloVision Corp."
+  },
+  {
+    "symbol": "037710.KS",
+    "name": "Gwangju Shinsegae. Co. ,Ltd."
+  },
+  {
+    "symbol": "038010.KS",
+    "name": "Jeil Technos Co Ltd"
+  },
+  {
+    "symbol": "039130.KS",
+    "name": "Hanatour Service Inc."
+  },
+  {
+    "symbol": "039490.KS",
+    "name": "Kiwoom Securities Co., Ltd."
+  },
+  {
+    "symbol": "039570.KS",
+    "name": "HDC I-Controls Co., Ltd."
+  },
+  {
+    "symbol": "039830.KS",
+    "name": "Aurora World Corp"
+  },
+  {
+    "symbol": "041020.KS",
+    "name": "Polaris Office Corp"
+  },
+  {
+    "symbol": "041650.KS",
+    "name": "Sangsin Brake Co., Ltd."
+  },
+  {
+    "symbol": "042660.KS",
+    "name": "Daewoo Shipbuilding & Marine Engineering Co., Ltd."
+  },
+  {
+    "symbol": "042670.KS",
+    "name": "Hyundai Doosan Infracore Co., Ltd."
+  },
+  {
+    "symbol": "042700.KS",
+    "name": "HANMI Semiconductor Co., Ltd."
+  },
+  {
+    "symbol": "043650.KS",
+    "name": "Kook Soon Dang Co Ltd"
+  },
+  {
+    "symbol": "044380.KS",
+    "name": "JOOYONTECH CO., Ltd"
+  },
+  {
+    "symbol": "044450.KS",
+    "name": "KSS Line Ltd."
+  },
+  {
+    "symbol": "044820.KS",
+    "name": "Cosmax BTI, Inc."
+  },
+  {
+    "symbol": "045510.KS",
+    "name": "Zungwon En-Sys Inc"
+  },
+  {
+    "symbol": "047040.KS",
+    "name": "Daewoo Engineering & Construction Co., Ltd."
+  },
+  {
+    "symbol": "047050.KS",
+    "name": "Posco International Corporation"
+  },
+  {
+    "symbol": "047400.KS",
+    "name": "Union Materials Corp."
+  },
+  {
+    "symbol": "047810.KS",
+    "name": "Korea Aerospace Industries, Ltd."
+  },
+  {
+    "symbol": "049070.KS",
+    "name": "Intops Co Ltd"
+  },
+  {
+    "symbol": "049770.KS",
+    "name": "Dongwon F&B Co., Ltd."
+  },
+  {
+    "symbol": "049800.KS",
+    "name": "Woojin Plaimm Co., Ltd."
+  },
+  {
+    "symbol": "051600.KS",
+    "name": "KEPCO Plant Service & Engineering Co.,Ltd."
+  },
+  {
+    "symbol": "051630.KS",
+    "name": "ChinYang Chemical Corporation"
+  },
+  {
+    "symbol": "051900.KS",
+    "name": "LG H&H Co., Ltd."
+  },
+  {
+    "symbol": "051905.KS",
+    "name": "LG H&H Co., Ltd."
+  },
+  {
+    "symbol": "051910.KS",
+    "name": "LG Chem, Ltd."
+  },
+  {
+    "symbol": "051915.KS",
+    "name": "LG Chem, Ltd."
+  },
+  {
+    "symbol": "052020.KS",
+    "name": "Stcube Inc"
+  },
+  {
+    "symbol": "052690.KS",
+    "name": "KEPCO Engineering & Construction Company, Inc."
+  },
+  {
+    "symbol": "053210.KS",
+    "name": "KT Skylife Co., Ltd."
+  },
+  {
+    "symbol": "053690.KS",
+    "name": "HanmiGlobal Co., Ltd."
+  },
+  {
+    "symbol": "054210.KS",
+    "name": "Elentec Co Ltd"
+  },
+  {
+    "symbol": "054300.KS",
+    "name": "Panstar Enterprise Co Ltd"
+  },
+  {
+    "symbol": "054540.KS",
+    "name": "Samyoung M-Tek Co Ltd"
+  },
+  {
+    "symbol": "055490.KS",
+    "name": "Tapex Co., Ltd."
+  },
+  {
+    "symbol": "055550.KS",
+    "name": "Shinhan Financial Group Co., Ltd."
+  },
+  {
+    "symbol": "056080.KS",
+    "name": "Yujin Robot Co Ltd"
+  },
+  {
+    "symbol": "056730.KS",
+    "name": "CNT85 Inc"
+  },
+  {
+    "symbol": "057050.KS",
+    "name": "Hyundai Home Shopping Network Corporation"
+  },
+  {
+    "symbol": "058430.KS",
+    "name": "POSCO STEELEON Co., Ltd."
+  },
+  {
+    "symbol": "058630.KS",
+    "name": "Mgame Corp"
+  },
+  {
+    "symbol": "058650.KS",
+    "name": "SeAH Holdings Corporation"
+  },
+  {
+    "symbol": "058730.KS",
+    "name": "Development Advance Solution Co.,Ltd."
+  },
+  {
+    "symbol": "058850.KS",
+    "name": "ktcs corporation"
+  },
+  {
+    "symbol": "058860.KS",
+    "name": "KTIS Corporation"
+  },
+  {
+    "symbol": "059090.KS",
+    "name": "MiCo Ltd"
+  },
+  {
+    "symbol": "060150.KS",
+    "name": "Insun Environmental New Technology Co Ltd"
+  },
+  {
+    "symbol": "060370.KS",
+    "name": "KT Submarine Co Ltd"
+  },
+  {
+    "symbol": "060380.KS",
+    "name": "Dongyang S Tec Co Ltd"
+  },
+  {
+    "symbol": "060980.KS",
+    "name": "Halla Holdings Corp."
+  },
+  {
+    "symbol": "062040.KS",
+    "name": null
+  },
+  {
+    "symbol": "063160.KS",
+    "name": "CKD Bio Corp."
+  },
+  {
+    "symbol": "064290.KS",
+    "name": "INTEKPLUS Co Ltd"
+  },
+  {
+    "symbol": "064350.KS",
+    "name": "Hyundai Rotem Company"
+  },
+  {
+    "symbol": "064550.KS",
+    "name": "Bioneer Corp"
+  },
+  {
+    "symbol": "064760.KS",
+    "name": "Tokai Carbon Korea Co Ltd"
+  },
+  {
+    "symbol": "064960.KS",
+    "name": "SNT Motiv Co., Ltd."
+  },
+  {
+    "symbol": "065350.KS",
+    "name": "Shinsung Delta Tech Co Ltd"
+  },
+  {
+    "symbol": "065680.KS",
+    "name": "Uju Electronics Co Ltd"
+  },
+  {
+    "symbol": "066310.KS",
+    "name": "QSI Co Ltd"
+  },
+  {
+    "symbol": "066570.KS",
+    "name": "LG Electronics Inc."
+  },
+  {
+    "symbol": "066575.KS",
+    "name": "LG Electronics Inc."
+  },
+  {
+    "symbol": "066670.KS",
+    "name": "Display Tech Co Ltd"
+  },
+  {
+    "symbol": "067630.KS",
+    "name": "HLB Life Science Co Ltd"
+  },
+  {
+    "symbol": "067830.KS",
+    "name": "Savezone I&C Corporation"
+  },
+  {
+    "symbol": "067900.KS",
+    "name": "Y-Entec Co Ltd"
+  },
+  {
+    "symbol": "067990.KS",
+    "name": "Deutsch Motors Inc"
+  },
+  {
+    "symbol": "068270.KS",
+    "name": "Celltrion, Inc."
+  },
+  {
+    "symbol": "068290.KS",
+    "name": "Samsung Publishing Co., Ltd"
+  },
+  {
+    "symbol": "068330.KS",
+    "name": "ilShinbiobase Co Ltd"
+  },
+  {
+    "symbol": "068400.KS",
+    "name": "SK Rent A Car Co., Ltd"
+  },
+  {
+    "symbol": "068760.KS",
+    "name": "Celltrion Pharm Inc"
+  },
+  {
+    "symbol": "069080.KS",
+    "name": "Webzen Inc"
+  },
+  {
+    "symbol": "069260.KS",
+    "name": "TKG Huchems Co.,Ltd."
+  },
+  {
+    "symbol": "069460.KS",
+    "name": "Daeho Al Co.,Ltd."
+  },
+  {
+    "symbol": "069500.KS",
+    "name": "KODEX 200"
+  },
+  {
+    "symbol": "069620.KS",
+    "name": "Daewoong pharmaceutical Co.,Ltd"
+  },
+  {
+    "symbol": "069640.KS",
+    "name": "Hansaemk Co.,Ltd."
+  },
+  {
+    "symbol": "069660.KS",
+    "name": "KOSEF 200"
+  },
+  {
+    "symbol": "069730.KS",
+    "name": "DSR Wire Corp"
+  },
+  {
+    "symbol": "069960.KS",
+    "name": "Hyundai Department Store Co. Ltd."
+  },
+  {
+    "symbol": "070960.KS",
+    "name": "HJ Magnolia Yongpyong Hotel & Resort"
+  },
+  {
+    "symbol": "071050.KS",
+    "name": "Korea Investment Holdings Co., Ltd."
+  },
+  {
+    "symbol": "071055.KS",
+    "name": "Korea Investment Holdings Co., Ltd."
+  },
+  {
+    "symbol": "071090.KS",
+    "name": "Histeel Co.,Ltd."
+  },
+  {
+    "symbol": "071200.KS",
+    "name": "Infinitt Healthcare Co Ltd"
+  },
+  {
+    "symbol": "071320.KS",
+    "name": "Korea District Heating Corp."
+  },
+  {
+    "symbol": "071670.KS",
+    "name": "A-Tech Solution Co Ltd"
+  },
+  {
+    "symbol": "071840.KS",
+    "name": "LOTTE Himart Co.,Ltd."
+  },
+  {
+    "symbol": "071950.KS",
+    "name": "KOAS Co., Ltd."
+  },
+  {
+    "symbol": "071970.KS",
+    "name": "STX Heavy Industries Co., Ltd."
+  },
+  {
+    "symbol": "072130.KS",
+    "name": "UANGEL Corporation"
+  },
+  {
+    "symbol": "072710.KS",
+    "name": "Nongshim Holdings Co.,Ltd."
+  },
+  {
+    "symbol": "073240.KS",
+    "name": "Kumho Tire Co., Inc."
+  },
+  {
+    "symbol": "073490.KS",
+    "name": "InnoWireless Co Ltd"
+  },
+  {
+    "symbol": "074610.KS",
+    "name": "ENPLUS Co., Ltd."
+  },
+  {
+    "symbol": "075130.KS",
+    "name": "PLANTYNET Co Ltd"
+  },
+  {
+    "symbol": "075180.KS",
+    "name": "Saeron Automotive Corporation"
+  },
+  {
+    "symbol": "075580.KS",
+    "name": "Sejin Heavy Industries Co., Ltd."
+  },
+  {
+    "symbol": "077500.KS",
+    "name": "Uniquest Corporation"
+  },
+  {
+    "symbol": "077970.KS",
+    "name": "STX Engine Co.,Ltd."
+  },
+  {
+    "symbol": "078000.KS",
+    "name": "Telcoware Co.,Ltd."
+  },
+  {
+    "symbol": "078520.KS",
+    "name": "Able C&C Co., Ltd."
+  },
+  {
+    "symbol": "078930.KS",
+    "name": "GS Holdings Corp."
+  },
+  {
+    "symbol": "078935.KS",
+    "name": "GS Holdings Corp."
+  },
+  {
+    "symbol": "079160.KS",
+    "name": "CJ CGV Co., Ltd."
+  },
+  {
+    "symbol": "079430.KS",
+    "name": "Hyundai Livart Furniture Company Limited"
+  },
+  {
+    "symbol": "079550.KS",
+    "name": "LIG Nex1 Co., Ltd."
+  },
+  {
+    "symbol": "079980.KS",
+    "name": "Huvis Corporation"
+  },
+  {
+    "symbol": "081000.KS",
+    "name": "Iljin Diamond Co.,Ltd"
+  },
+  {
+    "symbol": "081580.KS",
+    "name": "Sungwoo Electronics Co Ltd"
+  },
+  {
+    "symbol": "081660.KS",
+    "name": "FILA Holdings Corporation"
+  },
+  {
+    "symbol": "082640.KS",
+    "name": "Tong Yang Life Insurance Co., Ltd."
+  },
+  {
+    "symbol": "082740.KS",
+    "name": "HSD Engine Co., Ltd."
+  },
+  {
+    "symbol": "083420.KS",
+    "name": "Green Chemical Co., Ltd."
+  },
+  {
+    "symbol": "084010.KS",
+    "name": "Daehan Steel Co., Ltd."
+  },
+  {
+    "symbol": "084670.KS",
+    "name": "Dongyang Express Corp."
+  },
+  {
+    "symbol": "084680.KS",
+    "name": "E-World Co.,Ltd."
+  },
+  {
+    "symbol": "084690.KS",
+    "name": "Daesang Holdings Co., Ltd."
+  },
+  {
+    "symbol": "084695.KS",
+    "name": "Daesang Holdings Co., Ltd."
+  },
+  {
+    "symbol": "084870.KS",
+    "name": "TBH Global Co., Ltd"
+  },
+  {
+    "symbol": "085310.KS",
+    "name": "NK Co., Ltd."
+  },
+  {
+    "symbol": "085370.KS",
+    "name": "Lutronic Corp"
+  },
+  {
+    "symbol": "085620.KS",
+    "name": "Mirae Asset Life Insurance Co., Ltd."
+  },
+  {
+    "symbol": "086280.KS",
+    "name": "Hyundai Glovis Co., Ltd."
+  },
+  {
+    "symbol": "086790.KS",
+    "name": "Hana Financial Group Inc."
+  },
+  {
+    "symbol": "088260.KS",
+    "name": "E Kocref Cr-Reit"
+  },
+  {
+    "symbol": "088350.KS",
+    "name": "Hanwha Life Insurance Co., Ltd."
+  },
+  {
+    "symbol": "088790.KS",
+    "name": "Jindo.Co., Ltd."
+  },
+  {
+    "symbol": "088980.KS",
+    "name": "Macquarie Korea Infrastructure Fund"
+  },
+  {
+    "symbol": "089470.KS",
+    "name": "HDC Hyundai Engineering Plastics Co., Ltd."
+  },
+  {
+    "symbol": "089590.KS",
+    "name": "Jeju Air Co., Ltd."
+  },
+  {
+    "symbol": "089860.KS",
+    "name": "LOTTE rental co.,ltd."
+  },
+  {
+    "symbol": "090080.KS",
+    "name": "Pyung Hwa Industrial Co., Ltd."
+  },
+  {
+    "symbol": "090350.KS",
+    "name": "NOROO PAINT & COATINGS Co., Ltd."
+  },
+  {
+    "symbol": "090355.KS",
+    "name": "NOROO PAINT & COATINGS Co., Ltd."
+  },
+  {
+    "symbol": "090370.KS",
+    "name": "Metalabs Co., Ltd."
+  },
+  {
+    "symbol": "090430.KS",
+    "name": "Amorepacific Corporation"
+  },
+  {
+    "symbol": "090435.KS",
+    "name": "Amorepacific Corporation"
+  },
+  {
+    "symbol": "091090.KS",
+    "name": "SEWON E&C CO., Ltd."
+  },
+  {
+    "symbol": "091160.KS",
+    "name": "Kodex Semicon"
+  },
+  {
+    "symbol": "091170.KS",
+    "name": "Kodex Banks"
+  },
+  {
+    "symbol": "091180.KS",
+    "name": "Kodex Autos"
+  },
+  {
+    "symbol": "091220.KS",
+    "name": "Mirae Asset TIGER Banks ETF"
+  },
+  {
+    "symbol": "091230.KS",
+    "name": "Mirae Asset TIGER Semicon ETF"
+  },
+  {
+    "symbol": "091810.KS",
+    "name": "T'Way Air Co., Ltd."
+  },
+  {
+    "symbol": "092200.KS",
+    "name": "DAE-IL Corporation"
+  },
+  {
+    "symbol": "092220.KS",
+    "name": "Kec Corporation"
+  },
+  {
+    "symbol": "092230.KS",
+    "name": "KPX Holdings Co.,Ltd."
+  },
+  {
+    "symbol": "092440.KS",
+    "name": "Kishin Corporation"
+  },
+  {
+    "symbol": "092730.KS",
+    "name": "NeoPharm Co Limited"
+  },
+  {
+    "symbol": "092780.KS",
+    "name": "Dong Yang Piston Co., Ltd."
+  },
+  {
+    "symbol": "093050.KS",
+    "name": "LF Corp."
+  },
+  {
+    "symbol": "093230.KS",
+    "name": "E Investment&Development Co., Ltd."
+  },
+  {
+    "symbol": "093240.KS",
+    "name": "hyungji Elite Co., Ltd."
+  },
+  {
+    "symbol": "093370.KS",
+    "name": "Foosung Co., Ltd."
+  },
+  {
+    "symbol": "094280.KS",
+    "name": "Hyosung ITX Co. Ltd."
+  },
+  {
+    "symbol": "094800.KS",
+    "name": "Mirae Asset Asia Pacific Real Estate 1 Investment Company"
+  },
+  {
+    "symbol": "095570.KS",
+    "name": "AJ Networks Co.,Ltd."
+  },
+  {
+    "symbol": "095720.KS",
+    "name": "Woongjin Thinkbig Co., Ltd."
+  },
+  {
+    "symbol": "095910.KS",
+    "name": "S-Energy Co Ltd"
+  },
+  {
+    "symbol": "096240.KS",
+    "name": "Creverse Inc"
+  },
+  {
+    "symbol": "096300.KS",
+    "name": "Korea World Wide Vietnam Real Estate Development Special Assets Fund"
+  },
+  {
+    "symbol": "096760.KS",
+    "name": "JW Holdings Corporation"
+  },
+  {
+    "symbol": "096770.KS",
+    "name": "SK Innovation Co., Ltd."
+  },
+  {
+    "symbol": "096775.KS",
+    "name": "SK Innovation Co., Ltd."
+  },
+  {
+    "symbol": "097230.KS",
+    "name": "HJ Shipbuilding & Construction Co., Ltd."
+  },
+  {
+    "symbol": "097520.KS",
+    "name": "MCNEX Co., Ltd"
+  },
+  {
+    "symbol": "097870.KS",
+    "name": "Hyosung ONB Co Ltd"
+  },
+  {
+    "symbol": "097950.KS",
+    "name": "CJ Cheiljedang Corporation"
+  },
+  {
+    "symbol": "097955.KS",
+    "name": "CJ Cheiljedang Corporation"
+  },
+  {
+    "symbol": "098560.KS",
+    "name": "Mirae Asset TIGER Media & Telecom ETF"
+  },
+  {
+    "symbol": "099140.KS",
+    "name": "KODEX China H"
+  },
+  {
+    "symbol": "099190.KS",
+    "name": "i-SENS Inc"
+  },
+  {
+    "symbol": "100090.KS",
+    "name": "SK oceanplant Co.,Ltd"
+  },
+  {
+    "symbol": "100220.KS",
+    "name": "Visang Education Inc"
+  },
+  {
+    "symbol": "100250.KS",
+    "name": "Chinyang Holdings Corp."
+  },
+  {
+    "symbol": "100840.KS",
+    "name": "SNT Energy Co., Ltd."
+  },
+  {
+    "symbol": "100910.KS",
+    "name": "KOSEF KRX 100"
+  },
+  {
+    "symbol": "101060.KS",
+    "name": "SBS Media Holdings Co., Ltd."
+  },
+  {
+    "symbol": "101140.KS",
+    "name": "INBIOGEN Co., Ltd."
+  },
+  {
+    "symbol": "101280.KS",
+    "name": "KODEX Japan"
+  },
+  {
+    "symbol": "101330.KS",
+    "name": "MOBASE Co Ltd"
+  },
+  {
+    "symbol": "101530.KS",
+    "name": "Haitai Confectionery&Foods Co.,ltd."
+  },
+  {
+    "symbol": "102110.KS",
+    "name": "Mirae Asset TIGER 200 ETF"
+  },
+  {
+    "symbol": "102260.KS",
+    "name": "Dongsung Chemical Co., Ltd."
+  },
+  {
+    "symbol": "102280.KS",
+    "name": "SBW, Inc."
+  },
+  {
+    "symbol": "102460.KS",
+    "name": "REYON Pharmaceutical Co., Ltd."
+  },
+  {
+    "symbol": "102780.KS",
+    "name": "KODEX Samsung Group"
+  },
+  {
+    "symbol": "102960.KS",
+    "name": "Kodex Shipbuilding"
+  },
+  {
+    "symbol": "102970.KS",
+    "name": "Samsung Kodex Securities ETF - Equity"
+  },
+  {
+    "symbol": "103140.KS",
+    "name": "Poongsan Corporation"
+  },
+  {
+    "symbol": "103590.KS",
+    "name": "Iljin Electric Co.,Ltd"
+  },
+  {
+    "symbol": "104520.KS",
+    "name": "KOSEF Blue Chip"
+  },
+  {
+    "symbol": "104530.KS",
+    "name": "KOSEF High Dividend"
+  },
+  {
+    "symbol": "104700.KS",
+    "name": "KISCO Corp."
+  },
+  {
+    "symbol": "105010.KS",
+    "name": "Mirae Asset TIGER Latin ETF"
+  },
+  {
+    "symbol": "105190.KS",
+    "name": "KIMC KINDEX200 Securities Exchange Traded Investment Trust"
+  },
+  {
+    "symbol": "105560.KS",
+    "name": "KB Financial Group Inc."
+  },
+  {
+    "symbol": "105630.KS",
+    "name": "Hansae Co., Ltd."
+  },
+  {
+    "symbol": "105780.KS",
+    "name": "KB KBSTAR Top5 Group Securities ETF Investment Fund - Equity"
+  },
+  {
+    "symbol": "105840.KS",
+    "name": "Woojin Inc."
+  },
+  {
+    "symbol": "107590.KS",
+    "name": "Miwon Holdings Co., Ltd."
+  },
+  {
+    "symbol": "108450.KS",
+    "name": "KINDEX Samsung Group SW ETF"
+  },
+  {
+    "symbol": "108590.KS",
+    "name": "Yurie Trex200 ETF"
+  },
+  {
+    "symbol": "108670.KS",
+    "name": "LX Hausys, Ltd."
+  },
+  {
+    "symbol": "108675.KS",
+    "name": "LX Hausys, Ltd."
+  },
+  {
+    "symbol": "110790.KS",
+    "name": "Creas F&C Co Ltd"
+  },
+  {
+    "symbol": "111110.KS",
+    "name": "Hojeon Limited"
+  },
+  {
+    "symbol": "111770.KS",
+    "name": "Youngone Corporation"
+  },
+  {
+    "symbol": "112610.KS",
+    "name": "CS Wind Corporation"
+  },
+  {
+    "symbol": "114090.KS",
+    "name": "Grand Korea Leisure Co., Ltd."
+  },
+  {
+    "symbol": "114100.KS",
+    "name": "KB KStar KTB ETF (Bond)"
+  },
+  {
+    "symbol": "114260.KS",
+    "name": "Samsung Kodex Treasury Bond Securities ETF - Bonds"
+  },
+  {
+    "symbol": "114460.KS",
+    "name": "Kindex Treasury ETF"
+  },
+  {
+    "symbol": "114470.KS",
+    "name": "KOSEF KTB"
+  },
+  {
+    "symbol": "114800.KS",
+    "name": "Samsung Kodex Inverse ETF - Equity-Derivatives"
+  },
+  {
+    "symbol": "114820.KS",
+    "name": "Mirae Asset TIGER KTB 3 ETF"
+  },
+  {
+    "symbol": "115390.KS",
+    "name": "Lock&Lock Co., Ltd."
+  },
+  {
+    "symbol": "117460.KS",
+    "name": "Kodex Energy & Chemicals"
+  },
+  {
+    "symbol": "117580.KS",
+    "name": "Daesung Energy Co., Ltd."
+  },
+  {
+    "symbol": "117680.KS",
+    "name": "KODEX Steels"
+  },
+  {
+    "symbol": "117690.KS",
+    "name": "Mirae Asset TIGER China ETF"
+  },
+  {
+    "symbol": "117700.KS",
+    "name": "KODEX Constructions"
+  },
+  {
+    "symbol": "118000.KS",
+    "name": "Wooridul Huebrain Limited"
+  },
+  {
+    "symbol": "119650.KS",
+    "name": "KC Cottrell Co., Ltd."
+  },
+  {
+    "symbol": "120030.KS",
+    "name": "CHOSUN WELDING POHANG Co., Ltd"
+  },
+  {
+    "symbol": "120110.KS",
+    "name": "Kolon Industries, Inc."
+  },
+  {
+    "symbol": "120115.KS",
+    "name": "Kolon Industries, Inc."
+  },
+  {
+    "symbol": "122090.KS",
+    "name": "Hanhwa Arirang KOSPI50 ETF"
+  },
+  {
+    "symbol": "122260.KS",
+    "name": "KOSEF MSB"
+  },
+  {
+    "symbol": "122350.KS",
+    "name": "Samkee Corp"
+  },
+  {
+    "symbol": "122630.KS",
+    "name": "Kodex Leverage"
+  },
+  {
+    "symbol": "122900.KS",
+    "name": "iMarketKorea Inc."
+  },
+  {
+    "symbol": "123310.KS",
+    "name": "Mirae Asset TIGER Inverse ETF"
+  },
+  {
+    "symbol": "123320.KS",
+    "name": "Mirae Asset TIGER Leverage ETF"
+  },
+  {
+    "symbol": "123690.KS",
+    "name": "Hankook Cosmetics Co., Ltd."
+  },
+  {
+    "symbol": "123700.KS",
+    "name": "SJM Co., Ltd."
+  },
+  {
+    "symbol": "123890.KS",
+    "name": "Korea Asset In Trust Co., Ltd."
+  },
+  {
+    "symbol": "126560.KS",
+    "name": "Hyundai Futurenet Co., Ltd"
+  },
+  {
+    "symbol": "128820.KS",
+    "name": "Daesung Industrial Co., Ltd."
+  },
+  {
+    "symbol": "128940.KS",
+    "name": "Hanmi Pharm. Co., Ltd."
+  },
+  {
+    "symbol": "129260.KS",
+    "name": "Intergis Co., Ltd"
+  },
+  {
+    "symbol": "130660.KS",
+    "name": "Korea Electric Power Industrial Development Co., Ltd"
+  },
+  {
+    "symbol": "130680.KS",
+    "name": "Mirae Asset TIGER WTI Futures ETF"
+  },
+  {
+    "symbol": "130730.KS",
+    "name": "KOSEF Enhanced Cash"
+  },
+  {
+    "symbol": "131390.KS",
+    "name": "Wonik Pne Co Ltd"
+  },
+  {
+    "symbol": "131890.KS",
+    "name": "KINDEX Samsung Group EW ETF"
+  },
+  {
+    "symbol": "132030.KS",
+    "name": "Samsung KODEX Gold Futures Special Asset ETF - Gold-Derivatives (H)"
+  },
+  {
+    "symbol": "133690.KS",
+    "name": "Mirae Asset TIGER NASDAQ 100 ETF"
+  },
+  {
+    "symbol": "133820.KS",
+    "name": "Fine besteel. Co., Ltd."
+  },
+  {
+    "symbol": "134380.KS",
+    "name": "Miwon Chemicals Co., Ltd."
+  },
+  {
+    "symbol": "134580.KS",
+    "name": "Topco Media Co Ltd"
+  },
+  {
+    "symbol": "134790.KS",
+    "name": "Sidiz.Inc."
+  },
+  {
+    "symbol": "136340.KS",
+    "name": "KStar Credit Bond ETF (Bond)"
+  },
+  {
+    "symbol": "136490.KS",
+    "name": "Sunjin Co.,Ltd."
+  },
+  {
+    "symbol": "137310.KS",
+    "name": "SD BioSensor, Inc"
+  },
+  {
+    "symbol": "137610.KS",
+    "name": "Mirae Asset TIGER Agriculture ETF"
+  },
+  {
+    "symbol": "137930.KS",
+    "name": "Midas KOSPI 200 Covered Call ETF - Equity"
+  },
+  {
+    "symbol": "138040.KS",
+    "name": "Meritz Financial Group Inc."
+  },
+  {
+    "symbol": "138230.KS",
+    "name": "KOSEF US Dollar"
+  },
+  {
+    "symbol": "138250.KS",
+    "name": "NS Shopping Co., Ltd"
+  },
+  {
+    "symbol": "138490.KS",
+    "name": "Kolon Plastics, Inc."
+  },
+  {
+    "symbol": "138520.KS",
+    "name": "Mirae Asset TIGER Samsung Group ETF"
+  },
+  {
+    "symbol": "138530.KS",
+    "name": "Mirae Asset TIGER LG Group+ ETF"
+  },
+  {
+    "symbol": "138540.KS",
+    "name": "Mirae Asset TIGER Hyundai Motor Group+ ETF"
+  },
+  {
+    "symbol": "138910.KS",
+    "name": "Samsung Kodex Copper Futures Special Asset ETF - Copper-Derivatives"
+  },
+  {
+    "symbol": "138920.KS",
+    "name": "KODEX Soybean Futures (H)"
+  },
+  {
+    "symbol": "138930.KS",
+    "name": "BNK Financial Group Inc."
+  },
+  {
+    "symbol": "139130.KS",
+    "name": "DGB Financial Group Co., Ltd."
+  },
+  {
+    "symbol": "139220.KS",
+    "name": "Mirae Asset TIGER Constructions & Machinery ETF"
+  },
+  {
+    "symbol": "139230.KS",
+    "name": "MiraeAsset TIGER 200 Heavy Industry ETF"
+  },
+  {
+    "symbol": "139240.KS",
+    "name": "Mirae Asset TIGER Steels & Materials ETF"
+  },
+  {
+    "symbol": "139250.KS",
+    "name": "Mirae Asset TIGER Energy & Chemicals ETF"
+  },
+  {
+    "symbol": "139260.KS",
+    "name": "Mirae Asset TIGER IT ETF"
+  },
+  {
+    "symbol": "139270.KS",
+    "name": "Mirae Asset TIGER Financials ETF"
+  },
+  {
+    "symbol": "139280.KS",
+    "name": "Mirae Asset TIGER Consumer Staples ETF"
+  },
+  {
+    "symbol": "139290.KS",
+    "name": "Mirae Asset TIGER Consumer Discretionary ETF"
+  },
+  {
+    "symbol": "139310.KS",
+    "name": "Mirae Asset TIGER Industrial Metal Futures ETF"
+  },
+  {
+    "symbol": "139320.KS",
+    "name": "Mirae Asset TIGER Precious Metals Futures ETF"
+  },
+  {
+    "symbol": "139480.KS",
+    "name": "E-MART Inc."
+  },
+  {
+    "symbol": "139660.KS",
+    "name": "KOSEF USD Inverse Futures"
+  },
+  {
+    "symbol": "140570.KS",
+    "name": "KB KStar Exporter ETF (Equity)"
+  },
+  {
+    "symbol": "140580.KS",
+    "name": "KStar Prime Industry ETF (Equity)"
+  },
+  {
+    "symbol": "140700.KS",
+    "name": "Samsung Investment Trust - Kodex Insurance ETF"
+  },
+  {
+    "symbol": "140710.KS",
+    "name": "Samsung Kodex Transportation ETF - Equity"
+  },
+  {
+    "symbol": "140910.KS",
+    "name": "A Self-Administered Real Estate Investment Trust Inc."
+  },
+  {
+    "symbol": "140950.KS",
+    "name": "Kyobo AXA Power K100 ETF"
+  },
+  {
+    "symbol": "143210.KS",
+    "name": "Hands Corporation Ltd."
+  },
+  {
+    "symbol": "143460.KS",
+    "name": "KINDEX Large Value ETF"
+  },
+  {
+    "symbol": "143850.KS",
+    "name": "Mirae Asset TIGER S&P500 Futures ETF"
+  },
+  {
+    "symbol": "143860.KS",
+    "name": "Mirae Asset TIGER Health Care ETF"
+  },
+  {
+    "symbol": "144600.KS",
+    "name": "Kodex Silver Futures Special Asset ETF"
+  },
+  {
+    "symbol": "145210.KS",
+    "name": "Dynamic Design Co., LTD."
+  },
+  {
+    "symbol": "145270.KS",
+    "name": "K-TOP Reits Co.,Ltd."
+  },
+  {
+    "symbol": "145670.KS",
+    "name": "Kindex Inverse ETF"
+  },
+  {
+    "symbol": "145720.KS",
+    "name": "Dentium CO., LTD"
+  },
+  {
+    "symbol": "145850.KS",
+    "name": "Yurie TREX Fundamental 200 Securities ETF - Equity"
+  },
+  {
+    "symbol": "145990.KS",
+    "name": "Samyang Corporation"
+  },
+  {
+    "symbol": "145995.KS",
+    "name": "Samyang Corporation"
+  },
+  {
+    "symbol": "147970.KS",
+    "name": "Mirae Asset TIGER Momentum ETF"
+  },
+  {
+    "symbol": "148020.KS",
+    "name": "KStar200 ETF (Equity)"
+  },
+  {
+    "symbol": "148070.KS",
+    "name": "KOSEF 10-Year KTB"
+  },
+  {
+    "symbol": "148250.KS",
+    "name": "RN2 Technologies Co Ltd"
+  },
+  {
+    "symbol": "150460.KS",
+    "name": "Mirae Asset TIGER China Consumer ETF"
+  },
+  {
+    "symbol": "152100.KS",
+    "name": "Arirang 200 ETF"
+  },
+  {
+    "symbol": "152380.KS",
+    "name": "Kodex 10Y F-LKTB"
+  },
+  {
+    "symbol": "152500.KS",
+    "name": "Korea Investment Trust Management - Kindex Leverage ETF"
+  },
+  {
+    "symbol": "152550.KS",
+    "name": "KIM ANKOR Oilfield Overseas Resources Development Special Asset Fund"
+  },
+  {
+    "symbol": "152870.KS",
+    "name": "Kyobo AXA Power K200 Securities ETF Investment Trust - Equity"
+  },
+  {
+    "symbol": "153130.KS",
+    "name": "KODEX KRW Cash"
+  },
+  {
+    "symbol": "153270.KS",
+    "name": "KOSEF 100"
+  },
+  {
+    "symbol": "153360.KS",
+    "name": "Hi Gold Ocean No.3 Ship Investment Company"
+  },
+  {
+    "symbol": "155660.KS",
+    "name": "DSR Corp"
+  },
+  {
+    "symbol": "155900.KS",
+    "name": "Badaro No. 19 Ship Investment Company"
+  },
+  {
+    "symbol": "156080.KS",
+    "name": "KODEX MSCI Korea"
+  },
+  {
+    "symbol": "157450.KS",
+    "name": "Mirae Asset TIGER Money Market ETF"
+  },
+  {
+    "symbol": "157490.KS",
+    "name": "Mirae Asset TIGER Software ETF"
+  },
+  {
+    "symbol": "157500.KS",
+    "name": "Mirae Asset TIGER Securities ETF"
+  },
+  {
+    "symbol": "159580.KS",
+    "name": "Zero to Seven Inc"
+  },
+  {
+    "symbol": "159800.KS",
+    "name": "Dongbu Mighty K100 Securities ETF - Equity"
+  },
+  {
+    "symbol": "160580.KS",
+    "name": "Mirae Asset TIGER Physical Copper ETF"
+  },
+  {
+    "symbol": "161000.KS",
+    "name": "Aekyungchemical Co., Ltd."
+  },
+  {
+    "symbol": "161390.KS",
+    "name": "Hankook Tire & Technology Co., Ltd."
+  },
+  {
+    "symbol": "161510.KS",
+    "name": "ARIRANG Dividend ETF"
+  },
+  {
+    "symbol": "161890.KS",
+    "name": "Kolmar Korea Co., Ltd."
+  },
+  {
+    "symbol": "163560.KS",
+    "name": "DRB Industrial Co., Ltd."
+  },
+  {
+    "symbol": "166400.KS",
+    "name": "Mirae Asset TIGER200 Covered Call 5% OTM ETF - Equity - Derivatives"
+  },
+  {
+    "symbol": "167860.KS",
+    "name": "KOSEF 10yr KTB Leverage"
+  },
+  {
+    "symbol": "168300.KS",
+    "name": "Hana UBS KTOP KOSPI50 Securities ETF Investment Trust - Equity"
+  },
+  {
+    "symbol": "168490.KS",
+    "name": "KIM Parallel Oilfield Overseas Resources Development Special Asset Fund 1"
+  },
+  {
+    "symbol": "168580.KS",
+    "name": "KINDEX China CSI300 ETF"
+  },
+  {
+    "symbol": "169950.KS",
+    "name": "Kodex FTSE China A50 ETF"
+  },
+  {
+    "symbol": "170900.KS",
+    "name": "Dong-A ST Co., Ltd."
+  },
+  {
+    "symbol": "172580.KS",
+    "name": "Hi Gold Ocean Kmarin No.12 Ship Investment Company"
+  },
+  {
+    "symbol": "174360.KS",
+    "name": "KB KBSTAR China Mainland Large Cap Stock CSI100 Securities ETF Feeder Investment Trust - Equity"
+  },
+  {
+    "symbol": "175330.KS",
+    "name": "JB Financial Group Co., Ltd."
+  },
+  {
+    "symbol": "176710.KS",
+    "name": "Kyobo Axa Asset Management - Power Ktb Etf Bond"
+  },
+  {
+    "symbol": "176950.KS",
+    "name": "Samsung Kodex 10 Year F-LKBT Inverse ETF - Bonds-Derivatives"
+  },
+  {
+    "symbol": "178320.KS",
+    "name": "Seojin System Co Ltd"
+  },
+  {
+    "symbol": "178920.KS",
+    "name": "PI Advanced Materials Co., Ltd."
+  },
+  {
+    "symbol": "180640.KS",
+    "name": "Hanjin Kal"
+  },
+  {
+    "symbol": "18064K.KS",
+    "name": "Hanjin Kal"
+  },
+  {
+    "symbol": "181480.KS",
+    "name": "KINDEX Synth- Dow Jones US Real Estate (H) ETF"
+  },
+  {
+    "symbol": "181710.KS",
+    "name": "NHN Corporation"
+  },
+  {
+    "symbol": "182480.KS",
+    "name": "Mirae Asset TIGER SYNTH-MSCI US REIT ETF(H)"
+  },
+  {
+    "symbol": "182490.KS",
+    "name": "Mirae Asset TIGER Synth - iBoxx Short Term High Yield ETF H - Bonds-Derivatives"
+  },
+  {
+    "symbol": "183190.KS",
+    "name": "Asia Cement Co.,Ltd."
+  },
+  {
+    "symbol": "183490.KS",
+    "name": "Enzychem Lifesciences Corp"
+  },
+  {
+    "symbol": "183700.KS",
+    "name": "KB KBSTAR Bond Balanced Securities ETF Investment Trust - Bond Balanced-Derivatives"
+  },
+  {
+    "symbol": "183710.KS",
+    "name": "KB Kstar Equity Balanced ETF Fund"
+  },
+  {
+    "symbol": "185680.KS",
+    "name": "Kodex Synth US Biotech"
+  },
+  {
+    "symbol": "185750.KS",
+    "name": "Chong Kun Dang Pharmaceutical Corp."
+  },
+  {
+    "symbol": "189400.KS",
+    "name": "Hanwha Arirang Synth MSCI AC World ETF"
+  },
+  {
+    "symbol": "189860.KS",
+    "name": "Seojeon Electric Machinery Co Ltd"
+  },
+  {
+    "symbol": "190620.KS",
+    "name": "Kindex Money Market"
+  },
+  {
+    "symbol": "192080.KS",
+    "name": "DoubleUGames Co., Ltd."
+  },
+  {
+    "symbol": "192090.KS",
+    "name": "Mirae Asset TIGER ChinaA300 ETF"
+  },
+  {
+    "symbol": "192400.KS",
+    "name": "Cuckoo Holdings Co., Ltd."
+  },
+  {
+    "symbol": "192650.KS",
+    "name": "DREAMTECH Co., Ltd."
+  },
+  {
+    "symbol": "192720.KS",
+    "name": "Kyobo Axa Power LVHD ETF - Equity"
+  },
+  {
+    "symbol": "192820.KS",
+    "name": "Cosmax, Inc."
+  },
+  {
+    "symbol": "194370.KS",
+    "name": "JS Corporation"
+  },
+  {
+    "symbol": "195870.KS",
+    "name": "HAESUNG DS Co., Ltd."
+  },
+  {
+    "symbol": "195920.KS",
+    "name": "Mirae Asset TIGER Synth-Japan ETF(H)"
+  },
+  {
+    "symbol": "195930.KS",
+    "name": "Mirae Asset TIGER Synth - Euro Stoxx 50 ETF H - Equity-Derivatives"
+  },
+  {
+    "symbol": "195970.KS",
+    "name": "Hanwha Arirang Synth MSCI EAFE ETF"
+  },
+  {
+    "symbol": "195980.KS",
+    "name": "Hanwha Arirang Synth MSCI Emerging Markets ETF"
+  },
+  {
+    "symbol": "196030.KS",
+    "name": "KINDEX Japan Leverage ETF"
+  },
+  {
+    "symbol": "196230.KS",
+    "name": "KStar Short-term MSB ETF (Bond)"
+  },
+  {
+    "symbol": "199800.KS",
+    "name": "ToolGen Inc"
+  },
+  {
+    "symbol": "200030.KS",
+    "name": "Samsung Kodex Synth-US Industrial Securities ETF - Equity-Derivatives"
+  },
+  {
+    "symbol": "200130.KS",
+    "name": "Kolmar BNH Co Ltd"
+  },
+  {
+    "symbol": "200250.KS",
+    "name": "Kiwoom Kosef Synth-CNX NIFTY India Securities ETF (H) - Equity-Derivatives"
+  },
+  {
+    "symbol": "200880.KS",
+    "name": "Seoyon E-Hwa Co., Ltd."
+  },
+  {
+    "symbol": "203780.KS",
+    "name": "Mirae Asset TIGER NASDAQ Bio ETF"
+  },
+  {
+    "symbol": "204210.KS",
+    "name": "MODE TOUR Real Estate Investment Trust Incorporated"
+  },
+  {
+    "symbol": "204320.KS",
+    "name": "Mando Corporation"
+  },
+  {
+    "symbol": "204450.KS",
+    "name": "Samsung Kodex China H Leverage ETF - Equity-Derivatives"
+  },
+  {
+    "symbol": "204480.KS",
+    "name": "Mirae Asset TIGER Synth-China A Leverage"
+  },
+  {
+    "symbol": "205720.KS",
+    "name": "Kim Kindex Synth-Japan Inverse ETF(H)"
+  },
+  {
+    "symbol": "206560.KS",
+    "name": "Dexter Studios Co Ltd"
+  },
+  {
+    "symbol": "207940.KS",
+    "name": "Samsung Biologics Co.,Ltd."
+  },
+  {
+    "symbol": "208140.KS",
+    "name": "Jungdawn Co Ltd"
+  },
+  {
+    "symbol": "208470.KS",
+    "name": "Shinhan Bnpp Smart Synth-Msci Developed Market Etf"
+  },
+  {
+    "symbol": "210540.KS",
+    "name": "DY Power Corporation"
+  },
+  {
+    "symbol": "210780.KS",
+    "name": "Mirae Asset TIGER KOSPI High Dividend ETF"
+  },
+  {
+    "symbol": "210980.KS",
+    "name": "SK D&D Co. Ltd."
+  },
+  {
+    "symbol": "211560.KS",
+    "name": "Mirae Asset TIGER Dividend Growth ETF"
+  },
+  {
+    "symbol": "211900.KS",
+    "name": "KODEX Dividend Growth"
+  },
+  {
+    "symbol": "213500.KS",
+    "name": "Hansol Paper Co., Ltd."
+  },
+  {
+    "symbol": "213610.KS",
+    "name": "Kodex Samsung  Group Value"
+  },
+  {
+    "symbol": "213630.KS",
+    "name": "Hanwha Arirang Dow Jones US Select Dividend Securities ETF - Equity-Derivatives (Synth H)"
+  },
+  {
+    "symbol": "214310.KS",
+    "name": "SL Vionics Co Ltd"
+  },
+  {
+    "symbol": "214320.KS",
+    "name": "Innocean Worldwide Inc."
+  },
+  {
+    "symbol": "214330.KS",
+    "name": "Kumho HT, Inc"
+  },
+  {
+    "symbol": "214390.KS",
+    "name": "Kyongbo Pharmaceutical Co., Ltd"
+  },
+  {
+    "symbol": "214420.KS",
+    "name": "Tonymoly Co., Ltd"
+  },
+  {
+    "symbol": "214980.KS",
+    "name": "KODEX KRW Cash PLUS"
+  },
+  {
+    "symbol": "215620.KS",
+    "name": "Heungkuk S&P Low Vol Securities ETF Investment Trust - Equity"
+  },
+  {
+    "symbol": "217600.KS",
+    "name": "Chemon Inc"
+  },
+  {
+    "symbol": "217620.KS",
+    "name": "Didim Inc"
+  },
+  {
+    "symbol": "217770.KS",
+    "name": "Mirae Asset TIGER WTI Inverse Future Special Assets ETF - Oil-Derivatives (H)"
+  },
+  {
+    "symbol": "217780.KS",
+    "name": "Mirae Asset Tiger SYNTH-China A Inverse"
+  },
+  {
+    "symbol": "217790.KS",
+    "name": "Mirae Asset TIGER CONTRARIAN ETF"
+  },
+  {
+    "symbol": "217820.KS",
+    "name": "NS Co Ltd"
+  },
+  {
+    "symbol": "218420.KS",
+    "name": "KODEX SYNTH-US Energy"
+  },
+  {
+    "symbol": "219390.KS",
+    "name": "KB Kstar US Oil & Gas E&P Company ETF"
+  },
+  {
+    "symbol": "219480.KS",
+    "name": "KODEX S&P500 Futures(H)"
+  },
+  {
+    "symbol": "219900.KS",
+    "name": "KINDEX China Mainland Leverage CSI300 ETF (Synth)"
+  },
+  {
+    "symbol": "220130.KS",
+    "name": "Shinhan BNPP SMART Synth-China Mainland Small & Mid cap CSI500 ETF(H)"
+  },
+  {
+    "symbol": "223190.KS",
+    "name": "KODEX 200 Intrinsic Value"
+  },
+  {
+    "symbol": "225030.KS",
+    "name": "Mirae Asset Tiger S&P500 Inverse ETF(H)"
+  },
+  {
+    "symbol": "225040.KS",
+    "name": "Mirae Asset Tiger SYNTH-S&P500 Leverage ETF(H)"
+  },
+  {
+    "symbol": "225050.KS",
+    "name": "Mirae Asset Tiger SYNTH-EURO STOXX 50 Leverage ETF"
+  },
+  {
+    "symbol": "225060.KS",
+    "name": "Mirae Asset Tiger SYNTH-MSCI EM Leverage ETF(H)"
+  },
+  {
+    "symbol": "225130.KS",
+    "name": "KINDEX Gold Futures Leverage ETF"
+  },
+  {
+    "symbol": "225800.KS",
+    "name": "Kiwoom KOSEF USD Futures Leverage Special Assets ETF Investment Trust - USD-Derivatives (Synth)"
+  },
+  {
+    "symbol": "226320.KS",
+    "name": "It'S Hanbul Co., Ltd."
+  },
+  {
+    "symbol": "226350.KS",
+    "name": "IM Tech Inc"
+  },
+  {
+    "symbol": "226380.KS",
+    "name": "KINDEX Korean Culture ETF"
+  },
+  {
+    "symbol": "226490.KS",
+    "name": "KODEX KOSPI"
+  },
+  {
+    "symbol": "226980.KS",
+    "name": "KODEX 200 Mid-Small"
+  },
+  {
+    "symbol": "227540.KS",
+    "name": "Mirae Asset Tiger 200 Health Care ETF"
+  },
+  {
+    "symbol": "227550.KS",
+    "name": "Mirae Asset Tiger 200 Industrials ETF"
+  },
+  {
+    "symbol": "227560.KS",
+    "name": "Mirae Asset Tiger 200 Consumer Staples ETF"
+  },
+  {
+    "symbol": "227570.KS",
+    "name": "Mirae Asset Tiger Quality Value ETF"
+  },
+  {
+    "symbol": "227830.KS",
+    "name": "Hanwha Arirang KOSPI Securities ETF Investment Trust - Equity"
+  },
+  {
+    "symbol": "227840.KS",
+    "name": "HYUNDAI CORPORATION HOLDINGS Co., Ltd."
+  },
+  {
+    "symbol": "228760.KS",
+    "name": "Genomictree Inc"
+  },
+  {
+    "symbol": "228790.KS",
+    "name": "Mirae Asset Tiger Cosmetics ETF"
+  },
+  {
+    "symbol": "228800.KS",
+    "name": "Mirae Asset Tiger Tour Leisure ETF"
+  },
+  {
+    "symbol": "228810.KS",
+    "name": "Mirae Asset Tiger Media Contents ETF"
+  },
+  {
+    "symbol": "228820.KS",
+    "name": "Mirae Asset Tiger KTOP 30 ETF"
+  },
+  {
+    "symbol": "229200.KS",
+    "name": "KODEX KOSDAQ 150"
+  },
+  {
+    "symbol": "229640.KS",
+    "name": "LS Cable & System Asia Ltd."
+  },
+  {
+    "symbol": "229720.KS",
+    "name": "KODEX KTOP 30"
+  },
+  {
+    "symbol": "230480.KS",
+    "name": "Kiwoom KOSEF USD Futures Inverse 2X Special Assets ETF Investment Trust - USD-Derivatives (Synth)"
+  },
+  {
+    "symbol": "232080.KS",
+    "name": "Mirae Asset Tiger KOSDAQ150 ETF"
+  },
+  {
+    "symbol": "233160.KS",
+    "name": "Mirae Asset Tiger KOSDAQ150 Leverage ETF"
+  },
+  {
+    "symbol": "233740.KS",
+    "name": "KODEX KOSDAQ150 Leverage"
+  },
+  {
+    "symbol": "234080.KS",
+    "name": "JW Lifescience Corporation"
+  },
+  {
+    "symbol": "236350.KS",
+    "name": "Mirae Asset Tiger Synth-India Leverage ETF"
+  },
+  {
+    "symbol": "237350.KS",
+    "name": "KODEX KOSPI100"
+  },
+  {
+    "symbol": "237440.KS",
+    "name": "Mirae Asset Tiger Consumer Goods Balanced ETF"
+  },
+  {
+    "symbol": "238720.KS",
+    "name": "KINDEX Japan Nikkei225 ETF(H)"
+  },
+  {
+    "symbol": "241180.KS",
+    "name": "Mirae Asset Tiger Nikkei225 ETF"
+  },
+  {
+    "symbol": "241560.KS",
+    "name": "Doosan Bobcat Inc."
+  },
+  {
+    "symbol": "241590.KS",
+    "name": "Hwaseung Enterprise Co., Ltd."
+  },
+  {
+    "symbol": "241690.KS",
+    "name": "Unitekno Co Ltd"
+  },
+  {
+    "symbol": "243840.KS",
+    "name": "Shin Heung Energy & Electronics Co Ltd"
+  },
+  {
+    "symbol": "243880.KS",
+    "name": "Mirae Asset Tiger 200 IT Leverage ETF"
+  },
+  {
+    "symbol": "243890.KS",
+    "name": "Mirae Asset Tiger 200 Energy Leverage ETF"
+  },
+  {
+    "symbol": "244580.KS",
+    "name": "KODEX Biotech"
+  },
+  {
+    "symbol": "244620.KS",
+    "name": "KODEX KRW Cash PLUS"
+  },
+  {
+    "symbol": "244920.KS",
+    "name": "Aplus Asset Advisor Co. Ltd"
+  },
+  {
+    "symbol": "245340.KS",
+    "name": "Mirae Asset Tiger Dow Jones 30 ETF"
+  },
+  {
+    "symbol": "245350.KS",
+    "name": "Mirae Asset Tiger EURO STOXX Dividend 30 ETF"
+  },
+  {
+    "symbol": "245360.KS",
+    "name": "Mirae Asset TIGER China ETF"
+  },
+  {
+    "symbol": "245710.KS",
+    "name": "KINDEX Vietnam VN30 ETF(Synth)"
+  },
+  {
+    "symbol": "248070.KS",
+    "name": "Solum Co., Ltd."
+  },
+  {
+    "symbol": "248170.KS",
+    "name": "Sempio Foods Company"
+  },
+  {
+    "symbol": "248260.KS",
+    "name": "Mirae Asset Tiger Synth-Japan Healthcare ETF"
+  },
+  {
+    "symbol": "248270.KS",
+    "name": "Mirae Asset Tiger Synth-Global Healthcare ETF"
+  },
+  {
+    "symbol": "249420.KS",
+    "name": "Ildong Pharmaceutical Co., Ltd."
+  },
+  {
+    "symbol": "250730.KS",
+    "name": "KB KBSTAR China H-Share Securities ETF Investment Trust - Equity-Derivatives(H)"
+  },
+  {
+    "symbol": "250780.KS",
+    "name": "Mirae Asset Tiger KOSDAQ150 Inverse ETF"
+  },
+  {
+    "symbol": "251270.KS",
+    "name": "Netmarble Corporation"
+  },
+  {
+    "symbol": "251340.KS",
+    "name": "KODEX KOSDAQ150 Inverse"
+  },
+  {
+    "symbol": "252000.KS",
+    "name": "Mirae Asset TIGER 200 ETF"
+  },
+  {
+    "symbol": "252650.KS",
+    "name": "KODEX 200 EW"
+  },
+  {
+    "symbol": "252670.KS",
+    "name": "Samsung Kodex F Kospi 200 Inverse2x ETF"
+  },
+  {
+    "symbol": "252710.KS",
+    "name": "Mirae Asset Tiger 200 Futures Inverse 2X ETF"
+  },
+  {
+    "symbol": "253160.KS",
+    "name": "Hanwha Arirang200 Future Inverse 2X Securities ETF Investment Trust - Equity-Derivatives"
+  },
+  {
+    "symbol": "256440.KS",
+    "name": "KINDEX MSCI Indonesia ETF(Synth)"
+  },
+  {
+    "symbol": "256450.KS",
+    "name": "Hanwha Arirang Shenzhen Chinext Securities ETF Investment Trust - Equity-Derivatives (Synth)"
+  },
+  {
+    "symbol": "256750.KS",
+    "name": "KODEX SYNTH-ChiNext"
+  },
+  {
+    "symbol": "259960.KS",
+    "name": "KRAFTON, Inc."
+  },
+  {
+    "symbol": "261060.KS",
+    "name": "Mirae Asset Tiger KOSDAQ150 ETF"
+  },
+  {
+    "symbol": "261070.KS",
+    "name": "Mirae Asset KOSDAQ150Biotech ETF"
+  },
+  {
+    "symbol": "261110.KS",
+    "name": "Mirae Asset Tiger US Dollar Leverage ETF"
+  },
+  {
+    "symbol": "261120.KS",
+    "name": "Mirae Asset Tiger US Dollar Inverse 2X ETF"
+  },
+  {
+    "symbol": "261140.KS",
+    "name": "Mirae Asset Tiger Preferred Stock ETF"
+  },
+  {
+    "symbol": "261220.KS",
+    "name": "KODEX WTI CrudeOil Futures(H)"
+  },
+  {
+    "symbol": "261240.KS",
+    "name": "KODEX USD Futures"
+  },
+  {
+    "symbol": "261920.KS",
+    "name": "KINDEX MSCI Philippines ETF(Synth)"
+  },
+  {
+    "symbol": "264900.KS",
+    "name": "Crown Confectionery Co., Ltd."
+  },
+  {
+    "symbol": "26490K.KS",
+    "name": "Crown Confectionery Co., Ltd."
+  },
+  {
+    "symbol": "265520.KS",
+    "name": "Advanced Process Systems Corp"
+  },
+  {
+    "symbol": "265690.KS",
+    "name": "KINDEX MSCI Russia ETF(Synth)"
+  },
+  {
+    "symbol": "266160.KS",
+    "name": "KB Asset Management Co. Ltd - KBStar High Dividend ETF Fund"
+  },
+  {
+    "symbol": "266360.KS",
+    "name": "KODEX IT Software"
+  },
+  {
+    "symbol": "266370.KS",
+    "name": "KODEX IT Hardware"
+  },
+  {
+    "symbol": "266390.KS",
+    "name": "KODEX Consumer Discretionary"
+  },
+  {
+    "symbol": "266410.KS",
+    "name": "KODEX Consumer Staples"
+  },
+  {
+    "symbol": "266420.KS",
+    "name": "KODEX Healthcare"
+  },
+  {
+    "symbol": "266550.KS",
+    "name": "Hanwha Investment Trust Management - Arirang Midcap Low Volume 50 Fund"
+  },
+  {
+    "symbol": "267250.KS",
+    "name": "HD Hyundai Co., Ltd."
+  },
+  {
+    "symbol": "267260.KS",
+    "name": "Hyundai Electric & Energy Systems Co., Ltd."
+  },
+  {
+    "symbol": "267270.KS",
+    "name": "Hyundai Construction Equipment Co., Ltd."
+  },
+  {
+    "symbol": "267290.KS",
+    "name": "Kyungdong City Gas Co., Ltd"
+  },
+  {
+    "symbol": "267440.KS",
+    "name": "KB Asset Management Co., Ltd. - US Treasury Long Bond Futures ETF Fund"
+  },
+  {
+    "symbol": "267450.KS",
+    "name": "KB Asset Management Co., Ltd. - US Treasury Long Bond Futures Inverse ETF"
+  },
+  {
+    "symbol": "267490.KS",
+    "name": "KB Asset Management Co., Ltd. - US Treasury Long Bond Futures Leverage ETF"
+  },
+  {
+    "symbol": "267500.KS",
+    "name": "KB Asset Management Co., Ltd. - US Treasury Long Bond Futures Inverse 2X ETF"
+  },
+  {
+    "symbol": "267770.KS",
+    "name": "Mirae Asset Tiger 200 Futures Leverage ETF"
+  },
+  {
+    "symbol": "267850.KS",
+    "name": "Asiana IDT, Inc."
+  },
+  {
+    "symbol": "268280.KS",
+    "name": "Miwon Specialty Chemical Co., Ltd."
+  },
+  {
+    "symbol": "269370.KS",
+    "name": "Mirae Asset Tiger Synth-Global Infra ETF"
+  },
+  {
+    "symbol": "269420.KS",
+    "name": "KODEX SYNTH-S&P Global Infrastructure"
+  },
+  {
+    "symbol": "269530.KS",
+    "name": "Hanwha Investment Trust Management - Arirang S&P Global Infra ETF Fund"
+  },
+  {
+    "symbol": "269540.KS",
+    "name": "Hanwha Investment Trust Management - Arirang S&P 500 ETF Fund"
+  },
+  {
+    "symbol": "270800.KS",
+    "name": "KB KBstar KQ High Dividend ETF"
+  },
+  {
+    "symbol": "270810.KS",
+    "name": "Kb Kbstar Kosdaq150 Etf"
+  },
+  {
+    "symbol": "271050.KS",
+    "name": "KODEX WTI CrudeOil Futures Inverse(H)"
+  },
+  {
+    "symbol": "271060.KS",
+    "name": "KODEX Grains Futures(H)"
+  },
+  {
+    "symbol": "271560.KS",
+    "name": "ORION Corp."
+  },
+  {
+    "symbol": "271940.KS",
+    "name": "Iljin Hysolus Co., Ltd."
+  },
+  {
+    "symbol": "271980.KS",
+    "name": "Jeil Pharmaceutical Co.,Ltd"
+  },
+  {
+    "symbol": "272210.KS",
+    "name": "Hanwha Systems Co., Ltd."
+  },
+  {
+    "symbol": "272220.KS",
+    "name": "Kim Kindex Smart Momentum Etf"
+  },
+  {
+    "symbol": "272230.KS",
+    "name": "Kim Kindex Smart Value Etf"
+  },
+  {
+    "symbol": "272450.KS",
+    "name": "Jin Air Co., Ltd."
+  },
+  {
+    "symbol": "272550.KS",
+    "name": "Samyang Packaging Corporation"
+  },
+  {
+    "symbol": "272560.KS",
+    "name": "Kb Kbstar Short Term Ktb Etf"
+  },
+  {
+    "symbol": "272580.KS",
+    "name": "Mirae Asset Tiger Money Market Active ETF"
+  },
+  {
+    "symbol": "272910.KS",
+    "name": "Kim Korea index Active Korea Treasury and agency Bonds Etf"
+  },
+  {
+    "symbol": "273140.KS",
+    "name": "KODEX Active FRN"
+  },
+  {
+    "symbol": "275280.KS",
+    "name": "KODEX MSCI Momentum"
+  },
+  {
+    "symbol": "275290.KS",
+    "name": "KODEX MSCI Value"
+  },
+  {
+    "symbol": "275300.KS",
+    "name": "KODEX MSCI Quality"
+  },
+  {
+    "symbol": "275750.KS",
+    "name": "KB Asset Management Co., Ltd. - KB KBStar F-Kosdaq150 Inverse ETF Fund"
+  },
+  {
+    "symbol": "275980.KS",
+    "name": "Mirae Asset TIGER Synth-Morningstar Global Exponential Technology(H)"
+  },
+  {
+    "symbol": "276000.KS",
+    "name": "Mirae Asset TIGER Synth-Morningstar Global Upstream Natural Resources(H)"
+  },
+  {
+    "symbol": "276650.KS",
+    "name": "KB Asset Management Co., Ltd. - KB KBStar Global 4th Index Reverse Fund"
+  },
+  {
+    "symbol": "276970.KS",
+    "name": "KODEX US S&P Dividend Covered Call"
+  },
+  {
+    "symbol": "276990.KS",
+    "name": "KODEX Global Robotics & Automation"
+  },
+  {
+    "symbol": "277540.KS",
+    "name": "Korea Investment Trust Management - Kim Kindex S&P Asia Top50 ETF Fund"
+  },
+  {
+    "symbol": "277630.KS",
+    "name": "Mirae Asset TIGER KOSPI ETF"
+  },
+  {
+    "symbol": "277640.KS",
+    "name": "Mirae Asset TIGER KOSPI LARGECAP ETF"
+  },
+  {
+    "symbol": "277650.KS",
+    "name": "Mirae Asset TIGER KOSPI MIDCAP ETF"
+  },
+  {
+    "symbol": "278240.KS",
+    "name": "KB Asset Management Co., Ltd. - KB KBStar F-Kosdaq150 Leverage ETF Fund"
+  },
+  {
+    "symbol": "278420.KS",
+    "name": "Hanwha Investment Trust Management - Arirang ESG Leading Company Fund"
+  },
+  {
+    "symbol": "278530.KS",
+    "name": "Samsung Kodex 200 Total Return ETF"
+  },
+  {
+    "symbol": "279530.KS",
+    "name": "Samsung Investment Trust Management - Samsung Kodex High Dividend ETF Fund"
+  },
+  {
+    "symbol": "279540.KS",
+    "name": "Samsung Investment Trust Management - Samsung Kodex Minimum Volitality ETF Fund"
+  },
+  {
+    "symbol": "280320.KS",
+    "name": "KINDEX US Internet ETF(Synth H)"
+  },
+  {
+    "symbol": "280360.KS",
+    "name": "Lotte Confectionery Co., Ltd."
+  },
+  {
+    "symbol": "280920.KS",
+    "name": "Hanwha Asset Management - Arirang Leading Industry ETF"
+  },
+  {
+    "symbol": "280930.KS",
+    "name": "Samsung Kodex Us Russell 2000 Etf"
+  },
+  {
+    "symbol": "280940.KS",
+    "name": "Samsung Investment Trust Management - Kodex Gold Inverse Futures ETF Fund"
+  },
+  {
+    "symbol": "281820.KS",
+    "name": "KCTech Co., Ltd."
+  },
+  {
+    "symbol": "281990.KS",
+    "name": "KB Asset Management Co., Ltd - Mid Small Cap High Dividend ETF Fund"
+  },
+  {
+    "symbol": "282000.KS",
+    "name": "KB Asset Management Co., Ltd. - KB Star KTB 3 Year Futures Inverse ETF Fund"
+  },
+  {
+    "symbol": "282330.KS",
+    "name": "BGF retail CO., LTD."
+  },
+  {
+    "symbol": "282690.KS",
+    "name": "Dong Ah Tire & Rubber Co.,Ltd"
+  },
+  {
+    "symbol": "283580.KS",
+    "name": "Samsung Investment Trust Management - Kodex China CSI300 ETF Fund"
+  },
+  {
+    "symbol": "284430.KS",
+    "name": "Samsung Investment Trust Management - Kodex 200 US Treasury Notes Balanced ETF Fund"
+  },
+  {
+    "symbol": "284740.KS",
+    "name": "CUCKOO Homesys Co., Ltd"
+  },
+  {
+    "symbol": "284980.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Financials ETF Fund"
+  },
+  {
+    "symbol": "284990.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Energy & Chemicals ETF Fund"
+  },
+  {
+    "symbol": "285000.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Information Technology ETF Fund"
+  },
+  {
+    "symbol": "285010.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Heavy Industries ETF Fund"
+  },
+  {
+    "symbol": "285020.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Steels & Materials ETF Fund"
+  },
+  {
+    "symbol": "285130.KS",
+    "name": "SK Chemicals Co.,Ltd"
+  },
+  {
+    "symbol": "28513K.KS",
+    "name": "SK Chemicals Co.,Ltd"
+  },
+  {
+    "symbol": "285690.KS",
+    "name": "VI Focus ESG Leaders150 ETF"
+  },
+  {
+    "symbol": "286940.KS",
+    "name": "Lotte Data Communication Company"
+  },
+  {
+    "symbol": "287180.KS",
+    "name": "Hanwha Investment Trust Management - Arirang Nasdaq Technology Sector ETF Fund"
+  },
+  {
+    "symbol": "287300.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar Constructions ETF Fund"
+  },
+  {
+    "symbol": "287310.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar Consumer Discretionary ETF Fund"
+  },
+  {
+    "symbol": "287320.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Industrials ETF Fund"
+  },
+  {
+    "symbol": "287330.KS",
+    "name": "KB Asset Management Co., Ltd. - KBStar 200 Consumer Staples ETF Fund"
+  },
+  {
+    "symbol": "289040.KS",
+    "name": "Samsung Investment Trust Management - Kodex MSCI Korea ESG Universal ETF"
+  },
+  {
+    "symbol": "289250.KS",
+    "name": "Mirae Asset Tiger Msci Korea Esg Universal ETF"
+  },
+  {
+    "symbol": "289260.KS",
+    "name": "MIRAE ASSET TIGER MSCI KOREA ESG LEADERS ETF"
+  },
+  {
+    "symbol": "289480.KS",
+    "name": "Mirae Asset Tiger 200 Covered Call Atm ETF"
+  },
+  {
+    "symbol": "289670.KS",
+    "name": "Hanwha Investment Trust Management - Arirang KTB 10 Year Futures ETF"
+  },
+  {
+    "symbol": "290080.KS",
+    "name": "KB KBSTAR 200 High Dividend Covered Call ATM ETF"
+  },
+  {
+    "symbol": "290130.KS",
+    "name": "Kb Asset Management Co Ltd - kbstar esg sri ETF"
+  },
+  {
+    "symbol": "291130.KS",
+    "name": "Korea Investment Trust Management - Kim Kindex MSCI Mexico ETF"
+  },
+  {
+    "symbol": "291620.KS",
+    "name": "Kiwoom Asset Management - Kosef Kosdaq 150 Futures Inverse ETF"
+  },
+  {
+    "symbol": "291630.KS",
+    "name": "Kiwoom Asset Management - Kosef Kosdaq 150 Futures Leverage ETF"
+  },
+  {
+    "symbol": "291680.KS",
+    "name": "KB Asset Management - KBSTAR China H Futures Inverse ETF"
+  },
+  {
+    "symbol": "291890.KS",
+    "name": "Kodex Energy & Chemicals"
+  },
+  {
+    "symbol": "292050.KS",
+    "name": "KB Asset Management Co. Ltd. - KB KBStar KRX300 ETF Fund"
+  },
+  {
+    "symbol": "292160.KS",
+    "name": "Mirae Asset Tiger KRX300 ETF"
+  },
+  {
+    "symbol": "292190.KS",
+    "name": "Samsung KODEX KRX300 ETF"
+  },
+  {
+    "symbol": "292340.KS",
+    "name": "DB Mighty KOSPI200 Covered Call ATM Leverage ETF"
+  },
+  {
+    "symbol": "292500.KS",
+    "name": "Shinhan BNP Paribas Asset Management Company - BNPP Smart KRX300 ETF"
+  },
+  {
+    "symbol": "292560.KS",
+    "name": "MIRAE Asset Tiger JPYKRW Futures ETF"
+  },
+  {
+    "symbol": "292730.KS",
+    "name": "Hi Focus KRX300 ETF"
+  },
+  {
+    "symbol": "292750.KS",
+    "name": "Hanwha ARIRANG KRX300 ETF"
+  },
+  {
+    "symbol": "292770.KS",
+    "name": "Samsung KODEX Treasury Bond 3-year Inverse Securities Listing Index Investment Trust"
+  },
+  {
+    "symbol": "293480.KS",
+    "name": "Hana Pharm Co., Ltd."
+  },
+  {
+    "symbol": "293940.KS",
+    "name": "Shinhan Alpha REIT Co., Ltd."
+  },
+  {
+    "symbol": "294400.KS",
+    "name": "KOSEF 200 Total Return ETF"
+  },
+  {
+    "symbol": "294870.KS",
+    "name": "HDC Hyundai Development Company"
+  },
+  {
+    "symbol": "295000.KS",
+    "name": "KB Asset Management - KB KBSTAR KTB 10Y Futures ETF"
+  },
+  {
+    "symbol": "295020.KS",
+    "name": "KB Asset Management -KB KBTAR KTB 10Y Futures Inverse ETF"
+  },
+  {
+    "symbol": "295820.KS",
+    "name": "Hanwha Asset Management - Arirang 200 Equity Weighted ETF"
+  },
+  {
+    "symbol": "298000.KS",
+    "name": "Hyosung Chemical Corporation"
+  },
+  {
+    "symbol": "298020.KS",
+    "name": "Hyosung TNC Corporation"
+  },
+  {
+    "symbol": "298040.KS",
+    "name": "Hyosung Heavy Industries Corporation"
+  },
+  {
+    "symbol": "298050.KS",
+    "name": "Hyosung Advanced Materials Corporation"
+  },
+  {
+    "symbol": "298340.KS",
+    "name": "Hanwha Investment Trust Management - Arirang KTB 3 Year Futures ETF"
+  },
+  {
+    "symbol": "298690.KS",
+    "name": "Air Busan Co., Ltd."
+  },
+  {
+    "symbol": "298770.KS",
+    "name": "KODEX Korea Taiwan IT Premier ETF"
+  },
+  {
+    "symbol": "299070.KS",
+    "name": "Korea Investment Trust Management- Kim Kindex LKTB Futures Inverse ETF"
+  },
+  {
+    "symbol": "299080.KS",
+    "name": "Korea Investment Trust Management- Kim Kindex KTB Futures Inverse ETF"
+  },
+  {
+    "symbol": "300610.KS",
+    "name": "MAPS MIRAE Asset Tiger K-GAME ETF"
+  },
+  {
+    "symbol": "300640.KS",
+    "name": "Kb Kbstar Game Industry"
+  },
+  {
+    "symbol": "300720.KS",
+    "name": "Hanil Cement Co., Ltd."
+  },
+  {
+    "symbol": "300950.KS",
+    "name": "Samsung KODEX Game Industry ETF"
+  },
+  {
+    "symbol": "301410.KS",
+    "name": "Hanwha Arirang KOSDAQ-150 Futures Inverse Securities Listing Index Investment Trust"
+  },
+  {
+    "symbol": "301440.KS",
+    "name": "Hanwha Asset Management - Arirang Kospi Midcap Fund"
+  },
+  {
+    "symbol": "302170.KS",
+    "name": "Mirae Asset Tiger KTB 3 year Futures Inverse ETF"
+  },
+  {
+    "symbol": "302180.KS",
+    "name": "Mirae Asset Tiger KTB 10 year Futures Inverse ETF"
+  },
+  {
+    "symbol": "302190.KS",
+    "name": "Mirae Asset Tiger KTB 3 - 10 ETF"
+  },
+  {
+    "symbol": "302440.KS",
+    "name": "SK bioscience Co.,Ltd."
+  },
+  {
+    "symbol": "302450.KS",
+    "name": "KB KBStar Kospi ETF"
+  },
+  {
+    "symbol": "304660.KS",
+    "name": "Samsung Kodex Ultra Treasury Bond Futures(H) ETF"
+  },
+  {
+    "symbol": "304670.KS",
+    "name": "Samsung Kodex Ultra Treasury Bond Futures Inverse(H) ETF"
+  },
+  {
+    "symbol": "304760.KS",
+    "name": "NH Amundi Asset Management - Hanaro KRX 300 ETF Fund"
+  },
+  {
+    "symbol": "304770.KS",
+    "name": "NH Amundi Asset Management - Hanaro Kosdaq 150 ETF Fund"
+  },
+  {
+    "symbol": "304780.KS",
+    "name": "NH Amundi Asset Management - Hanaro 200 Futures Leverage ETF Fund"
+  },
+  {
+    "symbol": "304940.KS",
+    "name": "Samsung Kodex Us Nasdaq 100 Futures Etf(H)"
+  },
+  {
+    "symbol": "305050.KS",
+    "name": "Kim Kindex Kospi ETF"
+  },
+  {
+    "symbol": "305080.KS",
+    "name": "Mirae Asset Tiger 10 Year U.S. Treasury Note Futures Exchnage Traded Fund"
+  },
+  {
+    "symbol": "305540.KS",
+    "name": "Mirae Asset Management - Tiger Secondary Battery ETF"
+  },
+  {
+    "symbol": "305720.KS",
+    "name": "Samsung Kodex Secondary Battery Industry ETF"
+  },
+  {
+    "symbol": "306200.KS",
+    "name": "SeAH Steel Corporation"
+  },
+  {
+    "symbol": "306530.KS",
+    "name": "NH Amundi Asset Management - Hanaro Kosdaq 150 Futures Leverage ETF Fund"
+  },
+  {
+    "symbol": "306950.KS",
+    "name": "Samsung KODEX KRX300 ETF"
+  },
+  {
+    "symbol": "307010.KS",
+    "name": "KB Asset Management Co. Ltd. - KB KBStar KRX300 ETF Fund"
+  },
+  {
+    "symbol": "307510.KS",
+    "name": "Mirae Asset Management - Tiger HealthCare Equipment ETF Fund"
+  },
+  {
+    "symbol": "307520.KS",
+    "name": "Mirae Asset Management - Tiger Holding Company"
+  },
+  {
+    "symbol": "307950.KS",
+    "name": "Hyundai Autoever Corporation"
+  },
+  {
+    "symbol": "308170.KS",
+    "name": "CENTRAL MOTEK Co.Ltd."
+  },
+  {
+    "symbol": "308620.KS",
+    "name": "Samsung KODEX Energy & chemicals Securities ETF-Kodex Treasury Note Futures Fund"
+  },
+  {
+    "symbol": "309210.KS",
+    "name": "Hanwha Investment Trust Management - Arirang KR300 Health Care ETF Fund"
+  },
+  {
+    "symbol": "309230.KS",
+    "name": "Korea Investment Trust Management - Kim Kindex US Wide Moat ETF Fund"
+  },
+  {
+    "symbol": "310080.KS",
+    "name": "KB Asset Management Co., Ltd – KBStar Msci China Futures ETF(H) Fund"
+  },
+  {
+    "symbol": "310960.KS",
+    "name": "Tiger 200 Total Return"
+  },
+  {
+    "symbol": "314250.KS",
+    "name": "Samsung Investment Trust Management - Samsung Kodex Fang Plus ETF"
+  },
+  {
+    "symbol": "314700.KS",
+    "name": "NH-Amundi Hanaro Agriculture Business ETF"
+  },
+  {
+    "symbol": "315270.KS",
+    "name": "Mirae Asset Tiger 200 Communication Service ETF"
+  },
+  {
+    "symbol": "315480.KS",
+    "name": "KB Asset Management Co. Ltd.  - KBStar 200 Communication Service ETF Fund"
+  },
+  {
+    "symbol": "315930.KS",
+    "name": "Samsung Kodex Top 5 Plus Total Return ETF"
+  },
+  {
+    "symbol": "315960.KS",
+    "name": "Kb Kbstar Large Cap High Dividend 10 Trust ETF"
+  },
+  {
+    "symbol": "316140.KS",
+    "name": "Woori Financial Group Inc."
+  },
+  {
+    "symbol": "316300.KS",
+    "name": "Korea Investment Trust management - Kindex Singapore Reits Fund"
+  },
+  {
+    "symbol": "316670.KS",
+    "name": "Kiwoom Kosef Kosdaq 150 ETF"
+  },
+  {
+    "symbol": "317400.KS",
+    "name": "Xi S&D Inc."
+  },
+  {
+    "symbol": "319640.KS",
+    "name": "Mirae Asset Tiger Gold Futures ETF"
+  },
+  {
+    "symbol": "319870.KS",
+    "name": "KB Kbstar Krx300 Usd Futures Balanced ETF"
+  },
+  {
+    "symbol": "321410.KS",
+    "name": "Samsung Kodex Morningstar Multi-Asset High Income ETF (H)"
+  },
+  {
+    "symbol": "322000.KS",
+    "name": "Hyundai Energy Solutions Co.,Ltd"
+  },
+  {
+    "symbol": "322120.KS",
+    "name": "Kim Kindex Smart Quality ETF"
+  },
+  {
+    "symbol": "322130.KS",
+    "name": "Kim Kindex Smart Low Volatility ETF"
+  },
+  {
+    "symbol": "322150.KS",
+    "name": "Kim Kindex Smart High Beta ETF"
+  },
+  {
+    "symbol": "322400.KS",
+    "name": "NH-Amundi Hanaro E-Commerce ETF"
+  },
+  {
+    "symbol": "323410.KS",
+    "name": "KakaoBank Corp."
+  },
+  {
+    "symbol": "325010.KS",
+    "name": "Samsung Kodex Fn Growth Etf"
+  },
+  {
+    "symbol": "325020.KS",
+    "name": "Samsung Kodex Dividend Value Etf"
+  },
+  {
+    "symbol": "326030.KS",
+    "name": "SK Biopharmaceuticals Co., Ltd."
+  },
+  {
+    "symbol": "326230.KS",
+    "name": "KB Kbstar Domestic Consumption Plus ETF"
+  },
+  {
+    "symbol": "326240.KS",
+    "name": "KB Kbstar IT Plus ETF"
+  },
+  {
+    "symbol": "328370.KS",
+    "name": "Hanwha Arirang Kospi Total Return Etf"
+  },
+  {
+    "symbol": "329180.KS",
+    "name": "Hd Hyundai Heavy Industries Co., Ltd."
+  },
+  {
+    "symbol": "329200.KS",
+    "name": "Mirae Asset Management - Tiger Real Estate Infra High Dividend ETF"
+  },
+  {
+    "symbol": "329650.KS",
+    "name": "Samsung Kodex TRF3070 ETF"
+  },
+  {
+    "symbol": "329660.KS",
+    "name": "Samsung Kodex TRF5050 ETF"
+  },
+  {
+    "symbol": "329670.KS",
+    "name": "Samsung Kodex TRF7030 ETF"
+  },
+  {
+    "symbol": "329750.KS",
+    "name": "Mirae Asset Maps Management - Tiger USD Money Market Active ETF"
+  },
+  {
+    "symbol": "330590.KS",
+    "name": "LOTTE REIT Co., Ltd."
+  },
+  {
+    "symbol": "331910.KS",
+    "name": "Kiwoom Kosef Fn Mid Small Capital Etf"
+  },
+  {
+    "symbol": "332500.KS",
+    "name": "Kim Kindex 200Totalreturn ETF"
+  },
+  {
+    "symbol": "332620.KS",
+    "name": "Hanwha Arirang US Long-Term Credit Bond ETF"
+  },
+  {
+    "symbol": "334890.KS",
+    "name": "IGIS Value Plus REIT Co., Ltd."
+  },
+  {
+    "symbol": "336260.KS",
+    "name": "Doosan Fuel Cell Co., Ltd."
+  },
+  {
+    "symbol": "33626K.KS",
+    "name": "Doosan Fuel Cell Co., Ltd."
+  },
+  {
+    "symbol": "33626L.KS",
+    "name": "Doosan Fuel Cell Co., Ltd."
+  },
+  {
+    "symbol": "336370.KS",
+    "name": "Solus Advanced Materials Co. Ltd."
+  },
+  {
+    "symbol": "33637K.KS",
+    "name": "Solus Advanced Materials Co. Ltd."
+  },
+  {
+    "symbol": "33637L.KS",
+    "name": "Solus Advanced Materials Co. Ltd."
+  },
+  {
+    "symbol": "337160.KS",
+    "name": "Samsung Kodex 200 ESG ETF"
+  },
+  {
+    "symbol": "338100.KS",
+    "name": "NH Prime REIT Co., Ltd."
+  },
+  {
+    "symbol": "339770.KS",
+    "name": "Kyochon Food&Beverage Co., Ltd."
+  },
+  {
+    "symbol": "344820.KS",
+    "name": "KCC GLASS Corporation"
+  },
+  {
+    "symbol": "346000.KS",
+    "name": "Nh-Amundi Hanaro Kap Ultra Long Ktb Etf"
+  },
+  {
+    "symbol": "348950.KS",
+    "name": "JR Global REIT"
+  },
+  {
+    "symbol": "350520.KS",
+    "name": "IGIS RESIDENCE REIT Co., Ltd."
+  },
+  {
+    "symbol": "352540.KS",
+    "name": "Samsung Asset Management Co Ltd- Kodex Tse Japan Reits ETF(H) Fund"
+  },
+  {
+    "symbol": "352820.KS",
+    "name": "HYBE Co., Ltd."
+  },
+  {
+    "symbol": "353200.KS",
+    "name": "DAEDUCK ELECTRONICS Co., Ltd."
+  },
+  {
+    "symbol": "35320K.KS",
+    "name": "DAEDUCK ELECTRONICS Co., Ltd."
+  },
+  {
+    "symbol": "354350.KS",
+    "name": "Nh-Amundi Hanaro Global Luxury S&P ETF"
+  },
+  {
+    "symbol": "357120.KS",
+    "name": "Koramco Energy Plus Reit"
+  },
+  {
+    "symbol": "357250.KS",
+    "name": "Miraeasset Maps REIT 1 Co., Ltd."
+  },
+  {
+    "symbol": "360200.KS",
+    "name": "Kim Kindex S&P 500 Etf"
+  },
+  {
+    "symbol": "360750.KS",
+    "name": "Mirae Asset Maps Management - Mirae Asset Tiger S&P500 ETF"
+  },
+  {
+    "symbol": "361610.KS",
+    "name": "SK IE Technology Co., Ltd."
+  },
+  {
+    "symbol": "363280.KS",
+    "name": "TY Holdings Co., Ltd"
+  },
+  {
+    "symbol": "364690.KS",
+    "name": "Samsung KODEX Energy & chemicals Securities ETF-Kodex Innovative Technology Active ETF"
+  },
+  {
+    "symbol": "364960.KS",
+    "name": "Mirae Asset Maps Management - Tiger KRX Bbig K-New Deal ETF"
+  },
+  {
+    "symbol": "364970.KS",
+    "name": "Mirae Asset Maps Management - Tiger KRX Bio K-New Deal ETF"
+  },
+  {
+    "symbol": "364980.KS",
+    "name": "Mirae Asset Maps Management - Tiger KRX Secondary Battery K-New Deal ETF"
+  },
+  {
+    "symbol": "364990.KS",
+    "name": "Mirae Asset Maps Management - KRX Tiger Game K-New Deal ETF"
+  },
+  {
+    "symbol": "365000.KS",
+    "name": "Mirae Asset Maps Management - Tiger KRX Internet K-New Deal ETF"
+  },
+  {
+    "symbol": "365040.KS",
+    "name": "Mirae Asset Maps Management - Tiger AI Korea Growth Active ETF"
+  },
+  {
+    "symbol": "365550.KS",
+    "name": "ESR Kendall Square REIT Co., Ltd."
+  },
+  {
+    "symbol": "367380.KS",
+    "name": "Kim Kindex Nasdaq100 Etf"
+  },
+  {
+    "symbol": "367760.KS",
+    "name": "KB Asset Management - KB KBSTAR Fn5G Tech ETF"
+  },
+  {
+    "symbol": "367770.KS",
+    "name": "KB Asset Management - KB KBSTAR Fn Hydrogen Economy ETF"
+  },
+  {
+    "symbol": "368590.KS",
+    "name": "KB Asset Management - KB KBSTAR US NASDAQ 100 ETF"
+  },
+  {
+    "symbol": "368680.KS",
+    "name": "Samsung Kodex Fn K-New Deal Digital Plus ETF"
+  },
+  {
+    "symbol": "371160.KS",
+    "name": "Mirae Asset Management - Tiger China Hang Seng Tech ETF"
+  },
+  {
+    "symbol": "371450.KS",
+    "name": "Mirae Asset Management - Tiger Global Cloud Computing Index ETF"
+  },
+  {
+    "symbol": "371460.KS",
+    "name": "Mirae Asset Management - Tiger China Electric Vehicle Fund"
+  },
+  {
+    "symbol": "371470.KS",
+    "name": "Mirae Asset Management - Tiger China Biotech Solactive ETF"
+  },
+  {
+    "symbol": "372330.KS",
+    "name": "Samsung KODEX Energy & Chemicals Securities ETF - Samsung Kodex China Hang Seng Tech ETF"
+  },
+  {
+    "symbol": "373220.KS",
+    "name": "LG Energy Solution, Ltd."
+  },
+  {
+    "symbol": "373490.KS",
+    "name": "Samsung KODEX Energy & chemicals Securities ETF - Kodex K-Innovation Active Etf"
+  },
+  {
+    "symbol": "375500.KS",
+    "name": "DL E&C Co.,Ltd."
+  },
+  {
+    "symbol": "376250.KS",
+    "name": "Hanwha Asset Management - Arirang Carbon Efficient ETF"
+  },
+  {
+    "symbol": "377300.KS",
+    "name": "Kakao Pay Corp."
+  },
+  {
+    "symbol": "377990.KS",
+    "name": "Mirae Asset Maps Management - Tiger Financial Renewable Energy ETF"
+  },
+  {
+    "symbol": "379780.KS",
+    "name": "Kb Asset Management Co Ltd. - Kb Star S and P 500 ETF"
+  },
+  {
+    "symbol": "381170.KS",
+    "name": "Mirae Asset Maps Management - Tiger US Tech Top 10 Index ETF"
+  },
+  {
+    "symbol": "381180.KS",
+    "name": "Mirae Asset Maps Management - Tiger PHLX Semiconductor Sector Nasdaq ETF"
+  },
+  {
+    "symbol": "381970.KS",
+    "name": "K Car Co., Ltd."
+  },
+  {
+    "symbol": "383220.KS",
+    "name": "F&F Co., Ltd"
+  },
+  {
+    "symbol": "383800.KS",
+    "name": "LX Holdings Corp."
+  },
+  {
+    "symbol": "395400.KS",
+    "name": "SK Reits Co., Ltd."
+  },
+  {
+    "symbol": "397420.KS",
+    "name": "KBStar FKTB 5-Year ETF"
+  },
+  {
+    "symbol": "402340.KS",
+    "name": "SK Square Co., Ltd."
+  },
+  {
+    "symbol": "403550.KS",
+    "name": "SOCAR Inc."
+  },
+  {
+    "symbol": "432320.KS",
+    "name": "KB STAR REIT Co., Ltd."
+  },
+  {
+    "symbol": "443060.KS",
+    "name": "HDHMS"
+  },
+  {
+    "symbol": "450080.KS",
+    "name": "ECOPRO MAT"
+  },
+  {
+    "symbol": "454910.KS",
+    "name": "Doosan Robotics Inc."
+  },
+  {
+    "symbol": "456040.KS",
+    "name": "OCI Company Ltd."
+  },
+  {
+    "symbol": "457190.KS",
+    "name": "ISU Specialty Chemical Co., Ltd."
+  },
+  {
+    "symbol": "460860.KS",
+    "name": "Dongkuk Steel Mill Company Limited"
+  },
+  {
+    "symbol": "462870.KS",
+    "name": "SHIFT UP"
+  },
+  {
+    "symbol": "481850.KS",
+    "name": "SHINHAN GLOBAL ACTIVE REIT"
+  },
+  {
+    "symbol": "900140.KS",
+    "name": "LVMC Holdings"
+  },
+  {
+    "symbol": "950130.KS",
+    "name": "Access Bio Inc"
+  },
+  {
+    "symbol": "950210.KS",
+    "name": "Prestige BioPharma Limited"
+  }
+]
