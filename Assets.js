@@ -130,9 +130,66 @@ const updateEtfType = async (file) => {
   }
 };
 
+const getAllAssets = () => {
+  return new Promise((resolve, reject) => {
+    const query = 'SELECT * FROM assets';
+
+    connection.query(query, (err, results) => {
+      if (err) {
+        console.error('Error fetching data:', err);
+        reject(err);
+        return;
+      }
+
+      fs.writeFileSync(`results/assets.json`, JSON.stringify(results, null, 2));
+      resolve(results);
+    });
+  });
+};
+
+const getForexesList = async (exchange) => {
+  try {
+    const endpoint = `https://financialmodelingprep.com/api/v3/symbol/available-forex-currency-pairs?apikey=${process.env.FMP_API_KEY}`;
+    const resp = await axios.get(endpoint);
+
+    const filteredStocks = resp.data
+      .filter(
+        (stock) => stock.name.includes('KRW') && stock.name.includes('USD')
+      )
+      .map((stock) => ({
+        symbol: stock.symbol,
+        name: stock.name,
+      }));
+
+    fs.writeFileSync(
+      `results/Forex.json`,
+      JSON.stringify(filteredStocks, null, 2)
+    );
+  } catch (err) {
+    console.log(err);
+  }
+};
+
+const insertForexToAssets = async (file) => {
+  const assetsToInsert = JSON.parse(fs.readFileSync(file, 'utf8'));
+
+  for (const asset of assetsToInsert) {
+    if (!asset.name) {
+      continue;
+    }
+
+    console.log('save: ', asset.symbol);
+    await insertAsset('forex', asset.symbol, 'FOREX', asset.name);
+  }
+};
+
 // await insertFileToAssets('results/stocksOfKOE.json', 'stock', 'KOSDAQ');
 // await insertFileToAssets('results/stocksOfKSC.json', 'stock', 'KOSPI');
 // await insertFileToAssets('results/stocksOfNASDAQ.json', 'stock', 'NASDAQ');
 // await insertFileToAssets('results/stocksOfNYSE.json', 'stock', 'NYSE');
 // await updateEtfType('results/ETF.json');
+// await getAllAssets();
+// await getForexesList();
+
+await insertForexToAssets('results/Forex.json');
 connection.end();
