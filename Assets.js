@@ -125,9 +125,9 @@ const insertEtfFileToAssets = async (file) => {
   }
 };
 
-await insertFileToAssets('results/stocksOfKOE.json', 'stock', 'KOSDAQ');
-await insertFileToAssets('results/stocksOfKSC.json', 'stock', 'KOSPI');
-await insertFileToAssets('results/stocksOfNASDAQ.json', 'stock', 'NASDAQ');
-await insertFileToAssets('results/stocksOfNYSE.json', 'stock', 'NYSE');
-await insertEtfFileToAssets('results/ETF.json');
+// await insertFileToAssets('results/stocksOfKOE.json', 'stock', 'KOSDAQ');
+// await insertFileToAssets('results/stocksOfKSC.json', 'stock', 'KOSPI');
+// await insertFileToAssets('results/stocksOfNASDAQ.json', 'stock', 'NASDAQ');
+// await insertFileToAssets('results/stocksOfNYSE.json', 'stock', 'NYSE');
+// await insertEtfFileToAssets('results/ETF.json');
 connection.end();
