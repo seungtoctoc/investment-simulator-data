@@ -1,10 +1,12 @@
 [
   {
     "symbol": "KRWUSD",
-    "name": "KRW/USD"
+    "name": "KRW/USD",
+    "marketCap": 0
   },
   {
     "symbol": "USDKRW",
-    "name": "USD/KRW"
+    "name": "USD/KRW",
+    "marketCap": 0
   }
 ]

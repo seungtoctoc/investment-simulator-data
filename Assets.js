@@ -20,6 +20,7 @@ const getStocksOfExchange = async (exchange) => {
     const filteredStocks = resp.data.map((stock) => ({
       symbol: stock.symbol,
       name: stock.name,
+      marketCap: stock.marketCap,
     }));
 
     fs.writeFileSync(
@@ -59,18 +60,22 @@ const getETF = async () => {
   }
 };
 
-const insertAsset = (type, symbol, exchange, name) => {
+const insertAsset = (type, symbol, exchange, name, marketCap) => {
   return new Promise((resolve, reject) => {
-    const query = `insert into assets (type, symbol, exchange, name) values (?, ?, ?, ?)`;
+    const query = `insert into assets (type, symbol, exchange, name, market_cap) values (?, ?, ?, ?, ?)`;
 
-    connection.query(query, [type, symbol, exchange, name], (err, result) => {
-      if (err) {
-        console.log(err);
-        reject(err);
+    connection.query(
+      query,
+      [type, symbol, exchange, name, marketCap],
+      (err, result) => {
+        if (err) {
+          console.log(err);
+          reject(err);
+        }
+        console.log('data inserted: ', result);
+        resolve();
       }
-      console.log('data inserted: ', result);
-      resolve();
-    });
+    );
   });
 };
 
@@ -89,19 +94,34 @@ const updateType = (type, symbol) => {
   });
 };
 
+const updateKoreanName = (symbol, korean_name) => {
+  return new Promise((resolve, reject) => {
+    const query = `update assets set korean_name = ? where symbol = ?`;
+
+    connection.query(query, [korean_name, symbol], (err, result) => {
+      if (err) {
+        console.log(err);
+        reject(err);
+      }
+      console.log('data updated: ', result);
+      resolve();
+    });
+  });
+};
+
 const insertFileToAssets = async (file, type, exchange) => {
   const assetsToInsert = JSON.parse(fs.readFileSync(file, 'utf8'));
 
   for (const asset of assetsToInsert) {
-    if (!asset.name) {
+    if (!asset.name || !asset.symbol || !asset.marketCap) {
       continue;
     }
 
     const name =
       asset.name.length > 100 ? asset.name.slice(0, 100) : asset.name;
 
-    console.log('save: ', type, asset.symbol, exchange, name);
-    await insertAsset(type, asset.symbol, exchange, name);
+    console.log('save: ', type, asset.symbol, exchange, name, asset.marketCap);
+    await insertAsset(type, asset.symbol, exchange, name, asset.marketCap);
   }
 };
 
@@ -159,6 +179,7 @@ const getForexesList = async (exchange) => {
       .map((stock) => ({
         symbol: stock.symbol,
         name: stock.name,
+        marketCap: 0,
       }));
 
     fs.writeFileSync(
@@ -179,17 +200,78 @@ const insertForexToAssets = async (file) => {
     }
 
     console.log('save: ', asset.symbol);
-    await insertAsset('forex', asset.symbol, 'FOREX', asset.name);
+    await insertAsset('forex', asset.symbol, 'FOREX', asset.name, 0);
   }
 };
+
+const updateKoreanNames = async (file) => {
+  const assets = JSON.parse(fs.readFileSync(file, 'utf8'));
+
+  const endpoint =
+    'https://openapi.koreainvestment.com:9443/uapi/domestic-stock/v1/quotations/search-info';
+
+  const headers = {
+    'content-type': 'application/json; charset=utf-8',
+    authorization: `${process.env.KIS_ACCESS_TOKEN}`,
+    appkey: `${process.env.KIS_APP_KEY}`,
+    appsecret: `${process.env.KIS_APP_SECRET}`,
+    tr_id: 'CTPF1604R',
+    custtype: 'P',
+  };
+
+  const typeCode = new Map([
+    ['KOSPI', 300],
+    ['KOSDAQ', 300],
+    ['NASDAQ', 512],
+    ['NYSE', 513],
+  ]);
+
+  for (const asset of assets) {
+    const symbol = asset.exchange.startsWith('K')
+      ? asset.symbol.slice(0, -3)
+      : asset.symbol;
+
+    const params = `?PDNO=${symbol}&PRDT_TYPE_CD=${typeCode.get(
+      asset.exchange
+    )}`;
+
+    try {
+      const resp = await axios(endpoint + params, { headers });
+
+      if (!resp) {
+        continue;
+      }
+
+      const koreanName =
+        resp.data.output.prdt_name120.length > 100
+          ? resp.data.output.prdt_name120.slice(0, 100)
+          : resp.data.output.prdt_name120;
+
+      await updateKoreanName(asset.symbol, koreanName);
+      console.log('updated ', asset.symbol, koreanName);
+    } catch (err) {
+      console.log('error', asset.symbol);
+    }
+
+    await new Promise((resolve) => setTimeout(resolve, 50));
+  }
+};
+
+// getStocksOfExchange('KOE');
+// getStocksOfExchange('KSC');
+// getStocksOfExchange('NASDAQ');
+// getStocksOfExchange('NYSE');
+// getForexesList();
 
 // await insertFileToAssets('results/stocksOfKOE.json', 'stock', 'KOSDAQ');
 // await insertFileToAssets('results/stocksOfKSC.json', 'stock', 'KOSPI');
 // await insertFileToAssets('results/stocksOfNASDAQ.json', 'stock', 'NASDAQ');
 // await insertFileToAssets('results/stocksOfNYSE.json', 'stock', 'NYSE');
 // await updateEtfType('results/ETF.json');
-// await getAllAssets();
-// await getForexesList();
+// await insertForexToAssets('results/Forex.json');
 
-await insertForexToAssets('results/Forex.json');
+// await getAllAssets();
+
+await updateKoreanNames('results/assets.json');
+
 connection.end();

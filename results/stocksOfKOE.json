@@ -1,1494 +1,1867 @@
 [
   {
     "symbol": "000250.KQ",
-    "name": "Sam Chun Dang Pharm. Co., Ltd"
+    "name": "Sam Chun Dang Pharm. Co., Ltd",
+    "marketCap": 2314121250000
   },
   {
     "symbol": "003100.KQ",
-    "name": "SUN KWANG CO.,Ltd."
+    "name": "SUN KWANG CO.,Ltd.",
+    "marketCap": 88516789200
   },
   {
     "symbol": "003380.KQ",
-    "name": "Harim Holdings Co., Ltd."
+    "name": "Harim Holdings Co., Ltd.",
+    "marketCap": 577733666400
   },
   {
     "symbol": "005290.KQ",
-    "name": "Dongjin Semichem Co., Ltd."
+    "name": "Dongjin Semichem Co., Ltd.",
+    "marketCap": 1123406825000
   },
   {
     "symbol": "006730.KQ",
-    "name": "Seobu T&D Co., Ltd."
+    "name": "Seobu T&D Co., Ltd.",
+    "marketCap": 381163848390
   },
   {
     "symbol": "006910.KQ",
-    "name": "Bosung Power Technology Co., Ltd"
+    "name": "Bosung Power Technology Co., Ltd",
+    "marketCap": 141407122000
   },
   {
     "symbol": "007390.KQ",
-    "name": "NatureCell Co.,Ltd."
+    "name": "NatureCell Co.,Ltd.",
+    "marketCap": 1473779880000
   },
   {
     "symbol": "009520.KQ",
-    "name": "POSCO M-TECH Co., Ltd."
+    "name": "POSCO M-TECH Co., Ltd.",
+    "marketCap": 577124856000
   },
   {
     "symbol": "010170.KQ",
-    "name": "Taihan Fiber Optics Co., Ltd"
+    "name": "Taihan Fiber Optics Co., Ltd",
+    "marketCap": 55734377600
   },
   {
     "symbol": "013120.KQ",
-    "name": "DongWon Development Co.,Ltd."
+    "name": "DongWon Development Co.,Ltd.",
+    "marketCap": 212944994500
   },
   {
     "symbol": "014200.KQ",
-    "name": "KANGLIM Co., Ltd"
+    "name": "KANGLIM Co., Ltd",
+    "marketCap": 91136252176
   },
   {
     "symbol": "014620.KQ",
-    "name": "Sung Kwang Bend Co.,Ltd."
+    "name": "Sung Kwang Bend Co.,Ltd.",
+    "marketCap": 550185334950
   },
   {
     "symbol": "015750.KQ",
-    "name": "Sungwoo Hitech Co., Ltd."
+    "name": "Sungwoo Hitech Co., Ltd.",
+    "marketCap": 420755779180
   },
   {
     "symbol": "018000.KQ",
-    "name": "Unison Co., Ltd."
+    "name": "Unison Co., Ltd.",
+    "marketCap": 124104904000
   },
   {
     "symbol": "018290.KQ",
-    "name": "VT Co., Ltd."
+    "name": "VT Co., Ltd.",
+    "marketCap": 1032831750000
   },
   {
     "symbol": "019210.KQ",
-    "name": "YG-1 Co., Ltd."
+    "name": "YG-1 Co., Ltd.",
+    "marketCap": 178612616000
   },
   {
     "symbol": "022100.KQ",
-    "name": "Posco ICT Company Ltd."
+    "name": "Posco ICT Company Ltd.",
+    "marketCap": 11265251018000
   },
   {
     "symbol": "023160.KQ",
-    "name": "Tae Kwang Corporation"
+    "name": "Tae Kwang Corporation",
+    "marketCap": 442847183040
   },
   {
     "symbol": "023410.KQ",
-    "name": "Eugene Corporation"
+    "name": "Eugene Corporation",
+    "marketCap": 232346715060
   },
   {
     "symbol": "023910.KS",
-    "name": "Daihan Pharmaceutical Co."
+    "name": "Daihan Pharmaceutical Co.",
+    "marketCap": 165522000000
   },
   {
     "symbol": "025320.KQ",
-    "name": "Synopex Inc."
+    "name": "Synopex Inc.",
+    "marketCap": 530051670400
   },
   {
     "symbol": "025900.KQ",
-    "name": "Dongwha Enterprise Co.,Ltd"
+    "name": "Dongwha Enterprise Co.,Ltd",
+    "marketCap": 411669837000
   },
   {
     "symbol": "025980.KQ",
-    "name": "Ananti Inc."
+    "name": "Ananti Inc.",
+    "marketCap": 513272208540
   },
   {
     "symbol": "027360.KQ",
-    "name": "Aju IB Investment Co., Ltd."
+    "name": "Aju IB Investment Co., Ltd.",
+    "marketCap": 309092694000
   },
   {
     "symbol": "028300.KQ",
-    "name": "HLB Co., Ltd."
+    "name": "HLB Co., Ltd.",
+    "marketCap": 9415204364000
   },
   {
     "symbol": "029960.KQ",
-    "name": "Korea Environment Technology Co., LTD."
+    "name": "Korea Environment Technology Co., LTD.",
+    "marketCap": 430910986400
   },
   {
     "symbol": "030190.KQ",
-    "name": "NICE Information Service Co., Ltd."
+    "name": "NICE Information Service Co., Ltd.",
+    "marketCap": 728419200000
   },
   {
     "symbol": "030520.KQ",
-    "name": "Hancom Inc."
+    "name": "Hancom Inc.",
+    "marketCap": 608902664700
   },
   {
     "symbol": "030530.KQ",
-    "name": "Wonik Holdings Co., Ltd"
+    "name": "Wonik Holdings Co., Ltd",
+    "marketCap": 187138408800
   },
   {
     "symbol": "031330.KQ",
-    "name": "SAMT Co., Ltd."
+    "name": "SAMT Co., Ltd.",
+    "marketCap": 267852498500
   },
   {
     "symbol": "031390.KQ",
-    "name": "Green Cross Cell Corporation"
+    "name": "Green Cross Cell Corporation",
+    "marketCap": 0
   },
   {
     "symbol": "032190.KQ",
-    "name": "Daou Data Corp."
+    "name": "Daou Data Corp.",
+    "marketCap": 414023000000
   },
   {
     "symbol": "032500.KQ",
-    "name": "Kmw Inc."
+    "name": "Kmw Inc.",
+    "marketCap": 336486605000
   },
   {
     "symbol": "032820.KQ",
-    "name": "Woori Technology, Inc."
+    "name": "Woori Technology, Inc.",
+    "marketCap": 350288411650
   },
   {
     "symbol": "033100.KQ",
-    "name": "Cheryong Electric Co.,Ltd."
+    "name": "Cheryong Electric Co.,Ltd.",
+    "marketCap": 696287430000
   },
   {
     "symbol": "033290.KQ",
-    "name": "COWELL FASHION Co.,Ltd"
+    "name": "COWELL FASHION Co.,Ltd",
+    "marketCap": 106509544230
   },
   {
     "symbol": "033640.KQ",
-    "name": "Nepes Corporation"
+    "name": "Nepes Corporation",
+    "marketCap": 150762778920
   },
   {
     "symbol": "034230.KQ",
-    "name": "Paradise Co., Ltd."
+    "name": "Paradise Co., Ltd.",
+    "marketCap": 1283314087720
   },
   {
     "symbol": "035080.KQ",
-    "name": "Interpark Co., Ltd."
+    "name": "Interpark Co., Ltd.",
+    "marketCap": 190440104640
   },
   {
     "symbol": "035600.KQ",
-    "name": "Kginicis Co.,Ltd"
+    "name": "Kginicis Co.,Ltd",
+    "marketCap": 245422145880
   },
   {
     "symbol": "035760.KQ",
-    "name": "CJ ENM CO., Ltd."
+    "name": "CJ ENM CO., Ltd.",
+    "marketCap": 1341209325500
   },
   {
     "symbol": "035810.KQ",
-    "name": "EASY HOLDINGS Co., Ltd."
+    "name": "EASY HOLDINGS Co., Ltd.",
+    "marketCap": 191174700860
   },
   {
     "symbol": "035890.KQ",
-    "name": "Seohee Construction Co., Ltd."
+    "name": "Seohee Construction Co., Ltd.",
+    "marketCap": 293248331571
   },
   {
     "symbol": "035900.KQ",
-    "name": "JYP Entertainment Corporation"
+    "name": "JYP Entertainment Corporation",
+    "marketCap": 2531366242400
   },
   {
     "symbol": "036200.KQ",
-    "name": "UNISEM Co., Ltd."
+    "name": "UNISEM Co., Ltd.",
+    "marketCap": 174142897600
   },
   {
     "symbol": "036220.KQ",
-    "name": "Osang Healthcare Co.,Ltd"
+    "name": "Osang Healthcare Co.,Ltd",
+    "marketCap": 153569931200
   },
   {
     "symbol": "036490.KQ",
-    "name": "SK Materials Co., Ltd."
+    "name": "SK Materials Co., Ltd.",
+    "marketCap": 0
   },
   {
     "symbol": "036540.KQ",
-    "name": "SFA Semicon Co., Ltd."
+    "name": "SFA Semicon Co., Ltd.",
+    "marketCap": 527146497640
   },
   {
     "symbol": "036630.KQ",
-    "name": "Sejong Telecom, Inc."
+    "name": "Sejong Telecom, Inc.",
+    "marketCap": 89400893274
   },
   {
     "symbol": "036710.KQ",
-    "name": "Simmtech Holdings Co., Ltd."
+    "name": "Simmtech Holdings Co., Ltd.",
+    "marketCap": 55724845085
   },
   {
     "symbol": "036800.KQ",
-    "name": "Nice Information & Telecommunication, Inc."
+    "name": "Nice Information & Telecommunication, Inc.",
+    "marketCap": 160828839500
   },
   {
     "symbol": "036810.KQ",
-    "name": "Fine Semitech Corp."
+    "name": "Fine Semitech Corp.",
+    "marketCap": 329274000000
   },
   {
     "symbol": "036830.KQ",
-    "name": "Soulbrain Holdings Co., Ltd."
+    "name": "Soulbrain Holdings Co., Ltd.",
+    "marketCap": 739686604600
   },
   {
     "symbol": "036930.KQ",
-    "name": "JUSUNG ENGINEERING Co., Ltd."
+    "name": "JUSUNG ENGINEERING Co., Ltd.",
+    "marketCap": 1318785570000
   },
   {
     "symbol": "037460.KQ",
-    "name": "Samji Electronics Co., Ltd."
+    "name": "Samji Electronics Co., Ltd.",
+    "marketCap": 128648838200
   },
   {
     "symbol": "038290.KQ",
-    "name": "Macrogen, Inc."
+    "name": "Macrogen, Inc.",
+    "marketCap": 164654490000
   },
   {
     "symbol": "038540.KQ",
-    "name": "Sangsangin Co., Ltd."
+    "name": "Sangsangin Co., Ltd.",
+    "marketCap": 87613545063
   },
   {
     "symbol": "038880.KQ",
-    "name": "iA, Inc."
+    "name": "iA, Inc.",
+    "marketCap": 49661373326
   },
   {
     "symbol": "039030.KQ",
-    "name": "EO Technics Co., Ltd."
+    "name": "EO Technics Co., Ltd.",
+    "marketCap": 1406264368600
   },
   {
     "symbol": "039200.KQ",
-    "name": "Oscotec Inc."
+    "name": "Oscotec Inc.",
+    "marketCap": 917944800000
   },
   {
     "symbol": "039440.KQ",
-    "name": "STI Co., Ltd."
+    "name": "STI Co., Ltd.",
+    "marketCap": 220907630000
   },
   {
     "symbol": "039840.KQ",
-    "name": "DIO Corporation"
+    "name": "DIO Corporation",
+    "marketCap": 245684561000
   },
   {
     "symbol": "040910.KQ",
-    "name": "ICD Co., Ltd."
+    "name": "ICD Co., Ltd.",
+    "marketCap": 80904424960
   },
   {
     "symbol": "041190.KQ",
-    "name": "Woori Technology Investment Co., Ltd"
+    "name": "Woori Technology Investment Co., Ltd",
+    "marketCap": 683708749680
   },
   {
     "symbol": "041510.KQ",
-    "name": "SM Entertainment Co., Ltd."
+    "name": "SM Entertainment Co., Ltd.",
+    "marketCap": 1941467422400
   },
   {
     "symbol": "041830.KQ",
-    "name": "InBody Co.,Ltd"
+    "name": "InBody Co.,Ltd",
+    "marketCap": 293104462500
   },
   {
     "symbol": "041960.KQ",
-    "name": "Komipharm International Co., Ltd."
+    "name": "Komipharm International Co., Ltd.",
+    "marketCap": 277732992980
   },
   {
     "symbol": "043150.KQ",
-    "name": "Value Added Technology Co., Ltd."
+    "name": "Value Added Technology Co., Ltd.",
+    "marketCap": 303027720000
   },
   {
     "symbol": "044340.KQ",
-    "name": "Winix Inc."
+    "name": "Winix Inc.",
+    "marketCap": 80778261690
   },
   {
     "symbol": "044490.KQ",
-    "name": "Taewoong Co.,Ltd"
+    "name": "Taewoong Co.,Ltd",
+    "marketCap": 208477108000
   },
   {
     "symbol": "045390.KQ",
-    "name": "DAEA TI Co., Ltd."
+    "name": "DAEA TI Co., Ltd.",
+    "marketCap": 202610946475
   },
   {
     "symbol": "046890.KQ",
-    "name": "Seoul Semiconductor Co., Ltd."
+    "name": "Seoul Semiconductor Co., Ltd.",
+    "marketCap": 396360820200
   },
   {
     "symbol": "047920.KQ",
-    "name": "HLB Pharmaceutical Co., Ltd"
+    "name": "HLB Pharmaceutical Co., Ltd",
+    "marketCap": 707537072750
   },
   {
     "symbol": "048260.KQ",
-    "name": "Osstem Implant Co., Ltd."
+    "name": "Osstem Implant Co., Ltd.",
+    "marketCap": 26502031100000
   },
   {
     "symbol": "048410.KQ",
-    "name": "Hyundai Bioscience Co., Ltd."
+    "name": "Hyundai Bioscience Co., Ltd.",
+    "marketCap": 566231071680
   },
   {
     "symbol": "048530.KQ",
-    "name": "iNtRON Biotechnology, Inc."
+    "name": "iNtRON Biotechnology, Inc.",
+    "marketCap": 177997958720
   },
   {
     "symbol": "049070.KQ",
-    "name": "Intops Co., Ltd."
+    "name": "Intops Co., Ltd.",
+    "marketCap": 290297329750
   },
   {
     "symbol": "049950.KQ",
-    "name": "meerecompany Incorporated"
+    "name": "meerecompany Incorporated",
+    "marketCap": 129203987500
   },
   {
     "symbol": "050890.KQ",
-    "name": "SOLiD, Inc."
+    "name": "SOLiD, Inc.",
+    "marketCap": 292397407675
   },
   {
     "symbol": "051370.KQ",
-    "name": "Interflex Co., Ltd."
+    "name": "Interflex Co., Ltd.",
+    "marketCap": 204115625000
   },
   {
     "symbol": "052020.KQ",
-    "name": "STCube, Inc."
+    "name": "STCube, Inc.",
+    "marketCap": 290913090840
   },
   {
     "symbol": "052400.KQ",
-    "name": "Kona I Co.,Ltd."
+    "name": "Kona I Co.,Ltd.",
+    "marketCap": 211331238950
   },
   {
     "symbol": "053030.KQ",
-    "name": "BINEX Co., Ltd."
+    "name": "BINEX Co., Ltd.",
+    "marketCap": 576442920000
   },
   {
     "symbol": "053580.KQ",
-    "name": "WebCash Corporation"
+    "name": "WebCash Corporation",
+    "marketCap": 94354221460
   },
   {
     "symbol": "053800.KQ",
-    "name": "AhnLab, Inc."
+    "name": "AhnLab, Inc.",
+    "marketCap": 609380705400
   },
   {
     "symbol": "056080.KQ",
-    "name": "Yujin Robot Co., Ltd."
+    "name": "Yujin Robot Co., Ltd.",
+    "marketCap": 254332716000
   },
   {
     "symbol": "056190.KQ",
-    "name": "SFA Engineering Corporation"
+    "name": "SFA Engineering Corporation",
+    "marketCap": 669136390200
   },
   {
     "symbol": "058470.KQ",
-    "name": "LEENO Industrial Inc."
+    "name": "LEENO Industrial Inc.",
+    "marketCap": 2342142845000
   },
   {
     "symbol": "058610.KQ",
-    "name": "SPG Co., Ltd."
+    "name": "SPG Co., Ltd.",
+    "marketCap": 489544237000
   },
   {
     "symbol": "058820.KQ",
-    "name": "CMG Pharmaceutical Co., Ltd."
+    "name": "CMG Pharmaceutical Co., Ltd.",
+    "marketCap": 264728152000
   },
   {
     "symbol": "058970.KQ",
-    "name": "EMRO. Incorporated"
+    "name": "EMRO. Incorporated",
+    "marketCap": 896004649800
   },
   {
     "symbol": "059090.KQ",
-    "name": "MiCo Ltd."
+    "name": "MiCo Ltd.",
+    "marketCap": 249134301290
   },
   {
     "symbol": "060150.KQ",
-    "name": "INSUN Environmental New Technology Co., Ltd."
+    "name": "INSUN Environmental New Technology Co., Ltd.",
+    "marketCap": 247252788510
   },
   {
     "symbol": "060250.KQ",
-    "name": "NHN KCP Corp."
+    "name": "NHN KCP Corp.",
+    "marketCap": 300050534560
   },
   {
     "symbol": "060280.KQ",
-    "name": "Curexo Inc."
+    "name": "Curexo Inc.",
+    "marketCap": 318210696760
   },
   {
     "symbol": "060720.KQ",
-    "name": "KHVATEC Co.,Ltd."
+    "name": "KHVATEC Co.,Ltd.",
+    "marketCap": 196386630000
   },
   {
     "symbol": "061970.KQ",
-    "name": "LB Semicon Inc."
+    "name": "LB Semicon Inc.",
+    "marketCap": 151056870000
   },
   {
     "symbol": "063080.KQ",
-    "name": "Com2uS Holdings Corporation"
+    "name": "Com2uS Holdings Corporation",
+    "marketCap": 214995304800
   },
   {
     "symbol": "063170.KQ",
-    "name": "Seoul Auction Co. Ltd."
+    "name": "Seoul Auction Co. Ltd.",
+    "marketCap": 127961200000
   },
   {
     "symbol": "064260.KQ",
-    "name": "Danal Co., Ltd."
+    "name": "Danal Co., Ltd.",
+    "marketCap": 201380759325
   },
   {
     "symbol": "064290.KQ",
-    "name": "INTEKPLUS Co., Ltd."
+    "name": "INTEKPLUS Co., Ltd.",
+    "marketCap": 115000191360
   },
   {
     "symbol": "064550.KQ",
-    "name": "Bioneer Corporation"
+    "name": "Bioneer Corporation",
+    "marketCap": 515173588000
   },
   {
     "symbol": "064760.KQ",
-    "name": "Tokai Carbon Korea Co., Ltd."
+    "name": "Tokai Carbon Korea Co., Ltd.",
+    "marketCap": 813747500000
   },
   {
     "symbol": "065350.KQ",
-    "name": "Shinsung Delta Tech Co.,Ltd."
+    "name": "Shinsung Delta Tech Co.,Ltd.",
+    "marketCap": 1777827060000
   },
   {
     "symbol": "065660.KQ",
-    "name": "Anterogen.Co.,Ltd."
+    "name": "Anterogen.Co.,Ltd.",
+    "marketCap": 157277202450
   },
   {
     "symbol": "066970.KQ",
-    "name": "L&F Co., Ltd."
+    "name": "L&F Co., Ltd.",
+    "marketCap": 5038594309400
   },
   {
     "symbol": "067160.KQ",
-    "name": "AfreecaTV Co., Ltd."
+    "name": "AfreecaTV Co., Ltd.",
+    "marketCap": 1224944371000
   },
   {
     "symbol": "067310.KQ",
-    "name": "HANA Micron Inc."
+    "name": "HANA Micron Inc.",
+    "marketCap": 633123367740
   },
   {
     "symbol": "067630.KQ",
-    "name": "HLB Life Science Co., Ltd."
+    "name": "HLB Life Science Co., Ltd.",
+    "marketCap": 1233544832000
   },
   {
     "symbol": "068100.KQ",
-    "name": "KWR"
+    "name": "KWR",
+    "marketCap": 33582665700
   },
   {
     "symbol": "068240.KQ",
-    "name": "Dawonsys Co.,Ltd."
+    "name": "Dawonsys Co.,Ltd.",
+    "marketCap": 396517726000
   },
   {
     "symbol": "068760.KQ",
-    "name": "Celltrion Pharm, Inc."
+    "name": "Celltrion Pharm, Inc.",
+    "marketCap": 2342891004400
   },
   {
     "symbol": "069080.KQ",
-    "name": "Webzen Inc."
+    "name": "Webzen Inc.",
+    "marketCap": 444359811480
   },
   {
     "symbol": "073570.KQ",
-    "name": "Urban Lithium Inc"
+    "name": "Urban Lithium Inc",
+    "marketCap": 65893121730
   },
   {
     "symbol": "074600.KQ",
-    "name": "Wonik QnC Corporation"
+    "name": "Wonik QnC Corporation",
+    "marketCap": 485802240000
   },
   {
     "symbol": "078130.KQ",
-    "name": "Kuk-Il Paper Mfg Co.,Ltd"
+    "name": "Kuk-Il Paper Mfg Co.,Ltd",
+    "marketCap": 102093981600
   },
   {
     "symbol": "078160.KQ",
-    "name": "MEDIPOST Co., Ltd."
+    "name": "MEDIPOST Co., Ltd.",
+    "marketCap": 326338939270
   },
   {
     "symbol": "078340.KQ",
-    "name": "Com2uS Corporation"
+    "name": "Com2uS Corporation",
+    "marketCap": 558192081900
   },
   {
     "symbol": "078600.KQ",
-    "name": "Daejoo Electronic Materials Co., Ltd."
+    "name": "Daejoo Electronic Materials Co., Ltd.",
+    "marketCap": 1318044446400
   },
   {
     "symbol": "079810.KQ",
-    "name": "DE&T Co., Ltd."
+    "name": "DE&T Co., Ltd.",
+    "marketCap": 120626904000
   },
   {
     "symbol": "080160.KQ",
-    "name": "Modetour Network Inc."
+    "name": "Modetour Network Inc.",
+    "marketCap": 182272341520
   },
   {
     "symbol": "080580.KQ",
-    "name": "Okins Electronics Co., Ltd."
+    "name": "Okins Electronics Co., Ltd.",
+    "marketCap": 75864290670
   },
   {
     "symbol": "082210.KQ",
-    "name": "Optrontec Inc."
+    "name": "Optrontec Inc.",
+    "marketCap": 57179231280
   },
   {
     "symbol": "082270.KQ",
-    "name": "GemVax&KAEL Co.,Ltd"
+    "name": "GemVax&KAEL Co.,Ltd",
+    "marketCap": 773758050000
   },
   {
     "symbol": "082920.KQ",
-    "name": "VITZROCELL Co.,Ltd."
+    "name": "VITZROCELL Co.,Ltd.",
+    "marketCap": 455884749650
   },
   {
     "symbol": "083310.KQ",
-    "name": "LOT VACUUM Co., Ltd."
+    "name": "LOT VACUUM Co., Ltd.",
+    "marketCap": 129903000000
   },
   {
     "symbol": "083790.KQ",
-    "name": "CrystalGenomics, Inc."
+    "name": "CrystalGenomics, Inc.",
+    "marketCap": 178754190075
   },
   {
     "symbol": "084110.KQ",
-    "name": "Huons Global Co., Ltd."
+    "name": "Huons Global Co., Ltd.",
+    "marketCap": 365549265050
   },
   {
     "symbol": "084370.KQ",
-    "name": "Eugene Technology Co.,Ltd."
+    "name": "Eugene Technology Co.,Ltd.",
+    "marketCap": 742922880000
   },
   {
     "symbol": "084650.KQ",
-    "name": "LabGenomics Co., Ltd."
+    "name": "LabGenomics Co., Ltd.",
+    "marketCap": 199705594620
   },
   {
     "symbol": "084850.KQ",
-    "name": "ITM Semiconductor Co., Ltd."
+    "name": "ITM Semiconductor Co., Ltd.",
+    "marketCap": 310537191870
   },
   {
     "symbol": "084990.KQ",
-    "name": "Helixmith Co., Ltd"
+    "name": "Helixmith Co., Ltd",
+    "marketCap": 139522079730
   },
   {
     "symbol": "085370.KQ",
-    "name": "Lutronic Corporation"
+    "name": "Lutronic Corporation",
+    "marketCap": 918028480000
   },
   {
     "symbol": "085660.KQ",
-    "name": "Chabiotech Co.,Ltd."
+    "name": "Chabiotech Co.,Ltd.",
+    "marketCap": 844716000000
   },
   {
     "symbol": "086390.KQ",
-    "name": "UniTest Incorporation"
+    "name": "UniTest Incorporation",
+    "marketCap": 179538544530
   },
   {
     "symbol": "086450.KQ",
-    "name": "DongKook Pharmaceutical Co., Ltd."
+    "name": "DongKook Pharmaceutical Co., Ltd.",
+    "marketCap": 727675696000
   },
   {
     "symbol": "086520.KQ",
-    "name": "Ecopro Co., Ltd."
+    "name": "Ecopro Co., Ltd.",
+    "marketCap": 10686650020100
   },
   {
     "symbol": "086900.KQ",
-    "name": "Medy-Tox Inc."
+    "name": "Medy-Tox Inc.",
+    "marketCap": 884492688600
   },
   {
     "symbol": "087010.KQ",
-    "name": "Peptron, Inc."
+    "name": "Peptron, Inc.",
+    "marketCap": 1768362062100
   },
   {
     "symbol": "088340.KQ",
-    "name": "URACLE"
+    "name": "URACLE",
+    "marketCap": 42611384480
   },
   {
     "symbol": "088800.KQ",
-    "name": "Ace Technologies Corp."
+    "name": "Ace Technologies Corp.",
+    "marketCap": 152566358208
   },
   {
     "symbol": "089010.KQ",
-    "name": "CHEMTRONICS.CO.,Ltd."
+    "name": "CHEMTRONICS.CO.,Ltd.",
+    "marketCap": 230437484000
   },
   {
     "symbol": "089030.KQ",
-    "name": "Techwing, Inc."
+    "name": "Techwing, Inc.",
+    "marketCap": 1254489057900
   },
   {
     "symbol": "089980.KQ",
-    "name": "Sang-A Frontec Co.,Ltd."
+    "name": "Sang-A Frontec Co.,Ltd.",
+    "marketCap": 310874689640
   },
   {
     "symbol": "090360.KQ",
-    "name": "Robostar Co., Ltd."
+    "name": "Robostar Co., Ltd.",
+    "marketCap": 219862500000
   },
   {
     "symbol": "090460.KQ",
-    "name": "BH Co., Ltd."
+    "name": "BH Co., Ltd.",
+    "marketCap": 835249680000
   },
   {
     "symbol": "090710.KQ",
-    "name": "Hyulim ROBOT Co.,Ltd."
+    "name": "Hyulim ROBOT Co.,Ltd.",
+    "marketCap": 174992867209
   },
   {
     "symbol": "091120.KQ",
-    "name": "EM-Tech.CO., LTD."
+    "name": "EM-Tech.CO., LTD.",
+    "marketCap": 393416486400
   },
   {
     "symbol": "091700.KQ",
-    "name": "Partron Co., Ltd."
+    "name": "Partron Co., Ltd.",
+    "marketCap": 405404747240
   },
   {
     "symbol": "091990.KQ",
-    "name": "Celltrion Healthcare Co., Ltd."
+    "name": "Celltrion Healthcare Co., Ltd.",
+    "marketCap": 10736435334900
   },
   {
     "symbol": "092040.KQ",
-    "name": "Amicogen, Inc."
+    "name": "Amicogen, Inc.",
+    "marketCap": 201175714570
   },
   {
     "symbol": "092730.KQ",
-    "name": "NeoPharm CO., LTD."
+    "name": "NeoPharm CO., LTD.",
+    "marketCap": 191108634200
   },
   {
     "symbol": "094170.KQ",
-    "name": "Dongwoon Anatech Co., Ltd."
+    "name": "Dongwoon Anatech Co., Ltd.",
+    "marketCap": 342196470910
   },
   {
     "symbol": "094480.KQ",
-    "name": "GalaxiaMoneytree Co.,Ltd"
+    "name": "GalaxiaMoneytree Co.,Ltd",
+    "marketCap": 333453300000
   },
   {
     "symbol": "094820.KQ",
-    "name": "Iljin Power Co., Ltd."
+    "name": "Iljin Power Co., Ltd.",
+    "marketCap": 140533484000
   },
   {
     "symbol": "095340.KQ",
-    "name": "ISC Co., Ltd."
+    "name": "ISC Co., Ltd.",
+    "marketCap": 1047766988800
   },
   {
     "symbol": "095500.KQ",
-    "name": "MNtech Co., Ltd."
+    "name": "MNtech Co., Ltd.",
+    "marketCap": 227262915990
   },
   {
     "symbol": "095610.KQ",
-    "name": "TES Co., Ltd"
+    "name": "TES Co., Ltd",
+    "marketCap": 273132797220
   },
   {
     "symbol": "095660.KQ",
-    "name": "NEOWIZ"
+    "name": "NEOWIZ",
+    "marketCap": 418224897230
   },
   {
     "symbol": "095700.KQ",
-    "name": "Genexine, Inc."
+    "name": "Genexine, Inc.",
+    "marketCap": 274609169120
   },
   {
     "symbol": "096530.KQ",
-    "name": "Seegene, Inc."
+    "name": "Seegene, Inc.",
+    "marketCap": 1098577435000
   },
   {
     "symbol": "098460.KQ",
-    "name": "Koh Young Technology Inc."
+    "name": "Koh Young Technology Inc.",
+    "marketCap": 540821032860
   },
   {
     "symbol": "099190.KQ",
-    "name": "i-SENS, Inc."
+    "name": "i-SENS, Inc.",
+    "marketCap": 459168103840
   },
   {
     "symbol": "099430.KQ",
-    "name": "Bio Plus Co., Ltd"
+    "name": "Bio Plus Co., Ltd",
+    "marketCap": 317543280000
   },
   {
     "symbol": "100120.KQ",
-    "name": "Vieworks Co., Ltd."
+    "name": "Vieworks Co., Ltd.",
+    "marketCap": 191443574100
   },
   {
     "symbol": "100130.KQ",
-    "name": "Dongkuk Structures & Construction Company Limited"
+    "name": "Dongkuk Structures & Construction Company Limited",
+    "marketCap": 125400820500
   },
   {
     "symbol": "101160.KQ",
-    "name": "Worldex Industry & Trading Co., Ltd."
+    "name": "Worldex Industry & Trading Co., Ltd.",
+    "marketCap": 271605815010
   },
   {
     "symbol": "101360.KQ",
-    "name": "Eco&Dream Co., Ltd."
+    "name": "Eco&Dream Co., Ltd.",
+    "marketCap": 467082700000
   },
   {
     "symbol": "101490.KQ",
-    "name": "S&S Tech Corporation"
+    "name": "S&S Tech Corporation",
+    "marketCap": 470330934850
   },
   {
     "symbol": "101730.KQ",
-    "name": "Wemade Max Co., Ltd."
+    "name": "Wemade Max Co., Ltd.",
+    "marketCap": 311648384000
   },
   {
     "symbol": "102710.KQ",
-    "name": "ENF Technology Co., Ltd."
+    "name": "ENF Technology Co., Ltd.",
+    "marketCap": 227318898000
   },
   {
     "symbol": "102940.KQ",
-    "name": "Kolon Life Science Inc."
+    "name": "Kolon Life Science Inc.",
+    "marketCap": 232695405000
   },
   {
     "symbol": "104830.KQ",
-    "name": "WONIK Materials Co.,Ltd."
+    "name": "WONIK Materials Co.,Ltd.",
+    "marketCap": 212823040000
   },
   {
     "symbol": "107640.KQ",
-    "name": "HanJung Natural Connectivity System.co.,Ltd"
+    "name": "HanJung Natural Connectivity System.co.,Ltd",
+    "marketCap": 181431447500
   },
   {
     "symbol": "108230.KQ",
-    "name": "TOPTEC Co., Ltd"
+    "name": "TOPTEC Co., Ltd",
+    "marketCap": 159041145195
   },
   {
     "symbol": "108320.KQ",
-    "name": "LX Semicon Co., Ltd."
+    "name": "LX Semicon Co., Ltd.",
+    "marketCap": 1268615322000
   },
   {
     "symbol": "108490.KQ",
-    "name": "ROBOTIS Co., Ltd."
+    "name": "ROBOTIS Co., Ltd.",
+    "marketCap": 281025980000
   },
   {
     "symbol": "108860.KQ",
-    "name": "Selvas AI Inc."
+    "name": "Selvas AI Inc.",
+    "marketCap": 388642289840
   },
   {
     "symbol": "112040.KQ",
-    "name": "Wemade Co.,Ltd."
+    "name": "Wemade Co.,Ltd.",
+    "marketCap": 1529656492000
   },
   {
     "symbol": "114190.KQ",
-    "name": "KANGWON ENERGY Co., Ltd."
+    "name": "KANGWON ENERGY Co., Ltd.",
+    "marketCap": 279516100000
   },
   {
     "symbol": "115160.KQ",
-    "name": "Humax Co., Ltd."
+    "name": "Humax Co., Ltd.",
+    "marketCap": 56359668493
   },
   {
     "symbol": "115450.KQ",
-    "name": "HLB Therapeutics Co.,Ltd."
+    "name": "HLB Therapeutics Co.,Ltd.",
+    "marketCap": 846709872440
   },
   {
     "symbol": "117730.KQ",
-    "name": "T-Robotics.Co.,Ltd."
+    "name": "T-Robotics.Co.,Ltd.",
+    "marketCap": 138415896000
   },
   {
     "symbol": "118990.KQ",
-    "name": "Motrex Co., Ltd"
+    "name": "Motrex Co., Ltd",
+    "marketCap": 263053840000
   },
   {
     "symbol": "119610.KQ",
-    "name": "Interojo Inc."
+    "name": "Interojo Inc.",
+    "marketCap": 323717230800
   },
   {
     "symbol": "121600.KQ",
-    "name": "Advanced Nano Products Co., Ltd."
+    "name": "Advanced Nano Products Co., Ltd.",
+    "marketCap": 803974160000
   },
   {
     "symbol": "122450.KQ",
-    "name": "KMH Co. Ltd."
+    "name": "KMH Co. Ltd.",
+    "marketCap": 138257877060
   },
   {
     "symbol": "122870.KQ",
-    "name": "YG Entertainment Inc."
+    "name": "YG Entertainment Inc.",
+    "marketCap": 885615859750
   },
   {
     "symbol": "122990.KQ",
-    "name": "WiSoL CO.,LTD."
+    "name": "WiSoL CO.,LTD.",
+    "marketCap": 154960355200
   },
   {
     "symbol": "126730.KQ",
-    "name": "KORCHIP"
+    "name": "KORCHIP",
+    "marketCap": 75748157500
   },
   {
     "symbol": "131090.KQ",
-    "name": "Secuve Co., Ltd."
+    "name": "Secuve Co., Ltd.",
+    "marketCap": 34211406070
   },
   {
     "symbol": "131370.KQ",
-    "name": "RSUPPORT Co., Ltd."
+    "name": "RSUPPORT Co., Ltd.",
+    "marketCap": 153398556275
   },
   {
     "symbol": "131970.KQ",
-    "name": "Tesna Inc."
+    "name": "Tesna Inc.",
+    "marketCap": 450016007000
   },
   {
     "symbol": "137400.KQ",
-    "name": "People & Technology Inc."
+    "name": "People & Technology Inc.",
+    "marketCap": 1008932820000
   },
   {
     "symbol": "140410.KQ",
-    "name": "Mezzion Pharma Co.,Ltd."
+    "name": "Mezzion Pharma Co.,Ltd.",
+    "marketCap": 915609080000
   },
   {
     "symbol": "140860.KQ",
-    "name": "Park Systems Corp."
+    "name": "Park Systems Corp.",
+    "marketCap": 1408418669000
   },
   {
     "symbol": "141080.KQ",
-    "name": "LegoChem Biosciences, Inc."
+    "name": "LegoChem Biosciences, Inc.",
+    "marketCap": 3482913650000
   },
   {
     "symbol": "144510.KQ",
-    "name": "GC Cell Corporation"
+    "name": "GC Cell Corporation",
+    "marketCap": 383942405000
   },
   {
     "symbol": "145020.KQ",
-    "name": "Hugel, Inc."
+    "name": "Hugel, Inc.",
+    "marketCap": 2860364000000
   },
   {
     "symbol": "145170.KQ",
-    "name": "Nobland"
+    "name": "Nobland",
+    "marketCap": 148625067510
   },
   {
     "symbol": "151860.KQ",
-    "name": "KG Eco Technology Services Co., Ltd."
+    "name": "KG Eco Technology Services Co., Ltd.",
+    "marketCap": 214000590000
   },
   {
     "symbol": "158430.KQ",
-    "name": "ATON Inc."
+    "name": "ATON Inc.",
+    "marketCap": 119341776110
   },
   {
     "symbol": "160190.KQ",
-    "name": "HIGEN RNM CO., LTD"
+    "name": "HIGEN RNM CO., LTD",
+    "marketCap": 291429600000
   },
   {
     "symbol": "163730.KQ",
-    "name": "Finger, Inc."
+    "name": "Finger, Inc.",
+    "marketCap": 102946715200
   },
   {
     "symbol": "166090.KQ",
-    "name": "Hana Materials Inc."
+    "name": "Hana Materials Inc.",
+    "marketCap": 448224000000
   },
   {
     "symbol": "174900.KQ",
-    "name": "AbClon Inc."
+    "name": "AbClon Inc.",
+    "marketCap": 245171157000
   },
   {
     "symbol": "178320.KQ",
-    "name": "Seojin System Co.,Ltd"
+    "name": "Seojin System Co.,Ltd",
+    "marketCap": 1431511600000
   },
   {
     "symbol": "179900.KQ",
-    "name": "UTI Inc."
+    "name": "UTI Inc.",
+    "marketCap": 365478913800
   },
   {
     "symbol": "182400.KQ",
-    "name": "NKMAX CO., Ltd."
+    "name": "NKMAX CO., Ltd.",
+    "marketCap": 172741047400
   },
   {
     "symbol": "183300.KQ",
-    "name": "KoMiCo Ltd."
+    "name": "KoMiCo Ltd.",
+    "marketCap": 376110454000
   },
   {
     "symbol": "183490.KQ",
-    "name": "Enzychem Lifesciences Corporation"
+    "name": "Enzychem Lifesciences Corporation",
+    "marketCap": 99397414845
   },
   {
     "symbol": "189300.KQ",
-    "name": "Intellian Technologies, Inc."
+    "name": "Intellian Technologies, Inc.",
+    "marketCap": 388040602800
   },
   {
     "symbol": "194480.KQ",
-    "name": "Devsisters corporation"
+    "name": "Devsisters corporation",
+    "marketCap": 331331250000
   },
   {
     "symbol": "195940.KQ",
-    "name": "HK inno.N Corporation"
+    "name": "HK inno.N Corporation",
+    "marketCap": 1087868160000
   },
   {
     "symbol": "196170.KQ",
-    "name": "ALTEOGEN Inc."
+    "name": "ALTEOGEN Inc.",
+    "marketCap": 14922625760000
   },
   {
     "symbol": "199430.KQ",
-    "name": "KNR SYSTEMS"
+    "name": "KNR SYSTEMS",
+    "marketCap": 74226479790
   },
   {
     "symbol": "199480.KQ",
-    "name": "Bankware Global"
+    "name": "Bankware Global",
+    "marketCap": 56569172800
   },
   {
     "symbol": "199800.KQ",
-    "name": "ToolGen Incorporated"
+    "name": "ToolGen Incorporated",
+    "marketCap": 336590704000
   },
   {
     "symbol": "200130.KQ",
-    "name": "Kolmar BNH Co., Ltd."
+    "name": "Kolmar BNH Co., Ltd.",
+    "marketCap": 377064295300
   },
   {
     "symbol": "200230.KQ",
-    "name": "TELCON RF PHARMACEUTICAL. Inc."
+    "name": "TELCON RF PHARMACEUTICAL. Inc.",
+    "marketCap": 68302000000
   },
   {
     "symbol": "200670.KQ",
-    "name": "Humedix Co., Ltd."
+    "name": "Humedix Co., Ltd.",
+    "marketCap": 328331744650
   },
   {
     "symbol": "200710.KQ",
-    "name": "ADTechnology Co.,Ltd."
+    "name": "ADTechnology Co.,Ltd.",
+    "marketCap": 181105308000
   },
   {
     "symbol": "200780.KQ",
-    "name": "BCWORLD PHARM. Co., Ltd."
+    "name": "BCWORLD PHARM. Co., Ltd.",
+    "marketCap": 37678174865
   },
   {
     "symbol": "203450.KQ",
-    "name": "Union Community Co., Ltd."
+    "name": "Union Community Co., Ltd.",
+    "marketCap": 33347133325
   },
   {
     "symbol": "204270.KQ",
-    "name": "JNTC Co., Ltd."
+    "name": "JNTC Co., Ltd.",
+    "marketCap": 1281191304750
   },
   {
     "symbol": "204630.KQ",
-    "name": "Studio Santa Claus Entertainment Co., Ltd."
+    "name": "Studio Santa Claus Entertainment Co., Ltd.",
+    "marketCap": 634816760
   },
   {
     "symbol": "205470.KQ",
-    "name": "Humasis Co. Ltd."
+    "name": "Humasis Co. Ltd.",
+    "marketCap": 207410972223
   },
   {
     "symbol": "206560.KQ",
-    "name": "Dexter Studios Co.,Ltd."
+    "name": "Dexter Studios Co.,Ltd.",
+    "marketCap": 216333860000
   },
   {
     "symbol": "206640.KQ",
-    "name": "Boditech Med Inc."
+    "name": "Boditech Med Inc.",
+    "marketCap": 383269043840
   },
   {
     "symbol": "206650.KQ",
-    "name": "EuBiologics Co., Ltd."
+    "name": "EuBiologics Co., Ltd.",
+    "marketCap": 471292470000
   },
   {
     "symbol": "213420.KQ",
-    "name": "DukSan Neolux Co.,Ltd"
+    "name": "DukSan Neolux Co.,Ltd",
+    "marketCap": 610388959600
   },
   {
     "symbol": "214150.KQ",
-    "name": "CLASSYS Inc."
+    "name": "CLASSYS Inc.",
+    "marketCap": 3042739765000
   },
   {
     "symbol": "214180.KQ",
-    "name": "Minwise Co., Ltd"
+    "name": "Minwise Co., Ltd",
+    "marketCap": 157060995570
   },
   {
     "symbol": "214370.KQ",
-    "name": "Caregen Co., Ltd."
+    "name": "Caregen Co., Ltd.",
+    "marketCap": 1163125016200
   },
   {
     "symbol": "214450.KQ",
-    "name": "PharmaResearch Co., Ltd."
+    "name": "PharmaResearch Co., Ltd.",
+    "marketCap": 2057150304000
   },
   {
     "symbol": "214680.KQ",
-    "name": "DRTECH Corporation"
+    "name": "DRTECH Corporation",
+    "marketCap": 176944800000
   },
   {
     "symbol": "215000.KQ",
-    "name": "GOLFZON Co., Ltd."
+    "name": "GOLFZON Co., Ltd.",
+    "marketCap": 432366840000
   },
   {
     "symbol": "215200.KQ",
-    "name": "MegaStudyEdu Co. Ltd"
+    "name": "MegaStudyEdu Co. Ltd",
+    "marketCap": 443269646400
   },
   {
     "symbol": "215600.KQ",
-    "name": "SillaJen, Inc."
+    "name": "SillaJen, Inc.",
+    "marketCap": 445512540000
   },
   {
     "symbol": "216050.KQ",
-    "name": "Incross Co., Ltd."
+    "name": "Incross Co., Ltd.",
+    "marketCap": 88474331440
   },
   {
     "symbol": "216080.KQ",
-    "name": "JETEMA, Co., Ltd."
+    "name": "JETEMA, Co., Ltd.",
+    "marketCap": 348720927000
   },
   {
     "symbol": "217820.KQ",
-    "name": "Wonik Pne Co., Ltd."
+    "name": "Wonik Pne Co., Ltd.",
+    "marketCap": 115523340675
   },
   {
     "symbol": "218410.KQ",
-    "name": "RFHIC Corporation"
+    "name": "RFHIC Corporation",
+    "marketCap": 332965662480
   },
   {
     "symbol": "220100.KQ",
-    "name": "FutureChem Co.,Ltd"
+    "name": "FutureChem Co.,Ltd",
+    "marketCap": 355982235030
   },
   {
     "symbol": "221840.KQ",
-    "name": "Hizeaero Co., Ltd."
+    "name": "Hizeaero Co., Ltd.",
+    "marketCap": 30033163600
   },
   {
     "symbol": "222080.KQ",
-    "name": "Creative & Innovative System Corporation"
+    "name": "Creative & Innovative System Corporation",
+    "marketCap": 588897553000
   },
   {
     "symbol": "222800.KQ",
-    "name": "SIMMTECH Co., Ltd."
+    "name": "SIMMTECH Co., Ltd.",
+    "marketCap": 349031064000
   },
   {
     "symbol": "222810.KQ",
-    "name": "Setopia Co.,Ltd."
+    "name": "Setopia Co.,Ltd.",
+    "marketCap": 81189064800
   },
   {
     "symbol": "225570.KQ",
-    "name": "Nat Games Co.,Ltd."
+    "name": "Nat Games Co.,Ltd.",
+    "marketCap": 861788532000
   },
   {
     "symbol": "226950.KQ",
-    "name": "OliX Pharmaceuticals,Inc"
+    "name": "OliX Pharmaceuticals,Inc",
+    "marketCap": 362002200000
   },
   {
     "symbol": "228670.KQ",
-    "name": "Ray Co., Ltd."
+    "name": "Ray Co., Ltd.",
+    "marketCap": 90957411000
   },
   {
     "symbol": "228760.KQ",
-    "name": "Genomictree Inc."
+    "name": "Genomictree Inc.",
+    "marketCap": 313790233320
   },
   {
     "symbol": "229000.KQ",
-    "name": "Gencurix Inc."
+    "name": "Gencurix Inc.",
+    "marketCap": 27475511652
   },
   {
     "symbol": "230240.KQ",
-    "name": "HFR, Inc."
+    "name": "HFR, Inc.",
+    "marketCap": 161684895680
   },
   {
     "symbol": "230360.KQ",
-    "name": "Echomarketing Co.,Ltd."
+    "name": "Echomarketing Co.,Ltd.",
+    "marketCap": 301148760000
   },
   {
     "symbol": "235980.KQ",
-    "name": "MedPacto, Inc."
+    "name": "MedPacto, Inc.",
+    "marketCap": 169246728000
   },
   {
     "symbol": "237690.KQ",
-    "name": "ST Pharm Co.,Ltd."
+    "name": "ST Pharm Co.,Ltd.",
+    "marketCap": 1771572000000
   },
   {
     "symbol": "238090.KQ",
-    "name": "NDFOS Co., Ltd."
+    "name": "NDFOS Co., Ltd.",
+    "marketCap": 73857962035
   },
   {
     "symbol": "240810.KQ",
-    "name": "Wonik Ips Co., Ltd"
+    "name": "Wonik Ips Co., Ltd",
+    "marketCap": 1111782493650
   },
   {
     "symbol": "241820.KQ",
-    "name": "PCL, Inc."
+    "name": "PCL, Inc.",
+    "marketCap": 39290208000
   },
   {
     "symbol": "243070.KQ",
-    "name": "Huons Co., Ltd."
+    "name": "Huons Co., Ltd.",
+    "marketCap": 288181982800
   },
   {
     "symbol": "243840.KQ",
-    "name": "Shin Heung Energy & Electronics Co.,Ltd."
+    "name": "Shin Heung Energy & Electronics Co.,Ltd.",
+    "marketCap": 212943384000
   },
   {
     "symbol": "246710.KQ",
-    "name": "T&R Biofab Co., Ltd."
+    "name": "T&R Biofab Co., Ltd.",
+    "marketCap": 127944915000
   },
   {
     "symbol": "247540.KQ",
-    "name": "Ecopro BM. Co., Ltd."
+    "name": "Ecopro BM. Co., Ltd.",
+    "marketCap": 13203637002400
   },
   {
     "symbol": "253450.KQ",
-    "name": "Studio Dragon Corporation"
+    "name": "Studio Dragon Corporation",
+    "marketCap": 1477375275000
   },
   {
     "symbol": "253840.KQ",
-    "name": "Sugentech Inc."
+    "name": "Sugentech Inc.",
+    "marketCap": 84398967360
   },
   {
     "symbol": "254490.KQ",
-    "name": "Mirai Semiconductors Co., Ltd."
+    "name": "Mirai Semiconductors Co., Ltd.",
+    "marketCap": 170368400000
   },
   {
     "symbol": "256150.KQ",
-    "name": "Handok Clean Tech Co., Ltd."
+    "name": "Handok Clean Tech Co., Ltd.",
+    "marketCap": 49434108650
   },
   {
     "symbol": "256840.KQ",
-    "name": "BNC Korea Co., Ltd."
+    "name": "BNC Korea Co., Ltd.",
+    "marketCap": 267105318180
   },
   {
     "symbol": "260930.KQ",
-    "name": "CTK Co., Ltd"
+    "name": "CTK Co., Ltd",
+    "marketCap": 117019998000
   },
   {
     "symbol": "263750.KQ",
-    "name": "Pearl Abyss Corp."
+    "name": "Pearl Abyss Corp.",
+    "marketCap": 2435281390750
   },
   {
     "symbol": "265520.KQ",
-    "name": "Advanced Process Systems Corporation"
+    "name": "Advanced Process Systems Corporation",
+    "marketCap": 235515371840
   },
   {
     "symbol": "267980.KQ",
-    "name": "Maeil Dairies Co., Ltd."
+    "name": "Maeil Dairies Co., Ltd.",
+    "marketCap": 272430198500
   },
   {
     "symbol": "268600.KQ",
-    "name": "Cellivery Therapeutics, Inc."
+    "name": "Cellivery Therapeutics, Inc.",
+    "marketCap": 248383776000
   },
   {
     "symbol": "270520.KQ",
-    "name": "Geolit Energy Co.,Ltd."
+    "name": "Geolit Energy Co.,Ltd.",
+    "marketCap": 281267046515
   },
   {
     "symbol": "272290.KQ",
-    "name": "INNOX Advanced Materials Co.,Ltd."
+    "name": "INNOX Advanced Materials Co.,Ltd.",
+    "marketCap": 413415137850
   },
   {
     "symbol": "273640.KQ",
-    "name": "YM Tech Co., Ltd."
+    "name": "YM Tech Co., Ltd.",
+    "marketCap": 119824620300
   },
   {
     "symbol": "277810.KQ",
-    "name": "Rainbow Robotics Co.,Ltd."
+    "name": "Rainbow Robotics Co.,Ltd.",
+    "marketCap": 2942964830000
   },
   {
     "symbol": "278280.KQ",
-    "name": "Chunbo Co., Ltd."
+    "name": "Chunbo Co., Ltd.",
+    "marketCap": 408619500000
   },
   {
     "symbol": "281740.KQ",
-    "name": "Lake Materials Co., Ltd."
+    "name": "Lake Materials Co., Ltd.",
+    "marketCap": 780878340000
   },
   {
     "symbol": "287410.KQ",
-    "name": "Jeisys Medical Inc."
+    "name": "Jeisys Medical Inc.",
+    "marketCap": 974738241600
   },
   {
     "symbol": "289220.KQ",
-    "name": "GIANTSTEP Inc."
+    "name": "GIANTSTEP Inc.",
+    "marketCap": 139366710000
   },
   {
     "symbol": "290650.KQ",
-    "name": "L&C Bio Co., Ltd"
+    "name": "L&C Bio Co., Ltd",
+    "marketCap": 380879471000
   },
   {
     "symbol": "290670.KQ",
-    "name": "Daebo Magnetic Co.,Ltd."
+    "name": "Daebo Magnetic Co.,Ltd.",
+    "marketCap": 94663550240
   },
   {
     "symbol": "293490.KQ",
-    "name": "Kakao Games Corp."
+    "name": "Kakao Games Corp.",
+    "marketCap": 1485014686650
   },
   {
     "symbol": "293780.KQ",
-    "name": "AptaBio Therapeutics Inc."
+    "name": "AptaBio Therapeutics Inc.",
+    "marketCap": 168755816880
   },
   {
     "symbol": "294090.KQ",
-    "name": "EOFLOW Co.,Ltd."
+    "name": "EOFLOW Co.,Ltd.",
+    "marketCap": 401286944800
   },
   {
     "symbol": "294570.KQ",
-    "name": "COOCON Corporation"
+    "name": "COOCON Corporation",
+    "marketCap": 151131366360
   },
   {
     "symbol": "295310.KQ",
-    "name": "HVM CO.,LTD."
+    "name": "HVM CO.,LTD.",
+    "marketCap": 243989585500
   },
   {
     "symbol": "298380.KQ",
-    "name": "ABL Bio Inc."
+    "name": "ABL Bio Inc.",
+    "marketCap": 1313267680000
   },
   {
     "symbol": "298540.KQ",
-    "name": "The Nature Holdings Co., Ltd."
+    "name": "The Nature Holdings Co., Ltd.",
+    "marketCap": 147494653100
   },
   {
     "symbol": "299030.KQ",
-    "name": "Hana Technology Co., Ltd."
+    "name": "Hana Technology Co., Ltd.",
+    "marketCap": 164295400500
   },
   {
     "symbol": "299660.KQ",
-    "name": "Cellid, Co., Ltd."
+    "name": "Cellid, Co., Ltd.",
+    "marketCap": 120075940920
   },
   {
     "symbol": "299900.KQ",
-    "name": "Wysiwyg Studios Co., Ltd."
+    "name": "Wysiwyg Studios Co., Ltd.",
+    "marketCap": 298030888000
   },
   {
     "symbol": "304100.KQ",
-    "name": "Saltlux Inc."
+    "name": "Saltlux Inc.",
+    "marketCap": 320485700000
   },
   {
     "symbol": "310210.KQ",
-    "name": "Voronoi, Inc."
+    "name": "Voronoi, Inc.",
+    "marketCap": 1288732380000
   },
   {
     "symbol": "319660.KQ",
-    "name": "PSK Inc."
+    "name": "PSK Inc.",
+    "marketCap": 486640560000
   },
   {
     "symbol": "322510.KQ",
-    "name": "JLK, Inc."
+    "name": "JLK, Inc.",
+    "marketCap": 201575200000
   },
   {
     "symbol": "323990.KQ",
-    "name": "Vaxcell-Bio Therapeutics Co., Ltd."
+    "name": "Vaxcell-Bio Therapeutics Co., Ltd.",
+    "marketCap": 303131400000
   },
   {
     "symbol": "328130.KQ",
-    "name": "Lunit Inc."
+    "name": "Lunit Inc.",
+    "marketCap": 1960480800000
   },
   {
     "symbol": "336570.KQ",
-    "name": "WON TECH Co.,Ltd."
+    "name": "WON TECH Co.,Ltd.",
+    "marketCap": 376554612000
   },
   {
     "symbol": "338220.KQ",
-    "name": "Vuno Inc."
+    "name": "Vuno Inc.",
+    "marketCap": 403452210000
   },
   {
     "symbol": "340570.KS",
-    "name": "T&L Co Ltd"
+    "name": "T&L Co Ltd",
+    "marketCap": 505307888600
   },
   {
     "symbol": "347850.KQ",
-    "name": "D&D Pharmatech"
+    "name": "D&D Pharmatech",
+    "marketCap": 413792795000
   },
   {
     "symbol": "348210.KQ",
-    "name": "NEXTIN, Inc."
+    "name": "NEXTIN, Inc.",
+    "marketCap": 571618182800
   },
   {
     "symbol": "348340.KQ",
-    "name": "Neuromeka Co., Ltd."
+    "name": "Neuromeka Co., Ltd.",
+    "marketCap": 277510295000
   },
   {
     "symbol": "348370.KQ",
-    "name": "Enchem Co., Ltd."
+    "name": "Enchem Co., Ltd.",
+    "marketCap": 2644096478400
   },
   {
     "symbol": "353810.KQ",
-    "name": "EASY BIO,Inc."
+    "name": "EASY BIO,Inc.",
+    "marketCap": 131769277975
   },
   {
     "symbol": "357780.KQ",
-    "name": "Soulbrain Co., Ltd."
+    "name": "Soulbrain Co., Ltd.",
+    "marketCap": 1389894707000
   },
   {
     "symbol": "358570.KQ",
-    "name": "GI Innovation, Inc."
+    "name": "GI Innovation, Inc.",
+    "marketCap": 536973999200
   },
   {
     "symbol": "360070.KQ",
-    "name": "TOP MATERIAL Co., Ltd"
+    "name": "TOP MATERIAL Co., Ltd",
+    "marketCap": 231246818000
   },
   {
     "symbol": "360350.KQ",
-    "name": "COXEM"
+    "name": "COXEM",
+    "marketCap": 44638403900
   },
   {
     "symbol": "365340.KQ",
-    "name": "SungEel HiTech Co., Ltd."
+    "name": "SungEel HiTech Co., Ltd.",
+    "marketCap": 544259235000
   },
   {
     "symbol": "366030.KQ",
-    "name": "09WOMEN Co., Ltd."
+    "name": "09WOMEN Co., Ltd.",
+    "marketCap": 87556937000
   },
   {
     "symbol": "372170.KQ",
-    "name": "YUNSUNG F&C Co.,Ltd"
+    "name": "YUNSUNG F&C Co.,Ltd",
+    "marketCap": 327539920400
   },
   {
     "symbol": "373110.KQ",
-    "name": null
+    "name": null,
+    "marketCap": 48101064680
   },
   {
     "symbol": "376300.KQ",
-    "name": "Dear U Co., Ltd."
+    "name": "Dear U Co., Ltd.",
+    "marketCap": 865264643550
   },
   {
     "symbol": "383310.KQ",
-    "name": "Ecopro HN Co., Ltd."
+    "name": "Ecopro HN Co., Ltd.",
+    "marketCap": 763272421200
   },
   {
     "symbol": "393890.KQ",
-    "name": "W-Scope Chungju Plant Co., Ltd."
+    "name": "W-Scope Chungju Plant Co., Ltd.",
+    "marketCap": 418173788380
   },
   {
     "symbol": "403870.KQ",
-    "name": "HPSP Co., Ltd."
+    "name": "HPSP Co., Ltd.",
+    "marketCap": 2191884324000
   },
   {
     "symbol": "412540.KQ",
-    "name": "Jeil M&S Co., Ltd"
+    "name": "Jeil M&S Co., Ltd",
+    "marketCap": 159861424240
   },
   {
     "symbol": "417010.KQ",
-    "name": "NanoTIM Co. Ltd."
+    "name": "NanoTIM Co. Ltd.",
+    "marketCap": 177518700000
   },
   {
     "symbol": "418550.KQ",
-    "name": "JEIO Co., Ltd."
+    "name": "JEIO Co., Ltd.",
+    "marketCap": 472315944000
   },
   {
     "symbol": "418620.KQ",
-    "name": "E8IGHT"
+    "name": "E8IGHT",
+    "marketCap": 88108855010
   },
   {
     "symbol": "420770.KQ",
-    "name": "GigaVis Co., Ltd."
+    "name": "GigaVis Co., Ltd.",
+    "marketCap": 311190890000
   },
   {
     "symbol": "431190.KQ",
-    "name": "K3I CO LTD"
+    "name": "K3I CO LTD",
+    "marketCap": 37881396520
   },
   {
     "symbol": "437730.KQ",
-    "name": "Samhyun Co Ltd"
+    "name": "Samhyun Co Ltd",
+    "marketCap": 218465136630
   },
   {
     "symbol": "441270.KQ",
-    "name": "Fine M-Tec CO.,LTD."
+    "name": "Fine M-Tec CO.,LTD.",
+    "marketCap": 163419996825
   },
   {
     "symbol": "450330.KQ",
-    "name": "HASS CORP."
+    "name": "HASS CORP.",
+    "marketCap": 64098553620
   },
   {
     "symbol": "452200.KQ",
-    "name": "Mintech"
+    "name": "Mintech",
+    "marketCap": 109287594000
   },
   {
     "symbol": "453340.KS",
-    "name": "Hyundai Green Food"
+    "name": "Hyundai Green Food",
+    "marketCap": 465445530000
   },
   {
     "symbol": "453450.KQ",
-    "name": "Gridwiz"
+    "name": "Gridwiz",
+    "marketCap": 136291677200
   },
   {
     "symbol": "455900.KQ",
-    "name": "Angel Robotics Co Ltd"
+    "name": "Angel Robotics Co Ltd",
+    "marketCap": 371392717850
   },
   {
     "symbol": "456010.KQ",
-    "name": "ICTK Co Ltd"
+    "name": "ICTK Co Ltd",
+    "marketCap": 79331376000
   },
   {
     "symbol": "456070.KQ",
-    "name": null
+    "name": null,
+    "marketCap": 181128590440
   },
   {
     "symbol": "458870.KQ",
-    "name": "SEERS"
+    "name": "SEERS",
+    "marketCap": 137691929600
   },
   {
     "symbol": "460470.KQ",
-    "name": null
+    "name": null,
+    "marketCap": 65843275050
   },
   {
     "symbol": "460940.KQ",
-    "name": "P&S Mechanics"
+    "name": "P&S Mechanics",
+    "marketCap": 61934595960
   },
   {
     "symbol": "461030.KQ",
-    "name": "IMBDX Inc"
+    "name": "IMBDX Inc",
+    "marketCap": 163587142500
   },
   {
     "symbol": "461300.KQ",
-    "name": "i-Scream Media"
+    "name": "i-Scream Media",
+    "marketCap": 190456493450
   },
   {
     "symbol": "462510.KQ",
-    "name": "LAMEDITECH Co., Ltd."
+    "name": "LAMEDITECH Co., Ltd.",
+    "marketCap": 80884372250
   },
   {
     "symbol": "464080.KQ",
-    "name": "SOS LAB CO., LTD."
+    "name": "SOS LAB CO., LTD.",
+    "marketCap": 140853231940
   },
   {
     "symbol": "464280.KQ",
-    "name": "TDS PHARM CO LTD"
+    "name": "TDS PHARM CO LTD",
+    "marketCap": 88423720000
   },
   {
     "symbol": "468760.KQ",
-    "name": "Eugene SPAC X"
+    "name": "Eugene SPAC X",
+    "marketCap": 8861600000
   },
   {
     "symbol": "469900.KQ",
-    "name": "Hana 31 SPAC"
+    "name": "Hana 31 SPAC",
+    "marketCap": 11266050000
   },
   {
     "symbol": "472230.KQ",
-    "name": "SK Securities No.11 SPAC"
+    "name": "SK Securities No.11 SPAC",
+    "marketCap": 8559300000
   },
   {
     "symbol": "473000.KQ",
-    "name": "SK Securities No.12 SPAC"
+    "name": "SK Securities No.12 SPAC",
+    "marketCap": 6851697930
   },
   {
     "symbol": "473050.KQ",
-    "name": "Yuanta SPAC 15"
+    "name": "Yuanta SPAC 15",
+    "marketCap": 13963918008
   },
   {
     "symbol": "473370.KQ",
-    "name": "BNK SPAC 2"
+    "name": "BNK SPAC 2",
+    "marketCap": 8420000000
   },
   {
     "symbol": "473950.KQ",
-    "name": null
+    "name": null,
+    "marketCap": 8950500000
   },
   {
     "symbol": "474490.KQ",
-    "name": "Yuanta SPAC 16"
+    "name": "Yuanta SPAC 16",
+    "marketCap": 10992448005
   },
   {
     "symbol": "474660.KQ",
-    "name": "Shinhan 12th Special Purpose Acquisition Co"
+    "name": "Shinhan 12th Special Purpose Acquisition Co",
+    "marketCap": 11509197915
   },
   {
     "symbol": "474930.KQ",
-    "name": "Shinhan 13th Special Purpose Acquisition Company"
+    "name": "Shinhan 13th Special Purpose Acquisition Company",
+    "marketCap": 7602000000
   },
   {
     "symbol": "475240.KQ",
-    "name": "Hana 32 Special Purpose Acquisition Co"
+    "name": "Hana 32 Special Purpose Acquisition Co",
+    "marketCap": 6688000000
   },
   {
     "symbol": "475250.KQ",
-    "name": "Hana 33 SPAC"
+    "name": "Hana 33 SPAC",
+    "marketCap": 7733000000
   },
   {
     "symbol": "476080.KQ",
-    "name": null
+    "name": null,
+    "marketCap": 128374997080
   },
   {
     "symbol": "476470.KQ",
-    "name": "KB No.28 SPAC"
+    "name": "KB No.28 SPAC",
+    "marketCap": 11532975000
   },
   {
     "symbol": "477340.KQ",
-    "name": "HMCIB No.7 SPECIAL PURPOSE ACQUISITION COMPANY"
+    "name": "HMCIB No.7 SPECIAL PURPOSE ACQUISITION COMPANY",
+    "marketCap": 14832248025
   },
   {
     "symbol": "477380.KQ",
-    "name": null
+    "name": null,
+    "marketCap": 16183798002
   },
   {
     "symbol": "477470.KQ",
-    "name": "Mirae Asset Vision SPAC 5"
+    "name": "Mirae Asset Vision SPAC 5",
+    "marketCap": 11206597200
   },
   {
     "symbol": "477530.KQ",
-    "name": "Korea No.14 Special Purpose Acquisition Co., Ltd."
+    "name": "Korea No.14 Special Purpose Acquisition Co., Ltd.",
+    "marketCap": 9615190000
   },
   {
     "symbol": "477760.KQ",
-    "name": "DB Finance No.12 SPAC"
+    "name": "DB Finance No.12 SPAC",
+    "marketCap": 12059597935
   },
   {
     "symbol": "478110.KQ",
-    "name": "Ebest No 6 SPAC"
+    "name": "Ebest No 6 SPAC",
+    "marketCap": 10039998000
   },
   {
     "symbol": "478390.KQ",
-    "name": "KB No.29 SPAC"
+    "name": "KB No.29 SPAC",
+    "marketCap": 12626597970
   },
   {
     "symbol": "478440.KQ",
-    "name": "MIRAE ASSET VISION SPECIAL PURPOSE ACQUISITION 6 COMPANY"
+    "name": "MIRAE ASSET VISION SPECIAL PURPOSE ACQUISITION 6 COMPANY",
+    "marketCap": 13846140000
   },
   {
     "symbol": "478780.KQ",
-    "name": null
+    "name": null,
+    "marketCap": 16017750000
   },
   {
     "symbol": "479880.KQ",
-    "name": "KOREA NO.15 SPECIAL PURPOSE ACQUISITION CO., LTD."
+    "name": "KOREA NO.15 SPECIAL PURPOSE ACQUISITION CO., LTD.",
+    "marketCap": 13726260000
   },
   {
     "symbol": "481890.KQ",
-    "name": null
+    "name": null,
+    "marketCap": 12753447990
   },
   {
     "symbol": "482520.KQ",
-    "name": "Kyobo 16 SPAC"
+    "name": "Kyobo 16 SPAC",
+    "marketCap": 12383000000
   },
   {
     "symbol": "950110.KQ",
-    "name": "SBI FinTech Solutions Co., Ltd."
+    "name": "SBI FinTech Solutions Co., Ltd.",
+    "marketCap": 114057513900
   },
   {
     "symbol": "950130.KQ",
-    "name": "Access Bio, Inc."
+    "name": "Access Bio, Inc.",
+    "marketCap": 187317372000
   },
   {
     "symbol": "950160.KQ",
-    "name": "Kolon TissueGene, Inc."
+    "name": "Kolon TissueGene, Inc.",
+    "marketCap": 1378606992750
   },
   {
     "symbol": "950220.KQ",
-    "name": "NeoImmuneTech, Inc." 
+    "name": "NeoImmuneTech, Inc.",
+    "marketCap": 24400499000
   }
 ]
