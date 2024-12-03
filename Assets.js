@@ -43,7 +43,8 @@ const getETF = async () => {
           stock.exchangeShortName === 'NYSE' ||
           stock.exchangeShortName === 'NASDAQ' ||
           stock.exchangeShortName === 'KSC' ||
-          stock.exchangeShortName === 'KOE'
+          stock.exchangeShortName === 'KOE' ||
+          stock.exchangeShortName === 'AMEX'
       )
       .map((stock) => ({
         symbol: stock.symbol,
@@ -118,7 +119,7 @@ const insertFileToAssets = async (file, type, exchange) => {
     }
 
     const name =
-      asset.name.length > 100 ? asset.name.slice(0, 100) : asset.name;
+      asset.name.length > 120 ? asset.name.slice(0, 120) : asset.name;
 
     console.log('save: ', type, asset.symbol, exchange, name, asset.marketCap);
     await insertAsset(type, asset.symbol, exchange, name, asset.marketCap);
@@ -224,16 +225,15 @@ const updateKoreanNames = async (file) => {
     ['KOSDAQ', 300],
     ['NASDAQ', 512],
     ['NYSE', 513],
+    ['AMEX', 529],
   ]);
 
   for (const asset of assets) {
-    const symbol = asset.exchange.startsWith('K')
-      ? asset.symbol.slice(0, -3)
-      : asset.symbol;
+    // const symbol = asset.exchange.startsWith('K')
+    //   ? asset.symbol.slice(0, -3)
+    //   : asset.symbol;
 
-    const params = `?PDNO=${symbol}&PRDT_TYPE_CD=${typeCode.get(
-      asset.exchange
-    )}`;
+    const params = `?PDNO=${asset.symbol}&PRDT_TYPE_CD=${typeCode.get('AMEX')}`;
 
     try {
       const resp = await axios(endpoint + params, { headers });
@@ -261,17 +261,21 @@ const updateKoreanNames = async (file) => {
 // getStocksOfExchange('KSC');
 // getStocksOfExchange('NASDAQ');
 // getStocksOfExchange('NYSE');
+// getStocksOfExchange('AMEX');
 // getForexesList();
 
 // await insertFileToAssets('results/stocksOfKOE.json', 'stock', 'KOSDAQ');
 // await insertFileToAssets('results/stocksOfKSC.json', 'stock', 'KOSPI');
 // await insertFileToAssets('results/stocksOfNASDAQ.json', 'stock', 'NASDAQ');
 // await insertFileToAssets('results/stocksOfNYSE.json', 'stock', 'NYSE');
+// await getETF();
 // await updateEtfType('results/ETF.json');
 // await insertForexToAssets('results/Forex.json');
 
+// await insertFileToAssets('results/stocksOfAMEX.json', 'stock', 'AMEX');
+
 // await getAllAssets();
 
-await updateKoreanNames('results/assets.json');
+// await updateKoreanNames('results/stocksOfAMEX.json');
 
 connection.end();
