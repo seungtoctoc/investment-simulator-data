@@ -274,7 +274,7 @@ const updateKoreanNames = async (file) => {
 
 // await insertFileToAssets('results/stocksOfAMEX.json', 'stock', 'AMEX');
 
-// await getAllAssets();
+await getAllAssets();
 
 // await updateKoreanNames('results/stocksOfAMEX.json');
 

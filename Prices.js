@@ -65,5 +65,5 @@ const getPricesAtBeginningOfMonth = async (file) => {
   }
 };
 
-await getPricesAtBeginningOfMonth('results/assetsForPrices.json');
+// await getPricesAtBeginningOfMonth('results/assetsForPrices.json');
 connection.end();
